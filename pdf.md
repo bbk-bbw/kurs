@@ -1,1 +1,1 @@
-<object data="/docs/document.pdf" width="1000" height="1000" type='application/pdf'></object>
+<a href="docx/document.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>

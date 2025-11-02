@@ -24,3 +24,10 @@ iframe.pdf {
   height: 80vh;       /* Set height to 80% of the viewport height */
   width: 100%;        /* Ensure it fills the container width */
 }
+
+/*
+ * Make the main content area (and embedded PDFs) wider
+*/
+#quartz-body > .center {
+  max-width: none; /* Removes the default width limit */
+}

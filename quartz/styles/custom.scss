@@ -15,7 +15,17 @@
   max-height: 40vh; /* You can adjust '40vh' (40% of viewport height) */
 }
 
-/* A small tweak to make sure the explorer list itself is scrollable */
+/*
+ * Give the Explorer component priority in the sidebar.
+ * It will grow to fill available space, and its 
+ * inner list will scroll if it's too long.
+ */
+.explorer {
+  flex: 1;
+  overflow-y: hidden; /* Hide outer scrollbar */
+}
+
 .explorer-content {
-  overflow-y: auto;
+  overflow-y: auto; /* Enable inner scrollbar */
+  height: 100%;
 }

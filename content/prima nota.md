@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-02T14:04:52.057+01:00","modified":"2025-11-02T14:29:54.276+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-02T14:04:52.057+01:00","modified":"2025-11-02T14:32:45.875+01:00","tags":["tag1"],"cssclasses":""}
 ---
 
 ### Auftrag: Transfer Praxis-Theorie

@@ -29,3 +29,8 @@
   overflow-y: auto; /* Enable inner scrollbar */
   height: 100%;
 }
+
+/* Make all callout titles 20pt */
+.callout-title .callout-title-inner p {
+  font-size: 20pt;
+}

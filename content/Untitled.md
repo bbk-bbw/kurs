@@ -1,9 +1,7 @@
 ---
-{"publish":true,"created":"2025-11-02T14:26:55.838+01:00","modified":"2025-11-02T14:27:37.229+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-02T14:26:55.838+01:00","modified":"2025-11-02T14:29:45.377+01:00","cssclasses":""}
 ---
 
----
-dg-publish: true
 ---
 ## Auftrag
 

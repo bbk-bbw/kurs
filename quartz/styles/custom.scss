@@ -31,3 +31,8 @@ iframe.pdf {
 #quartz-body > .center {
   max-width: none; /* Removes the default width limit */
 }
+
+/* Stop folder list titles from line-breaking */
+.section-ul .desc h3 a {
+  text-wrap: nowrap;
+}

@@ -37,6 +37,7 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
+    // **YOUR FIX IS HERE:** Moved TOC *above* Explorer
     Component.DesktopOnly(Component.TableOfContents({ title: "Inhalt" })),
     Component.Explorer({ title: "Kursübersicht" }),
     //Component.Graph({ title: "Verbindungen" }),
@@ -60,7 +61,8 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    // **ERROR FIX IS HERE:** Renamed this to match the other layout
+    Component.Explorer({ title: "Kursübersicht" }),
   ],
   right: [],
 }

@@ -1,10 +1,10 @@
 ---
-{"publish":true,"created":"2025-11-02T14:04:52.057+01:00","modified":"2025-11-02T14:32:45.875+01:00","tags":["tag1"],"cssclasses":""}
+{"publish":true,"created":"2025-11-02T14:04:52.057+01:00","modified":"2025-11-02T15:05:12.369+01:00","tags":["tag1"],"cssclasses":""}
 ---
 
 ### Auftrag: Transfer Praxis-Theorie
 
->[!abstract] In den vorangegangenen Schritten haben Sie in Rollenspielen herausfordernde Situationen erlebt (Praxis) und sich mit den Grundlagen des Reifeprozesses (Kap. 5.1) auseinandergesetzt (Theorie).
+>[!abstract] <span style="font-size: 20px;">In den vorangegangenen Schritten haben Sie in Rollenspielen herausfordernde Situationen erlebt (Praxis) und sich mit den Grundlagen des Reifeprozesses (Kap. 5.1) auseinandergesetzt (Theorie).</span>
 >
 > In diesem Auftrag verknüpfen wir nun Ihre praktischen Erfahrungen aus dem Rollenspiel mit den konkreten Handlungsempfehlungen aus dem Handbuch (Kap. 5.2) und schliessen mit einer persönlichen Reflexion ab.
 

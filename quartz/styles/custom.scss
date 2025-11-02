@@ -9,3 +9,8 @@
  * 2. Manage its own scrolling if its content is too tall (overflow-y: auto).
  * 3. Have a maximum height to avoid pushing others out (max-height: 40vh).
  */
+
+ /* Make all callout titles 20pt */
+.callout-title .callout-title-inner p {
+  font-size: 20pt;
+}

@@ -41,7 +41,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.TableOfContents({ title: "Inhalt" })),
     Component.Explorer({ title: "Kursübersicht" }),
     Component.Backlinks(),
-    Component.Graph({ title: "Verbindungen" }),
+    //Component.Graph({ title: "Verbindungen" }),
   ],
   right: [],
 }

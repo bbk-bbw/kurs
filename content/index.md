@@ -1,15 +1,16 @@
 ---
-{"publish":true,"created":"2025-11-02T14:17:52.586+01:00","modified":"2025-11-02T15:46:56.713+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-02T14:17:52.586+01:00","modified":"2025-11-02T15:49:08.196+01:00","cssclasses":""}
 ---
 
 ---
 
 # Kurs für BerufsbildnerInnen
-![[assets/welcome.webp]]
+![[assets/welcome.webp|600]]
 ## Willkommen an der Berufsbildungsschule Winterthur!
 Navigieren Sie links durch die Einheiten des Kurses. 
 >[!info]- Internet-Zugang
->Netz: BBW_BMSW
+>
+>Netz: **BBW_BMSW**
 >Benutzername: **Berufsbildnerkurs**
 >Passwort: **BBKHG2025**
 ### [[Daten und Termine]]

@@ -1,3 +1,21 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+/*
+ * Fix for components in the same sidebar (e.g., Explorer and TOC)
+ *
+ * This tells each component inside the left sidebar to:
+ * 1. Not shrink when another component expands (flex-shrink: 0).
+ * 2. Manage its own scrolling if its content is too tall (overflow-y: auto).
+ * 3. Have a maximum height to avoid pushing others out (max-height: 40vh).
+ */
+.sidebar.left > .component {
+  flex-shrink: 0;
+  overflow-y: auto;
+  max-height: 40vh; /* You can adjust '40vh' (40% of viewport height) */
+}
+
+/* A small tweak to make sure the explorer list itself is scrollable */
+.explorer-content {
+  overflow-y: auto;
+}

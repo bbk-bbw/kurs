@@ -14,3 +14,13 @@
 .callout-title .callout-title-inner p {
   font-size: 20pt;
 }
+
+/*
+ * Fix for embedded PDF frames
+ * Overrides the default 16:9 aspect ratio
+*/
+iframe.pdf {
+  aspect-ratio: auto; /* Remove the 16:9 ratio */
+  height: 80vh;       /* Set height to 80% of the viewport height */
+  width: 100%;        /* Ensure it fills the container width */
+}

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Home","created":"2025-11-02T14:17:52.586+01:00","modified":"2025-11-02T15:50:37.429+01:00","cssclasses":""}
+{"publish":true,"title":"Home","created":"2025-11-02T14:17:52.586+01:00","modified":"2025-11-02T15:51:51.889+01:00","cssclasses":""}
 ---
 
 ---
@@ -9,10 +9,9 @@
 ## Willkommen an der Berufsbildungsschule Winterthur!
 Navigieren Sie links durch die Einheiten des Kurses. 
 >[!info]- Internet-Zugang
->
->Netz: **BBW_BMSW**
->Benutzername: **Berufsbildnerkurs**
->Passwort: **BBKHG2025**
+>- Netz: **BBW_BMSW**
+>- Benutzername: **Berufsbildnerkurs**
+>- Passwort: **BBKHG2025**
 ### [[Daten und Termine]]
 
 | **Tag 1**                                                                                                                                        | **Tag 2**                                                     | **Tag 3**                                            | Tag 4                                                                                          | *Dokumentation* (Asynchroner Tag)                |

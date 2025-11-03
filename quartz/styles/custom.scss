@@ -36,3 +36,11 @@ iframe.pdf {
 .section-ul .desc h3 a {
   text-wrap: nowrap;
 }
+
+/*
+ * Customize the size of the hover popover window
+*/
+.popover-hint .popover {
+  width: 500px;
+  max-height: 600px;
+}

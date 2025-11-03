@@ -1,7 +1,6 @@
 ---
-{"publish":true,"created":"2025-11-03T19:32:34.493+01:00","modified":"2025-11-03T19:39:17.111+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-03T19:32:34.493+01:00","modified":"2025-11-03T20:01:28.679+01:00","cssclasses":""}
 ---
-
 
 ## Marktplatz der Kompetenzen
 
@@ -23,7 +22,7 @@
 ---
 ### Vorbereitung (Individuell, 20 Min. – _vor_ dem Auftrag)
 
-1. **Themenwahl & Vertiefung:** Wählen Sie ein Thema (Podcast) aus der Liste. Hören Sie den Podcast aufmerksam an.
+1. **Themenwahl & Vertiefung:** Wählen Sie ein [[Ressourcen/Podcast-Reihe/00 Themen\|Thema]] aus der Liste. Hören Sie den Podcast aufmerksam an.
     
 2. **3-2-1 Methode:** Notieren Sie auf Ihrem **persönlichen Notizblock**:
     

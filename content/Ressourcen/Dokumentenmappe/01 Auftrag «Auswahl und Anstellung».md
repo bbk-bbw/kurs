@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-03T13:38:40.727+01:00","modified":"2025-11-03T14:14:57.652+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-03T13:38:40.727+01:00","modified":"2025-11-03T14:18:31.764+01:00","cssclasses":""}
 ---
 
 
@@ -24,7 +24,7 @@
 
 ### Ablauf und Aufgaben
 
-1. Lesen Sie im Ordner Handbuch Teil A den Teil A2 Auswahl und Anstellung die **Unterkapiteln [[2.1 Anforderungsprofil.pdf|2.1 Anforderungsprofil]] und [[Ressourcen/Kapiteln/2.2\|2.2 Selektion]]**.
+1. Lesen Sie im Ordner Handbuch Teil A den Teil A2 Auswahl und Anstellung die **Unterkapiteln [[2.1 Anforderungsprofil.pdf|2.1 Anforderungsprofil]] und [[Ressourcen/Kapiteln/A2.2\|2.2 Selektion]]**.
 2. Erstellen Sie ein **Anforderungsprofil** für Ihren Betrieb mithilfe der Checkliste, der schulischen Anforderungen.
 3. Kommentieren Sie die **schulischen Anforderungen** mit **konkreten Beispiele** von Berufssituationen, in dem diese Anforderung erwünscht sind.
 4. Reflektieren Sie wie Sie wichtige Kompetenzen der Kandidaten im Auswahlprozess beobachten können.

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-03T13:59:29.337+01:00","modified":"2025-11-03T14:00:17.634+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-03T13:59:29.337+01:00","modified":"2025-11-04T06:45:02.346+01:00","cssclasses":""}
 ---
 
 ## Berufsbildner/innen - Vorbilder und Coaches für den Lernerfolg
@@ -25,6 +25,9 @@
 >* Sie einen **positiven Führungsstil** entwickeln, der eine offene und motivierende Lernatmosphäre schafft.
 
 ---
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSGwTrNGMFEYjBVlsPk5STJjC67X5fPyetW32-Pmw1dJQD_dLefjpjnG39S3Ib6f4-EW1JIdGoPORB8/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="1440" height="839" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 
 <iframe src="https://aburossi.github.io/prezi/BBK/rolle_berufsbildnerin/#/" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="550px" width="100%" allowfullscreen></iframe>
 

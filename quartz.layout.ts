@@ -38,9 +38,9 @@ export const defaultContentPageLayout: PageLayout = {
       ],
     }),
     // **YOUR FIX IS HERE:** Moved TOC *above* Explorer
-    Component.DesktopOnly(Component.TableOfContents({ title: "Inhalt" })),
+    //Component.DesktopOnly(Component.TableOfContents({ title: "Inhalt" })),
     Component.Explorer({ title: "Kursübersicht" }),
-    Component.Backlinks(),
+    //Component.Backlinks(),
     //Component.Graph({ title: "Verbindungen" }),
   ],
   right: [],

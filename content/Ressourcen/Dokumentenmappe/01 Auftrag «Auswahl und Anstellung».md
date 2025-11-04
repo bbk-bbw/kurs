@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-03T13:38:40.727+01:00","modified":"2025-11-03T13:52:00.908+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-03T13:38:40.727+01:00","modified":"2025-11-03T14:18:31.764+01:00","cssclasses":""}
 ---
 
 
@@ -24,15 +24,15 @@
 
 ### Ablauf und Aufgaben
 
-1. Lesen Sie im Ordner Handbuch Teil A den Teil A2 Auswahl und Anstellung die **Unterkapiteln [[2.1 Anforderungsprofil.pdf|2.1 Anforderungsprofil]] und [[Ressourcen/Kapiteln/2.2\|2.2 Selektion]]**.
+1. Lesen Sie im Ordner Handbuch Teil A den Teil A2 Auswahl und Anstellung die **Unterkapiteln [[2.1 Anforderungsprofil.pdf|2.1 Anforderungsprofil]] und [[Ressourcen/Kapiteln/A2.2\|2.2 Selektion]]**.
 2. Erstellen Sie ein **Anforderungsprofil** für Ihren Betrieb mithilfe der Checkliste, der schulischen Anforderungen.
 3. Kommentieren Sie die **schulischen Anforderungen** mit **konkreten Beispiele** von Berufssituationen, in dem diese Anforderung erwünscht sind.
 4. Reflektieren Sie wie Sie wichtige Kompetenzen der Kandidaten im Auswahlprozess beobachten können.
 5. Erstellen Sie einen konkreten **Ablaufplan der Schnupperlehre** Ihren Beruf.
 ### Hilfsmittel
-- Handbuch A2 Auswahl und Anstellung, 
-	- [[2.1 Anforderungsprofil.pdf|2.1 Anforderungsprofil]] 
-	- [[2.2 Selektion.pdf|2.2 Selektion]]**.
+- Handbuch A2 Auswahl und Anstellung
+	* **[[2.1 Anforderungsprofil.pdf|2.1 Anforderungsprofil]]**
+	* **[[2.2 Selektion.pdf|2.2 Selektion]]**
 - Webseite Berufsbildung.ch mit [Merkblätter](https://www.berufsbildung.ch/de/search?type=document&media_langcode=de&document_type=ab2c1326-d649-423e-86ea-251238836841), [Checklisten](https://www.berufsbildung.ch/de/search?type=document&media_langcode=de&document_type=5e3a7084-baf0-4d94-95e2-51a896945098), [Formulare](https://www.berufsbildung.ch/de/search?type=document&media_langcode=de&document_type=09db9584-6cea-40ef-a627-579cd9382b7f)
 - [Home - Anforderungsprofile.ch](https://www.anforderungsprofile.ch/)
 - eigene Materialien aus dem Betrieb

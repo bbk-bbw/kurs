@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-03T19:32:34.493+01:00","modified":"2025-11-03T20:01:28.679+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-03T19:32:34.493+01:00","modified":"2025-11-04T05:55:54.767+01:00","cssclasses":""}
 ---
 
 ## Marktplatz der Kompetenzen
@@ -10,9 +10,9 @@
 > 
 > Das Ziel des Auftrags ist, dass Sie...
 > 
-> - ...Ihr eigenes Thema (3-2-1) strukturiert aufbereiten und präsentieren können.
+> - ...Ihr eigenes Thema strukturiert aufbereiten und präsentieren können.
 >     
-> - ...die Kernaussagen (3-2) von mindestens 8 verschiedenen Themen aktiv aufnehmen.
+> - ...die Kernaussagen von mindestens 8 verschiedenen Themen aktiv aufnehmen.
 >     
 > - ...Handlungsmuster und Parallelen zwischen den Themen erkennen und diskutieren.
 >     

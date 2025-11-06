@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-03T13:59:29.225+01:00","modified":"2025-11-03T15:01:35.593+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-03T13:59:29.225+01:00","modified":"2025-11-06T13:46:48.537+01:00","cssclasses":""}
 ---
 
 ## Auftrag
@@ -8,25 +8,3 @@
 
 ---
 
-**Ergebnisse festhalten:**
-
-Auf dem Pinboard finden Sie **[vier beschriftete Bereiche](https://tools.fobizz.com/pinboard/public_boards/a9d339a9-054f-4a8c-a319-61304fd5a8e5?token=830e6af7c1488139695d8ef4536b670b)**, die den Reflexionsfragen entsprechen:
-
-- **Ansätze und Methoden in der Ausbildungspraxis**
-- **Herausforderungen im Umgang mit Jugendlichen**
-- **Lösungsansätze für Konflikte**
-- **Best Practices aus Ihrem Berufsfeld**
-
-*Halten Sie die Ergebnisse Ihrer Gruppendiskussion in diesen Bereichen fest. Verwenden Sie die **neuen Karten** auf dem Pinboard, um Ihre **wichtigsten Gedanken und Ideen aus der Diskussion** zu notieren.*
-
->[!bug]- [Pinboard](https://tools.fobizz.com/pinboard/public_boards/a9d339a9-054f-4a8c-a319-61304fd5a8e5?token=830e6af7c1488139695d8ef4536b670b)
-><iframe src="https://tools.fobizz.com/pinboard/public_boards/a9d339a9-054f-4a8c-a319-61304fd5a8e5?token=830e6af7c1488139695d8ef4536b670b" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="700px" width="100%" allowfullscreen></iframe>
-
----
-## Weiter
-[[10 Tag 1/20 Eigenheiten junger Erwachsener/03 Lebenskurven]]
-
-## Glossar
-[[Ressourcen/Glossar/Entwicklungspsychologie]]
-[[Ressourcen/Glossar/Kognitive Entwicklung]]
-[[Ressourcen/Glossar/Reifeprozess]]

@@ -1,10 +1,10 @@
 ---
-{"publish":true,"created":"2025-11-03T13:59:29.228+01:00","modified":"2025-11-03T14:29:56.488+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-03T13:59:29.228+01:00","modified":"2025-11-05T17:49:54.215+01:00","cssclasses":""}
 ---
 
 ### Auftrag - Lebenskurven
 
-> [!abstract] <span style="font-size: 20px;">In diesem Auftrag nehmen Sie sich Zeit, um Ihre **eigene Lebenskurve** allgemein und in Bezug auf Ihre Ausbildung zu formulieren und zu reflektieren. Sie analysieren prägende Erfahrungen und Ereignisse in Ihrem Leben, überlegen, welche Faktoren und Strategien Ihnen geholfen haben, resilient zu bleiben, und reflektieren über Ihre Werte und Ziele und wie Sie diese umgesetzt haben.</span>
+> [!abstract] In diesem Auftrag nehmen Sie sich Zeit, um Ihre **eigene Lebenskurve** **allgemein und in Bezug auf Ihre Ausbildung** zu formulieren und zu reflektieren. Sie analysieren prägende Erfahrungen und Ereignisse in Ihrem Leben, überlegen, welche Faktoren und Strategien Ihnen geholfen haben, resilient zu bleiben, und reflektieren über Ihre Werte und Ziele und wie Sie diese umgesetzt haben.
 
 #### Ablauf
 

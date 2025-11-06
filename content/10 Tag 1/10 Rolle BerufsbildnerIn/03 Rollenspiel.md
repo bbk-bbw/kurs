@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-03T13:59:29.343+01:00","modified":"2025-11-03T14:03:13.811+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-03T13:59:29.343+01:00","modified":"2025-11-05T17:44:28.004+01:00","cssclasses":""}
 ---
 
 ### Rollenspiel "Herausfordernde Situationen im Berufsalltag"
@@ -12,15 +12,14 @@
 
 #### Ablauf
 
-1. **Bildung von Dreiergruppen:**
-   - Teilen Sie sich in Dreiergruppen auf.
+1. **Bildung von Dreiergruppen oder Vierergruppen**
 
 2. **Rollenverteilung:**
    - Bestimmen Sie in jeder Gruppe die Rollen des/der **Berufsbildners/in**, des/der **Lernenden** und des/der **Beobachters/in**.
    - In Vierergruppen übernehmen zwei Teilnehmende die Rolle des/der Beobachters/in.
 
 3. **Situationenauswahl:**
-   - Es gibt **drei Situationen**, die nacheinander durchgespielt werden. Jede Gruppe beginnt mit Situation 1.
+   - Es gibt **drei/vier Situationen**, die nacheinander durchgespielt werden. Jede Gruppe beginnt mit Situation 1.
 
 4. **Vorbereitung:**
    - **Beobachter/in**: Verteilt die **rote Materialkarte** dem Lernende und liest die **Situationsbeschreibung** (orange Karte) laut vor, um dem/der Berufsbildner/in den Anstoss für das Gespräch zu geben.
@@ -28,11 +27,11 @@
    - **Beobachter/in**: Bekommt spezifische **Beobachtungskriterien**, um während des Rollenspiels Notizen zu machen.
 
 5. **Rollenspiel:** 10-15 Minuten
-   - Die **Rollenspieler/innen** spielen die Situationen je ca. 3 Minuten lang durch.
+   - Die **Rollenspieler/innen** spielen die Situationen je **ca. 3 Minuten** lang durch.
    - Der/die **Beobachter/in** macht Notizen anhand der Beobachtungskriterien.
 
 6. **Feedbackrunde:**
-   - Nach drei Rollenspiele geben sich die Teilnehmer Feedback (10') basierend auf den Beobachtungskriterien.
+   - Nach jedem Rollenspiel geben sich die Teilnehmer Feedback (3'-5') basierend auf den Beobachtungskriterien.
    - **Rollenspieler/innen** reflektieren ihre Erfahrungen und diskutieren alternative Handlungsmöglichkeiten.
    - Jede Gruppe füllt auf dem [Pinboard](https://tools.fobizz.com/pinboard/public_boards/1617194e-414a-4c2b-b963-8c2b1b3b999d?token=285c9c3ebd0aa8e230879a4e9034f192) für jede Situation einen Bereich mit je einer Karte zu **Herausforderungen**, **Strategien Berufsbildner*in*** und **Verhaltensweisen Lernende** aus.
 

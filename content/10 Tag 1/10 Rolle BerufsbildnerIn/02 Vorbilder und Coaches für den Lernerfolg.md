@@ -1,10 +1,10 @@
 ---
-{"publish":true,"created":"2025-11-03T13:59:29.340+01:00","modified":"2025-11-03T14:00:19.881+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-03T13:59:29.340+01:00","modified":"2025-11-05T17:39:38.034+01:00","cssclasses":""}
 ---
 
 ## Auftrag
 
->[!note] Überfliegen Sie die Seiten 252-253 im Handbuch. Merken Sie sich die **vier Merkmale eines positiven Vorbilds**. Besprechen Sie in Ihrer Gruppe die folgenden **Reflexionsfragen** und halten Sie Ihre Ergebnisse auf dem Pinboard fest.
+>[!note] Überfliegen Sie die Seiten 252-253 im Handbuch. Merken Sie sich die vier Merkmale eines positiven Vorbilds. Besprechen Sie in Ihrer Gruppe die folgenden Reflexionsfragen und halten Sie Ihre Ergebnisse auf dem Pinboard fest.
 > 
 >> [!Question] **Reflexionsfragen:**
 >> 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-03T14:59:05.994+01:00","modified":"2025-11-06T06:03:09.830+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-03T14:59:05.994+01:00","modified":"2025-11-06T06:07:46.125+01:00","cssclasses":""}
 ---
 
 ## Gleichstellung und sexuelle Belästigung
@@ -42,7 +42,3 @@ Der Podcast thematisiert die Bedeutung von **Chancengleichheit, Gleichstellung u
 >- [Merkblatt 202 – Gleichstellung in der Berufsbildung](https://www.berufsbildung.ch/de/dokumente/merkblatt-202-gleichstellung)
 >- [Bundesgesetz über die Gleichstellung von Frau und Mann](https://www.fedlex.admin.ch/eli/cc/1996/1498_1498_1498/de))
 >- [Merkblatt 209 – Sexuelle Belästigung in der Berufsbildung](https://www.berufsbildung.ch/de/dokumente/merkblatt-209-sexuelle-belaestigung)
-
-
-### ⏫ [[10 Tag 1/30 Merkblätter/03 Podcast-Reihe\|Podcast-Reihe]]
-### ⏩ [[Home]]

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-03T19:32:34.493+01:00","modified":"2025-11-04T05:55:54.767+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-03T19:32:34.493+01:00","modified":"2025-11-06T05:57:36.858+01:00","cssclasses":""}
 ---
 
 ## Marktplatz der Kompetenzen
@@ -22,22 +22,23 @@
 ---
 ### Vorbereitung (Individuell, 20 Min. – _vor_ dem Auftrag)
 
-1. **Themenwahl & Vertiefung:** Wählen Sie ein [[Ressourcen/Podcast-Reihe/00 Themen\|Thema]] aus der Liste. Hören Sie den Podcast aufmerksam an.
-    
-2. **3-2-1 Methode:** Notieren Sie auf Ihrem **persönlichen Notizblock**:
-    
-    - **3** Kernaussagen / Schlüsselerkenntnisse des Podcasts.
-        
-    - **2** konkrete Massnahmen oder Empfehlungen für Ihre Rolle als Berufsbildner/in.
-        
-    - **1** offene Frage zur Umsetzung (z.B. "Wie spreche ich das an, ohne...")
-        
+>[!abstract] Schritt 1. Themenwahl & Vertiefung
+>Wählen Sie ein [[Ressourcen/Podcast-Reihe/00 Themen\|Thema]] aus der Liste. Hören Sie den Podcast aufmerksam an.
+  
+>[!abstract] Schritt 2. 3-2-1 Methode:
+>Notieren Sie:
+>  
+>    - **3** Kernaussagen / Schlüsselerkenntnisse des Podcasts.
+>    
+>    - **2** konkrete Massnahmen oder Empfehlungen für Ihre Rolle als Berufsbildner/in.
+>   
+>    - **1** offene Frage zur Umsetzung (z.B. "Wie spreche ich das an, ohne...")
 
 ---
 
 ### Durchführung: Der Marktplatz (40 Min.)
 
-#### Phase 1: "Home Base" – Der Experten-Tausch (15 Min.)
+>[!abstract] Phase 1: "Home Base" – Der Experten-Tausch (15 Min.)
 
 **Ziel:** Das Wissen der Stammgruppe auf einem Plakat verankern und sich gegenseitig vorstellen.
 
@@ -58,7 +59,7 @@
 
 ---
 
-#### Phase 2: Rotation 1 – Der Wissenstransfer (10 Min.)
+>[!abstract] Phase  2: Rotation 1 – Der Wissenstransfer (10 Min.)
 
 **Ziel:** 4 neue Themen kennenlernen und als Gruppe erstes Feedback geben.
 
@@ -85,7 +86,7 @@
 
 ---
 
-#### Phase 3: Rotation 2 – Der Diskurs & Synthese (10 Min.)
+>[!abstract] Phase 3: Rotation 2 – Der Diskurs & Synthese (10 Min.)
 
 **Ziel:** Gelerntes anwenden, Parallelen ziehen und offene Fragen vertiefen.
 
@@ -122,7 +123,7 @@
 
 ---
 
-#### Phase 4: Abschluss im Plenum (5 Min.)
+>[!abstract] Phase 4: Abschluss im Plenum (5 Min.)
 
 **Ziel:** Zentrale Muster sichtbar machen
 

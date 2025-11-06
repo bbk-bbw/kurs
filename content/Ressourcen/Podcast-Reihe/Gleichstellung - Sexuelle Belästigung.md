@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-03T14:59:05.994+01:00","modified":"2025-11-03T14:59:53.663+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-03T14:59:05.994+01:00","modified":"2025-11-06T06:00:24.653+01:00","cssclasses":""}
 ---
 
 ## Gleichstellung und sexuelle Belästigung
@@ -7,8 +7,11 @@
 Der Podcast thematisiert die Bedeutung von **Chancengleichheit, Gleichstellung und Prävention** im Ausbildungsalltag. Es wird aufgezeigt, wie BerufsbildnerInnen mit **rechtlicher Sicherheit, empathischer Haltung** und **klaren Leitlinien** ein **sicheres und faires Lernumfeld** schaffen – auch bei **heiklen Themen wie Diskriminierung oder sexueller Belästigung**. Mit vielen konkreten Handlungsempfehlungen.
 
 >[!tip] Podcast Gleichstellung und Sexuelle Belästigung
+>
 ><audio controls><source src="https://raw.githubusercontent.com/bbk-bbw/audio/main/podcast/MB_Gleichstellung.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
->>[!info]- **Kapitelübersicht:**  
+>
+>>[!info]- Kapitelübersicht
+>>
 >>**0:00 – Einführung ins Thema**  
 >>Was bedeutet Chancengleichheit in der Berufsbildung konkret? Sensibilisierung für Fairness im Ausbildungsalltag – von Gesetzen bis zur persönlichen Verantwortung.  
 >>**1:04 – Gleichstellung ist mehr als ein Frauenthema**  

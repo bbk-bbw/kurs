@@ -1,16 +1,17 @@
 ---
-{"publish":true,"created":"2025-11-03T13:59:29.337+01:00","modified":"2025-11-06T05:31:54.214+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-03T13:59:29.337+01:00","modified":"2025-11-06T05:43:29.802+01:00","cssclasses":""}
 ---
 
 ## Berufsbildner/innen - Vorbilder und Coaches für den Lernerfolg
 
 >[!abstract] Einführung
->Stellen Sie sich vor, **ein neuer Lernender betritt zum ersten Mal Ihren Arbeitsplatz**. Er ist motiviert und neugierig, aber noch etwas unsicher und sucht Orientierung. Genau hier beginnt **Ihre Rolle als Vorbild und Coach**. Ihre **Begeisterung** für den Beruf und Ihr Verhalten im Alltag werden für den Lernenden entscheidend sein, denn Sie **prägen seine berufliche Identität** und seine **Lernbereitschaft**.
 >
 >* Als Berufsbildner/in **begleiten Sie junge Erwachsene** auf ihrem Weg in die Berufswelt und unterstützen sie bei ihrer **persönlichen und beruflichen Entwicklung**.
 >* Die **Vorbildfunktion** spielt dabei eine **zentrale Rolle**, da Lernende oft **Ihre Verhaltensweisen und Werte übernehmen**.
 >* Ein **gutes Verhältnis** und eine **unterstützende Lernumgebung** sind wichtig, damit der/die Lernende **Vertrauen entwickelt und sich wohlfühlt**.
->>[!question]- Diskussion: Vorbildwirkung im Berufsalltag
+>
+>>[!question] Vorbildwirkung im Berufsalltag
+>>
 >>Die Rolle als Berufsbildner/in fordert nicht nur fachliche Kompetenz, sondern auch persönliche Stärke. Diskutieren Sie die folgenden Fragen in Ihrer Gruppe:
 >>* Welche Ihrer *täglichen Verhaltensweisen* und *Einstellungen* **beeinflussen die Lernenden** besonders?
 >>* Welche *Herausforderungen* haben Sie in Ihrer **Vorbildfunktion** erlebt?

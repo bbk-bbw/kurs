@@ -1,17 +1,16 @@
 ---
-{"publish":true,"created":"2025-11-03T13:59:29.220+01:00","modified":"2025-11-06T05:29:58.560+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-03T13:59:29.220+01:00","modified":"2025-11-06T05:44:56.494+01:00","cssclasses":""}
 ---
 
 ## Eigenheiten der 15- bis 20-Jährigen Lernenden
 
 >[!abstract] Einführung
->Stellen Sie sich vor, ein neuer Lehrling, 16 Jahre alt, beginnt seine Ausbildung in Ihrem Betrieb. Er ist **körperlich reif**, wirkt **selbstbewusst**, aber im Umgang mit Kollegen und Kunden noch etwas **unsicher**.  Wie können Sie ihn optimal in Ihrem Team integrieren und seine **persönliche und berufliche Entwicklung** fördern?
 >
 >* Jugendliche zwischen 15 und 20 Jahren befinden sich in einer **Phase des Umbruchs**: Sie sind weder Kind noch Erwachsener.
 >* Diese **Adoleszenz** ist geprägt von **körperlichen und psychischen Veränderungen**, der Suche nach der eigenen Identität und dem Wunsch nach Unabhängigkeit.
 >* Als Berufsbildner spielen Sie eine wichtige Rolle in dieser Entwicklungsphase und können die Lernenden durch **Verständnis, klare Regeln und gezielte Förderung** unterstützen.
 >
->>[!question]- Diskussion Adoleszenz: Herausforderungen und Chancen im Berufsalltag
+>>[!question] Adoleszenz: Herausforderungen und Chancen im Berufsalltag
 >>
 >>Die [[Ressourcen/Glossar/Adoleszenz]] ist eine **spannende, aber auch herausfordernde Zeit**, sowohl für die Jugendlichen selbst als auch für ihr Umfeld.  Diskutieren Sie in Ihrer Gruppe die folgenden Fragen:
 >>* Welche **typischen Verhaltensweisen** von Jugendlichen in diesem Alter sind Ihnen im (Berufs-)Alltag begegnet?

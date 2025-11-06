@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-03T13:59:29.233+01:00","modified":"2025-11-03T14:15:36.529+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-03T13:59:29.233+01:00","modified":"2025-11-06T05:51:22.229+01:00","cssclasses":""}
 ---
 
 >[!abstract] Fazit
@@ -8,11 +8,3 @@
 >* **Begleitung und Unterstützung:**  **Verständnis, klare Regeln, Geduld und gezielte Förderung** sind wichtig, um Jugendliche in dieser Phase optimal zu begleiten.
 >* **Vorbildfunktion:** Berufsbildner haben eine wichtige **Vorbildfunktion** und prägen die Lernenden in ihrer beruflichen und persönlichen Entwicklung.
 >* **Individuelle Förderung:** Jeder Jugendliche entwickelt sich individuell.  Eine **angepasste Betreuung und Förderung** ist daher unerlässlich.
-
-
-
-### Übersicht Eigenheiten junger Erwachsener
-
-
-
-### ⏩ [[Home\|Startseite]]

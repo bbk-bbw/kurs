@@ -1,12 +1,12 @@
 ---
-{"publish":true,"created":"2025-11-03T13:38:40.742+01:00","modified":"2025-11-03T13:41:59.789+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-03T13:38:40.742+01:00","modified":"2025-11-06T06:16:13.396+01:00","cssclasses":""}
 ---
 
 # Auftrag «Fokus Pubertät»
 ### Rahmenbedingungen:
 - Sozialform: «Einzelarbeit»
 - Zeit: ¾ Stunden = 45 Minuten
-- **WICHTIG**: Die Kurz-Zusammenfassung des gelesenen Textes muss **am 2. Kurstag im Unterricht vorhanden sein**. 
+- **WICHTIG**: Die Kurz-Zusammenfassung des gelesenen Textes muss **am 4. Kurstag im Unterricht vorhanden sein**. 
 ### Ablauf und Aufgabe:
 1. Lesen Sie den Ihnen zugewiesenen Text der Zeitschrift «Geo Kompakt».
 2. Fassen Sie den Text in Stichworten oder ganzen Sätzen zusammen, so dass sie den Inhalt am vierten Kurstag den anderen KursteilnehmerInnen vorstellen können.

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Kurs für Berufsbildner - BBW Winterthur","created":"2025-11-02T14:17:52.586+01:00","modified":"2025-11-05T17:37:10.404+01:00","cssclasses":""}
+{"publish":true,"title":"Kurs für Berufsbildner - BBW Winterthur","created":"2025-11-02T14:17:52.586+01:00","modified":"2025-11-06T06:13:31.419+01:00","cssclasses":""}
 ---
 
 # Kurs für BerufsbildnerInnen
@@ -7,7 +7,9 @@
 
 **<span style="font-size: 25px;">Willkommen an der Berufsbildungsschule Winterthur!</span>**
 
->[!success] Navigieren Sie links durch die Modulen des Kurses. 
+>[!success] Navigieren Sie links durch die Modulen des Kurses.
+
+>[!info] [[Ressourcen/Handbuch Betriebliche Grundbildung]]
 
 >[!info]- Internet-Zugang
 >- Netz: **BBW_BMSW**

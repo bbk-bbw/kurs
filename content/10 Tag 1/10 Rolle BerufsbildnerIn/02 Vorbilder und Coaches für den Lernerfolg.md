@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-03T13:59:29.340+01:00","modified":"2025-11-06T06:23:57.942+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-03T13:59:29.340+01:00","modified":"2025-11-06T06:28:09.362+01:00","cssclasses":""}
 ---
 
 ## Auftrag
@@ -17,10 +17,5 @@
 >> - Welche **Herausforderungen** sehen Sie in Bezug auf die drei Ansätze und wie könnten Sie diese **meistern**?
 
 Auf dem Pinboard finden Sie **[vier beschriftete Bereiche](https://tools.fobizz.com/pinboard/public_boards/d08684f4-97a1-4bce-9c79-772c0b01a871?token=919642dc5532154ffb797cf06da1c76b)**, die den Reflexionsfragen entsprechen. **Halten Sie die Ergebnisse Ihrer Gruppendiskussion in diesen Bereichen fest**. Erstellen Sie eine neue Karte in der jeweiligen Bereich, um Ihre **wichtigsten Gedanken und Ideen** zu notieren.
-
-- **Positives Vorbild**
-- **Coaching-Methoden**
-- **Massgebender Führungsstil**
-- **Herausforderungen und Lösungen**
 
 >[!bug]- [Pinboard](https://app.fobizz.com/pinboard/public_boards/d08684f4-97a1-4bce-9c79-772c0b01a871?embed=true&token=919642dc5532154ffb797cf06da1c76b)

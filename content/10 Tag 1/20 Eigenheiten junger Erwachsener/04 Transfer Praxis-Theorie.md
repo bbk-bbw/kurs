@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-03T13:59:29.230+01:00","modified":"2025-11-06T05:50:43.845+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-03T13:59:29.230+01:00","modified":"2025-11-06T07:55:09.140+01:00","cssclasses":""}
 ---
 
 ### Transfer Praxis-Theorie
@@ -66,9 +66,8 @@
 > 2.  **Entwicklungspotenzial:** Wo und wie möchten Sie sich in diesem Bereich gezielt verbessern oder weiterentwickeln?
 
 >[!bug] Persönliche Reflexion
->
-><iframe src="https://app.lumi.education/api/v1/run/gdxlMR/embed" width="1088" height="720" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://app.Lumi.education/api/v1/h5p/core/js/h5p-resizer.js" charset="UTF-8"></script>
 
+<iframe src="https://app.lumi.education/api/v1/run/gTlD9X/embed" width="1088" height="720" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://app.Lumi.education/api/v1/h5p/core/js/h5p-resizer.js" charset="UTF-8"></script>
 
 ## Weiter
 

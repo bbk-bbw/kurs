@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-12T17:23:34.642+01:00","modified":"2025-11-12T17:41:04.661+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-12T17:23:34.642+01:00","modified":"2025-11-12T17:45:49.341+01:00","cssclasses":""}
 ---
 
 # Materialien
@@ -9,8 +9,6 @@
 >[Direkter Link](https://docs.google.com/presentation/d/1LjFI2hSOpt2YTmwaw07bd9EiV70YA9bX/edit?usp=sharing&ouid=105399511178079176872&rtpof=true&sd=true)
 >
 ><iframe src="https://drive.google.com/file/d/1LjFI2hSOpt2YTmwaw07bd9EiV70YA9bX/preview" width="100%" height="600" allow="autoplay"></iframe>
-
-<iframe name="myiFrame" width="100%" height="720px" src="https://drive.google.com/file/d/1LjFI2hSOpt2YTmwaw07bd9EiV70YA9bX/preview" scrolling="no" marginwidth="0" marginheight="0" style="border:0px none #ffffff;"></iframe>
 
 >[!abstract]- ⤵ Fallbeispiele
 >

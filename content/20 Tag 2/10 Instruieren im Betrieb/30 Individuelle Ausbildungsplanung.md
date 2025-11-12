@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-10T10:50:28.152+01:00","modified":"2025-11-12T15:27:54.027+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-10T10:50:28.152+01:00","modified":"2025-11-12T15:55:14.552+01:00","cssclasses":""}
 ---
 
 ## Phase 3: Detailplanung – Arbeitsplanung und Begleitung (Individualarbeit)
@@ -16,6 +16,7 @@
 >3.  **Abschluss:** Exportieren Sie Ihr Ergebnis als **Word-Datei** und speichern Sie diese auf Ihrem Laptop. Sie benötigen sie in der nächsten Phase für das Peer-Feedback.
 
 >[!bug]- Dokumentationstool
+>
 ><iframe src="https://app.lumi.education/api/v1/run/RTmfKK/embed" width="1088" height="720" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://app.Lumi.education/api/v1/h5p/core/js/h5p-resizer.js" charset="UTF-8"></script>
 
 >[!abstract] Peer-Feedback und gemeinsames Fazit

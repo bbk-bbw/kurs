@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-12T15:57:55.374+01:00","modified":"2025-11-12T16:08:36.449+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-12T15:57:55.374+01:00","modified":"2025-11-12T16:56:47.319+01:00","cssclasses":""}
 ---
 
 
@@ -43,23 +43,7 @@
 >
 >#### Ablauf
 >1.  **Lektüre (ca. 10 Min):** Lesen Sie im Handbuch das **Kapitel 4.6 (S. 259-261)** und vertiefen Sie Ihr Verständnis der drei Beurteilungsfunktionen.
->2.  **Einzelarbeit (ca. 15 Min):** Öffnen Sie ein leeres Word-Dokument oder nutzen Sie das H5P-Tool. Beantworten Sie die folgenden Fragen bezogen auf **Ihre geplante Aufgabe**.
+>2.  **Einzelarbeit (ca. 15 Min):** Nutzen Sie das H5P-Tool. Beantworten Sie die folgenden Fragen bezogen auf **Ihre geplante Aufgabe**.
 
->[!bug]- Inhalt für H5P-Tool / Word-Dokument
->
->**Titel: Meine Beurteilungs-Strategie**
->
->**Abschnitt 1: Der formative Checkpoint (Meine Coach-Brille)**
->*   **Frage:** An welchem konkreten Punkt im Prozess (z.B. nach dem Planen, mitten in der Umsetzung) würden Sie ein kurzes Gespräch mit dem Lernenden führen?
->*   **Frage:** Was wäre Ihre wichtigste, offene Frage, um den Lernprozess zu unterstützen (z.B. "Welcher Schritt bereitet dir am meisten Kopfzerbrechen?", "Erzähl mal, wie du vorgehen willst.")?
->
->**Abschnitt 2: Die summativen Kriterien (Meine Richter-Brille)**
->*   **Frage:** Was sind die 3 wichtigsten und fairsten Kriterien, nach denen Sie am Ende das Ergebnis der Aufgabe beurteilen würden?
->*   **Tipp:** Formulieren Sie die Kriterien so klar und verständlich, dass Sie sie dem Lernenden schon zu Beginn der Aufgabe mitteilen könnten (vgl. Handbuch S. 261).
->    *   Kriterium 1: ...
->    *   Kriterium 2: ...
->    *   Kriterium 3: ...
-
----
-## Weiter
-[[03 Selbstreflexion als Motor des Lernens]]
+>[!bug]- Dokumentationswerkzeug
+><iframe src="https://app.lumi.education/api/v1/run/ky65Q0/embed" width="1088" height="720" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://app.Lumi.education/api/v1/h5p/core/js/h5p-resizer.js" charset="UTF-8"></script>

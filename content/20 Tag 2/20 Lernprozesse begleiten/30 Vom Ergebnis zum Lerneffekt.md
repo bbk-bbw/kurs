@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-12T15:58:00.066+01:00","modified":"2025-11-12T16:09:00.908+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-12T15:58:00.066+01:00","modified":"2025-11-12T17:22:13.353+01:00","cssclasses":""}
 ---
 
 
@@ -12,7 +12,6 @@
 > - Selbstreflexion ist die Fähigkeit, das eigene Handeln, Denken und Fühlen zu analysieren, um daraus für die Zukunft zu lernen.
 >     
 > - Ihre Rolle ist es, durch gezielte, offene Fragen diesen inneren Dialog beim Lernenden anzustossen.
->     
 
 > [!success]- Lernziele  
 > In dieser Einheit konzentrieren wir uns auf den wichtigsten Schritt für nachhaltiges Lernen.  
@@ -27,11 +26,9 @@
 
 ---
 
-### Phase 3: Unser Reflexions-Werkzeugkasten (Gruppenarbeit)
-
-> [!note]  
+> [!note]  Fragen zum Nachdenken
 > Gute Fragen sind das wichtigste Werkzeug eines Lernbegleiters. In dieser Phase erstellen wir gemeinsam einen Werkzeugkasten mit Fragen, die Lernende wirklich zum Nachdenken anregen.
-> 
+
 > #### Ablauf
 > 
 > 1. **Lektüre & Perspektivwechsel (ca. 10 Min):** Lesen Sie im Handbuch das **Kapitel 4.5 (S. 255-257)**. Denken Sie dabei an Ihre eigene Lehrzeit: Welche Art von Gespräch nach einer Aufgabe hat Ihnen am meisten gebracht?
@@ -39,10 +36,9 @@
 > 2. **Gruppenarbeit (ca. 20 Min):** Entwerfen Sie auf dem Fobizz Pinboard Ihrer Tischgruppe einen gemeinsamen "Reflexions-Leitfaden" für einen Lernenden.
 >     
 
-> [!bug]- Inhalt für die Gruppen-Fobizz Pinboards
-> 
-> **Board-Titel: Gruppe [Tisch Nr.] - Unser Reflexions-Werkzeugkasten**
-> 
+> [!bug]- Fragesammlung
+
+
 > **Spalte 1: Fragen zum PROZESS**
 > 
 > - **Auftrag:** Sammelt offene Fragen, die dem Lernenden helfen, über sein Vorgehen nachzudenken.

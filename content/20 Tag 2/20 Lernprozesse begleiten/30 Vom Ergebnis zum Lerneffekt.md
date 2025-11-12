@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-12T15:58:00.066+01:00","modified":"2025-11-12T17:22:13.353+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-12T15:58:00.066+01:00","modified":"2025-11-12T17:33:18.451+01:00","cssclasses":""}
 ---
 
 
@@ -36,29 +36,7 @@
 > 2. **Gruppenarbeit (ca. 20 Min):** Entwerfen Sie auf dem Fobizz Pinboard Ihrer Tischgruppe einen gemeinsamen "Reflexions-Leitfaden" für einen Lernenden.
 >     
 
-> [!bug]- Fragesammlung
+> [!bug]- [Pinboard](https://app.fobizz.com/pinboard/public_boards/0454999e-79dd-44d1-ac51-13b12012f0fa?token=229148a38db484b6700d530853e87672) Fragesammlung
+><iframe src="https://app.fobizz.com/pinboard/public_boards/0454999e-79dd-44d1-ac51-13b12012f0fa?token=229148a38db484b6700d530853e87672" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="700px" width="1200px" allowfullscreen></iframe>
 
-
-> **Spalte 1: Fragen zum PROZESS**
-> 
-> - **Auftrag:** Sammelt offene Fragen, die dem Lernenden helfen, über sein Vorgehen nachzudenken.
-
-
-
-> 
-> **Spalte 2: Fragen zu HERAUSFORDERUNGEN & ERFOLGEN**
-> 
-> - **Auftrag:** Sammelt Fragen, die auf den Umgang mit Schwierigkeiten und auf das Feiern von Erfolgen abzielen.
-
-     
-> 
-> **Spalte 3: Fragen zum LERNTRANSFER**
-> 
-> - **Auftrag:** Sammelt Fragen, die dem Lernenden helfen, das Gelernte in die Zukunft zu übertragen.
-
----
-
-## Weiter
-
-[[04 Fazit - Vom Plan zur Lernbegleitung]]
 

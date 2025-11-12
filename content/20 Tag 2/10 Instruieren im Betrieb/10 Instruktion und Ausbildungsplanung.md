@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-10T10:49:19.564+01:00","modified":"2025-11-10T13:49:14.637+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-10T10:49:19.564+01:00","modified":"2025-11-12T11:12:29.353+01:00","cssclasses":""}
 ---
 
 
@@ -18,13 +18,14 @@
 >* …Sie Ihre Rolle als **didaktischer Begleiter** reflektieren und konkrete Strategien für Fehlermanagement und Delegation entwickeln (Lernziel 3).
 
 ---
-### Aktivierung des Vorwissens (Plenum)
 
->[!note] Ziel dieser ersten Phase ist es, unser gemeinsames Vorwissen zu aktivieren und uns für die Notwendigkeit unterschiedlicher Instruktionsansätze zu sensibilisieren.
+>[!note] Instruktionsansätze in der Praxis
 >
 >#### Ablauf
->1. Wir besprechen die folgenden drei Leitfragen im Plenum.
->2. Halten Sie Ihre Gedanken, Erfahrungen und Beispiele direkt auf unserem gemeinsamen Fobizz Pinboard fest.
+>1.  **Stillarbeit (ca. 10 Min):** Öffnen Sie das Fobizz Pinboard. Lesen Sie die Fragen in den drei Spalten und fügen Sie Ihre eigenen Gedanken, Beispiele und Erfahrungen als **neue Karten** hinzu. 
+>   **Versuchen Sie, zu jeder Spalte mindestens einen Beitrag zu leisten**.
+>
+>2.  **Plenumsdiskussion (ca. 10 Min):** Nachdem alle ihre Gedanken festgehalten haben, besprechen wir die gesammelten Punkte gemeinsam und leiten die Kerngedanken für unsere heutige Lerneinheit ab.
 
 >[!bug]- [Pinboard](https://app.fobizz.com/pinboard/public_boards/62ce96e2-b7a4-4cd6-b275-c77ceaa19ad0?embed=true&token=a998390da0f3f7dc9ffdbece6e451372)
 ><iframe src="https://app.fobizz.com/pinboard/public_boards/62ce96e2-b7a4-4cd6-b275-c77ceaa19ad0?embed=true&token=a998390da0f3f7dc9ffdbece6e451372" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="700px" width="1200px" allowfullscreen></iframe>

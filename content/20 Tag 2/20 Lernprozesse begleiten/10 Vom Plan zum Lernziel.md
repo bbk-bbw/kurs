@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-12T15:57:44.114+01:00","modified":"2025-11-13T04:55:58.272+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-12T15:57:44.114+01:00","modified":"2025-11-13T05:06:35.929+01:00","cssclasses":""}
 ---
 
 
@@ -93,6 +93,12 @@
 >        *   **Ein "anspruchsvolles" Lernziel (K4+):** Was soll der Lernende analysieren, entwickeln oder beurteilen können?
 >
 >*   **Auftrag (dann in der Gruppe):** Stellt euch gegenseitig eure formulierten Lernziele vor. Gebt euch Feedback: Ist der Unterschied klar? Passt das anspruchsvolle Ziel gut zur 6-Schritte-Methode?
+
+### Modul 20 Lernprozesse begleiten
+
+- [[20 Tag 2/20 Lernprozesse begleiten/20 Vom Ziel zur Begleitung\|20 Vom Ziel zur Begleitung]]
+- [[20 Tag 2/20 Lernprozesse begleiten/30 Vom Ergebnis zum Lerneffekt\|30 Vom Ergebnis zum Lerneffekt]]
+- [[20 Tag 2/20 Lernprozesse begleiten/40 Der Weg vom Plan zur Lernbegleitung\|40 Der Weg vom Plan zur Lernbegleitung]]
 
 ---
 ## Weiter

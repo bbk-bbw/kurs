@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-10T10:49:19.564+01:00","modified":"2025-11-13T04:33:40.660+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-10T10:49:19.564+01:00","modified":"2025-11-13T04:47:39.461+01:00","cssclasses":""}
 ---
 
 
@@ -33,4 +33,4 @@
 
 ---
 ## Weiter
-[[02 Methoden im Vergleich]]
+[[20 Tag 2/10 Instruieren im Betrieb/20 Methoden im Berufsalltag]]

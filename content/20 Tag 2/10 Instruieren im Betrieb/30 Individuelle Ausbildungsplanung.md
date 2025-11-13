@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-10T10:50:28.152+01:00","modified":"2025-11-12T15:55:14.552+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-10T10:50:28.152+01:00","modified":"2025-11-13T04:53:15.584+01:00","cssclasses":""}
 ---
 
 ## Phase 3: Detailplanung – Arbeitsplanung und Begleitung (Individualarbeit)
@@ -23,8 +23,8 @@
 >In der letzten Phase dieser Lerneinheit geht es darum, von den individuellen Lösungsansätzen der anderen zu profitieren. Durch gegenseitiges Feedback schärfen Sie Ihre Planung und durch den Austausch im Plenum sammeln wir gemeinsam Best Practices.
 
 > [!note] Peer-Feedback 
-> 1.  **In der Tischgruppe (ca. 15 Min):**
->     - Stellt euch gegenseitig in der Tischgruppe eure Planungen vor. Nutzt dazu eure exportierten Word-Dateien und zeigt sie auf euren Bildschirmen.
+> 1.  **Gruppe (ca. 15 Min):**
+>     - Stellt euch gegenseitig in der Gruppe eure Planungen vor. Nutzt dazu eure exportierten Word-Dateien und zeigt sie auf euren Bildschirmen.
 >     - **Zeitplan:** Jeder hat ca. 4 Minuten (2 Min. Präsentation, 2 Min. Feedback).
 >     - **Gebt konstruktives Feedback** anhand dieser Leitfragen:
 >       -   *Was gefällt dir an diesem Plan besonders gut?*
@@ -32,7 +32,7 @@
 >       -   *Hast du eine ergänzende Idee oder eine Frage zu einem bestimmten Punkt?*
 >
 > 2.  **Synthese & Plenums-Austausch (ca. 10 Min):**
->     - **Auftrag an die Tischgruppe:** Diskutiert kurz: Welches war der **eine, besonders wertvolle Gedanke** oder die **innovativste Idee** aus euren vier Plänen, die es wert ist, mit der ganzen Klasse geteilt zu werden?
+>     - **Auftrag an die Gruppe:** Diskutiert kurz: Welches war der **eine, besonders wertvolle Gedanke** oder die **innovativste Idee** aus euren vier Plänen, die es wert ist, mit der ganzen Klasse geteilt zu werden?
 >     - **Wir diskutieren "Best Practices" im Plenum**.
 
 ---

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-10T10:49:19.564+01:00","modified":"2025-11-13T05:15:15.127+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-10T10:49:19.564+01:00","modified":"2025-11-13T07:43:07.687+01:00","cssclasses":""}
 ---
 
 
@@ -33,8 +33,26 @@
 
 ---
 
-### Weiter im Modul Instruieren im Betrieb
+```dataviewjs
+const current = dv.current();
+const folderParts = current.file.folder.split("/");
+const folderName = folderParts.at(-1);
+const trimmedFolderName = folderName.substring(3); // Remove "20 ", "30 ", etc.
 
-- [[20 Tag 2/10 Instruieren im Betrieb/20 Methoden im Berufsalltag\|20 Methoden im Berufsalltag]]
-- [[20 Tag 2/10 Instruieren im Betrieb/30 Individuelle Ausbildungsplanung\|30 Individuelle Ausbildungsplanung]]
-- [[20 Tag 2/10 Instruieren im Betrieb/40 Feedback und Fazit\|40 Feedback und Fazit]]
+dv.header(3, `Weiter im Modul ${trimmedFolderName}`);
+
+const pages = dv.pages()
+  .where(p =>
+    p.file.folder === current.file.folder &&
+    p.file.name > current.file.name &&
+    p.file.path !== current.file.path &&
+    p.publish === true // Only include notes with `publish: true` in frontmatter
+  );
+
+dv.list(
+  pages.map(p =>
+    dv.fileLink(p.file.path, false, p.file.name.substring(3)) // Trim filename display
+  )
+);
+
+

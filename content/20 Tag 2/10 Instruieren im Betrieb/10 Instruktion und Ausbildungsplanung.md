@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-10T10:49:19.564+01:00","modified":"2025-11-13T07:43:07.687+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-10T10:49:19.564+01:00","modified":"2025-11-13T07:49:09.382+01:00","cssclasses":""}
 ---
 
 
@@ -22,7 +22,7 @@
 >[!note] Instruktionsansätze in der Praxis
 >
 >#### Ablauf
->1.  **Stillarbeit (ca. 10 Min):** Öffnen Sie das Fobizz Pinboard. Lesen Sie die Fragen in den drei Spalten und fügen Sie Ihre eigenen Gedanken, Beispiele und Erfahrungen als **neue Karten** hinzu. 
+>1.  **Stillarbeit (ca. 10 Min):** Öffnen Sie das Pinboard. Lesen Sie die Fragen in den drei Spalten und fügen Sie Ihre eigenen Gedanken, Beispiele und Erfahrungen als **neue Karten** hinzu. 
 >   **Versuchen Sie, zu jeder Spalte mindestens einen Beitrag zu leisten**.
 >
 >2.  **Plenumsdiskussion (ca. 10 Min):** Nachdem alle ihre Gedanken festgehalten haben, besprechen wir die gesammelten Punkte gemeinsam und leiten die Kerngedanken für unsere heutige Lerneinheit ab.

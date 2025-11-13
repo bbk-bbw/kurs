@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-12T15:57:44.114+01:00","modified":"2025-11-13T07:44:25.186+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-12T15:57:44.114+01:00","modified":"2025-11-13T10:51:11.225+01:00","cssclasses":""}
 ---
 
 
@@ -33,7 +33,7 @@
 >    - **Leitfrage:** Welchen Unterschied machen diese Formulierungen für den Lernenden und für eure Begleitung?
 >
 >3.  **Einzelarbeit auf dem Pinboard (ca. 10 Min):** Jetzt arbeitet jede/r für sich direkt auf dem Pinboard.
->    - Nehmt eure im H5P-Tool geplante Aufgabe zur Hand.
+>    - Nehmt eure geplante Aufgabe zur Hand.
 >    - **Auftrag für die linke Spalte:** Formuliert auf einer neuen Karte ein **"einfaches" Lernziel (K1 oder K2)** für eure Aufgabe.
 >    - **Auftrag für die rechte Spalte:** Formuliert auf einer neuen Karte ein **"anspruchsvolles" Lernziel (K4+)**, das zum Charakter einer 6-Schritte-Aufgabe passt.
 >
@@ -59,6 +59,6 @@
 
 ### Weiter im Modul Lernprozesse begleiten
 
-- [[20 Tag 2/20 Lernprozesse begleiten/30 Vom Ergebnis zum Lerneffekt\|Vom Ergebnis zum Lerneffekt]]
 - [[20 Tag 2/20 Lernprozesse begleiten/20 Vom Ziel zur Begleitung\|Vom Ziel zur Begleitung]]
+- [[20 Tag 2/20 Lernprozesse begleiten/30 Vom Ergebnis zum Lerneffekt\|Vom Ergebnis zum Lerneffekt]]
 - [[20 Tag 2/20 Lernprozesse begleiten/40 Der Weg vom Plan zur Lernbegleitung\|Der Weg vom Plan zur Lernbegleitung]]

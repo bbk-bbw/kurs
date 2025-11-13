@@ -1,11 +1,10 @@
 ---
-{"publish":true,"created":"2025-11-12T15:57:55.374+01:00","modified":"2025-11-13T05:45:32.106+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-12T15:57:55.374+01:00","modified":"2025-11-13T10:52:19.786+01:00","cssclasses":""}
 ---
 
 
-
 >[!abstract] Vom Ziel zur Begleitung
->Ein anspruchsvolles Lernziel ist wie ein Gipfelkreuz auf einer Bergtour. Es zeigt, wohin die Reise geht. Doch wie begleiten Sie den Lernenden auf dem Weg dorthin? Wie stellen Sie sicher, dass er nicht vom Weg abkommt, und wie bewerten Sie am Ende, ob der Gipfel erreicht wurde? Die Unterscheidung zwischen prozessbegleitender (formativer) und ergebnisorientierter (summativer) Beurteilung ist der Schlüssel zu einer wirksamen Lernbegleitung.
+>Ein anspruchsvolles Lernziel ist wie ein Gipfelkreuz auf einer Bergtour. Es zeigt, wohin die Reise geht. Doch wie **begleiten** Sie den Lernenden auf dem Weg dorthin? Wie stellen Sie sicher, dass er nicht vom Weg abkommt, und wie **bewerten** Sie am Ende, ob der Gipfel erreicht wurde? Die **Unterscheidung zwischen prozessbegleitender (formativer) und ergebnisorientierter (summativer) Beurteilung** ist der Schlüssel zu einer wirksamen Lernbegleitung.
 >
 >- Beurteilung ist mehr als nur die Note am Ende; sie ist ein Werkzeug zur Steuerung des Lernprozesses.
 >- Die **formative Beurteilung** ist das Herzstück der Begleitung bei der 6-Schritte-Methode.

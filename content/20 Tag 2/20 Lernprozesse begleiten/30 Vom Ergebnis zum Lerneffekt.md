@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-12T15:58:00.066+01:00","modified":"2025-11-13T05:16:09.236+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-12T15:58:00.066+01:00","modified":"2025-11-13T10:58:33.392+01:00","cssclasses":""}
 ---
 
 
@@ -29,12 +29,11 @@
 > [!note]  Fragen zum Nachdenken
 > Gute Fragen sind das wichtigste Werkzeug eines Lernbegleiters. In dieser Phase erstellen wir gemeinsam einen Werkzeugkasten mit Fragen, die Lernende wirklich zum Nachdenken anregen.
 
-> #### Ablauf
-> 
-> 1. **Lektüre & Perspektivwechsel (ca. 10 Min):** Lesen Sie im Handbuch das **Kapitel 4.5 (S. 255-257)**. Denken Sie dabei an Ihre eigene Lehrzeit: Welche Art von Gespräch nach einer Aufgabe hat Ihnen am meisten gebracht?
->     
-> 2. **Gruppenarbeit (ca. 20 Min):** Entwerfen Sie auf dem Fobizz Pinboard Ihrer Tischgruppe einen gemeinsamen "Reflexions-Leitfaden" für einen Lernenden.
->     
+**Ablauf**
+ 
+ 1. **Lektüre & Perspektivwechsel (ca. 10 Min):** Lesen Sie im Handbuch das **Kapitel 4.5 (S. 255-257).** Denken Sie dabei an Ihre eigene Lehrzeit: Welche Art von Gespräch nach einer Aufgabe hat Ihnen am meisten gebracht?
+   
+ 2. **Gruppenarbeit (ca. 20 Min):** Entwerfen Sie auf dem Fobizz Pinboard Ihrer Tischgruppe einen gemeinsamen "Reflexions-Leitfaden" für einen Lernenden.
 
 > [!bug]- [Pinboard](https://app.fobizz.com/pinboard/public_boards/0454999e-79dd-44d1-ac51-13b12012f0fa?token=229148a38db484b6700d530853e87672) Fragesammlung
 ><iframe src="https://app.fobizz.com/pinboard/public_boards/0454999e-79dd-44d1-ac51-13b12012f0fa?token=229148a38db484b6700d530853e87672" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="700px" width="1200px" allowfullscreen></iframe>

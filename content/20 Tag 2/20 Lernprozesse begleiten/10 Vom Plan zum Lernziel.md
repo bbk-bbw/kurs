@@ -1,10 +1,11 @@
 ---
-{"publish":true,"created":"2025-11-12T15:57:44.114+01:00","modified":"2025-11-12T16:24:03.104+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-12T15:57:44.114+01:00","modified":"2025-11-13T04:55:58.272+01:00","cssclasses":""}
 ---
 
 
 >[!abstract] Vom Plan zum Lernziel
->Im letzten Modul haben Sie eine komplexe Aufgabe für einen Lernenden detailliert geplant. Doch was genau soll der Lernende am Ende können? Geht es nur darum, dass er die Arbeitsschritte korrekt **wiedergeben** kann, oder soll er sein Vorgehen auch **analysieren**, mit Alternativen **vergleichen** und seine Entscheidung **begründen**? Die **Taxonomie von Lernzielen nach Bloom** gibt Lehrende ein  Werkzeug an die Hand, um die gewünschte Lerntiefe einer Aufgabe bewusst zu steuern.
+>Im letzten Modul haben Sie eine komplexe Aufgabe für einen Lernenden detailliert geplant. **Doch was genau soll der Lernende am Ende können?** 
+>Geht es nur darum, dass er die Arbeitsschritte korrekt **wiedergeben** kann, oder soll er sein Vorgehen auch **analysieren**, mit Alternativen **vergleichen** und seine Entscheidung **begründen**? Die **Taxonomie von Lernzielen nach Bloom** gibt Lehrende ein  Werkzeug an die Hand, um die gewünschte Lerntiefe einer Aufgabe bewusst zu steuern.
 >
 >- Jede Aufgabe hat ein Lernziel, aber nicht jedes Lernziel hat die gleiche kognitive Anforderung.
 >- Die 6-Schritte-Methode zielt auf höhere Kompetenzen ab, die über reines Wissen und Anwenden hinausgehen.

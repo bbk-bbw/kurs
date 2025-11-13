@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-10T10:50:28.152+01:00","modified":"2025-11-13T04:53:15.584+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-10T10:50:28.152+01:00","modified":"2025-11-13T05:35:44.729+01:00","cssclasses":""}
 ---
 
 ## Phase 3: Detailplanung – Arbeitsplanung und Begleitung (Individualarbeit)
@@ -36,5 +36,7 @@
 >     - **Wir diskutieren "Best Practices" im Plenum**.
 
 ---
-## Weiter
-[[04 Feedback und Fazit]]
+
+### Weiter im Modul Instruieren im Betrieb
+
+- [[20 Tag 2/10 Instruieren im Betrieb/40 Feedback und Fazit\|40 Feedback und Fazit]]

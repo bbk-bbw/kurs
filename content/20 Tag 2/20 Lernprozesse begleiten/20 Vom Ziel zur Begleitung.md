@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-12T15:57:55.374+01:00","modified":"2025-11-13T05:14:59.528+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-12T15:57:55.374+01:00","modified":"2025-11-13T05:38:48.363+01:00","cssclasses":""}
 ---
 
 
@@ -22,19 +22,19 @@
 ### Die drei Brillen der Beurteilung
 
 >[!success] 👓 Prognostische Beurteilung: Die Brille des Arztes
->**Wann?** *Vor* dem Lernprozess.
->**Frage:** "Entsprechen die Fähigkeiten den Anforderungen?" (Handbuch S. 259)
->**Ziel:** Eine Diagnose stellen. Ist der Lernende bereit für diese Aufgabe? Braucht er Unterstützung? Ist die Aufgabe vielleicht zu schwer oder zu leicht?
+>* ***Wann?** *Vor* dem Lernprozess.
+>* **Frage:** "Entsprechen die Fähigkeiten den Anforderungen?" (Handbuch S. 259)
+>* **Ziel:** Eine Diagnose stellen. Ist der Lernende bereit für diese Aufgabe? Braucht er Unterstützung? Ist die Aufgabe vielleicht zu schwer oder zu leicht?
 
 >[!success]  🤝 Formative Beurteilung: Die Brille des Coaches
->**Wann?** *Während* des Lernprozesses.
->**Frage:** "Wo stehst du gerade? Was brauchst du, um weiterzukommen?"
->**Ziel:** Den Lernprozess begleiten und unterstützen. Feedback geben, Hilfestellung anbieten, motivieren und bei Bedarf den Plan anpassen. Dies ist die wichtigste Beurteilungsform im Alltag!
+>* ***Wann?** *Während* des Lernprozesses.
+>* **Frage:** "Wo stehst du gerade? Was brauchst du, um weiterzukommen?"
+>* **Ziel:** Den Lernprozess begleiten und unterstützen. Feedback geben, Hilfestellung anbieten, motivieren und bei Bedarf den Plan anpassen. Dies ist die wichtigste Beurteilungsform im Alltag!
 
 >[!success]  ⚖️ Summative Beurteilung: Die Brille des Richters
->**Wann?** *Am Ende* des Lernprozesses.
->**Frage:** "Wurde das Ziel erreicht?" (Handbuch S. 259)
->**Ziel:** Bilanz ziehen. Eine Leistung bewerten, ein Ergebnis festhalten (z.B. für eine Note oder ein Qualifikationsgespräch).
+>* ***Wann?** *Am Ende* des Lernprozesses.
+>* **Frage:** "Wurde das Ziel erreicht?" (Handbuch S. 259)
+>* **Ziel:** Bilanz ziehen. Eine Leistung bewerten, ein Ergebnis festhalten (z.B. für eine Note oder ein Qualifikationsgespräch).
 
 ---
 

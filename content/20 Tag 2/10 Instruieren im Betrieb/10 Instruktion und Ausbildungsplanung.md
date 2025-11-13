@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-10T10:49:19.564+01:00","modified":"2025-11-12T11:12:29.353+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-10T10:49:19.564+01:00","modified":"2025-11-13T04:33:40.660+01:00","cssclasses":""}
 ---
 
 
@@ -27,8 +27,8 @@
 >
 >2.  **Plenumsdiskussion (ca. 10 Min):** Nachdem alle ihre Gedanken festgehalten haben, besprechen wir die gesammelten Punkte gemeinsam und leiten die Kerngedanken für unsere heutige Lerneinheit ab.
 
->[!bug]- [Pinboard](https://app.fobizz.com/pinboard/public_boards/62ce96e2-b7a4-4cd6-b275-c77ceaa19ad0?embed=true&token=a998390da0f3f7dc9ffdbece6e451372)
-><iframe src="https://app.fobizz.com/pinboard/public_boards/62ce96e2-b7a4-4cd6-b275-c77ceaa19ad0?embed=true&token=a998390da0f3f7dc9ffdbece6e451372" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="700px" width="1200px" allowfullscreen></iframe>
+>[!bug]- <a href="https://app.fobizz.com/pinboard/public_boards/62ce96e2-b7a4-4cd6-b275-c77ceaa19ad0?embed=true&token=a998390da0f3f7dc9ffdbece6e451372" target="_blank" rel="noopener noreferrer">Pinboard</a>
+><iframe src="https://app.fobizz.com/pinboard/public_boards/62ce96e2-b7a4-4cd6-b275-c77ceaa19ad0?embed=true&token=a998390da0f3f7dc9ffdbece6e451372" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="700px" width="1200px" allowfullscreen sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
 
 
 ---

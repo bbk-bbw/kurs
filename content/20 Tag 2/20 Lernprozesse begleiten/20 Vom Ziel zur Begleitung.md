@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-12T15:57:55.374+01:00","modified":"2025-11-13T05:38:48.363+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-12T15:57:55.374+01:00","modified":"2025-11-13T05:45:32.106+01:00","cssclasses":""}
 ---
 
 
@@ -39,11 +39,8 @@
 ---
 
 >[!note] Beurteilungs-Strategie (Einzelarbeit)
->Jetzt übertragen wir diese drei "Brillen" auf Ihre konkrete Aufgabe.
->
->#### Ablauf
 >1.  **Lektüre (ca. 10 Min):** Lesen Sie im Handbuch das **Kapitel 4.6 (S. 259-261)** und vertiefen Sie Ihr Verständnis der drei Beurteilungsfunktionen.
->2.  **Einzelarbeit (ca. 15 Min):** Nutzen Sie das H5P-Tool. Beantworten Sie die folgenden Fragen bezogen auf **Ihre geplante Aufgabe**.
+>2.  **Einzelarbeit (ca. 15 Min):** Nutzen Sie das Dokumentationswerkzeug unten und beantworten Sie die Fragen bezogen auf **Ihre geplante Aufgabe**.
 
 >[!bug]- Dokumentationswerkzeug
 ><iframe src="https://app.lumi.education/api/v1/run/ky65Q0/embed" width="1088" height="720" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://app.Lumi.education/api/v1/h5p/core/js/h5p-resizer.js" charset="UTF-8"></script>

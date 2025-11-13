@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-10T10:49:19.564+01:00","modified":"2025-11-13T04:47:39.461+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-10T10:49:19.564+01:00","modified":"2025-11-13T05:15:15.127+01:00","cssclasses":""}
 ---
 
 
@@ -32,5 +32,9 @@
 
 
 ---
-## Weiter
-[[20 Tag 2/10 Instruieren im Betrieb/20 Methoden im Berufsalltag]]
+
+### Weiter im Modul Instruieren im Betrieb
+
+- [[20 Tag 2/10 Instruieren im Betrieb/20 Methoden im Berufsalltag\|20 Methoden im Berufsalltag]]
+- [[20 Tag 2/10 Instruieren im Betrieb/30 Individuelle Ausbildungsplanung\|30 Individuelle Ausbildungsplanung]]
+- [[20 Tag 2/10 Instruieren im Betrieb/40 Feedback und Fazit\|40 Feedback und Fazit]]

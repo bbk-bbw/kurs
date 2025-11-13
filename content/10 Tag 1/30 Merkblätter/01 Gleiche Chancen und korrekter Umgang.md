@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-03T13:59:29.286+01:00","modified":"2025-11-06T05:46:28.071+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-03T13:59:29.286+01:00","modified":"2025-11-13T05:24:08.958+01:00","cssclasses":""}
 ---
 
 ## Merkblattreihe «Gleiche Chancen und korrekter Umgang»
@@ -25,6 +25,28 @@
 >* …Sie wissen, wie Sie bei **Problemen** im Zusammenhang mit den Themen der Merkblattreihe **kompetent vorgehen** und **Lernende unterstützen** können.
 
 
-Weiter
-[[10 Tag 1/30 Merkblätter/02 Fürsorgepflicht des Betriebs]]
+---
+
+```dataviewjs
+const current = dv.current();
+const folderParts = current.file.folder.split("/");
+const folderName = folderParts.at(-1);
+const trimmedFolderName = folderName.substring(3); // Remove "20 ", "30 ", etc.
+
+dv.header(3, `Weiter im Modul ${trimmedFolderName}`);
+
+const pages = dv.pages()
+  .where(p =>
+    p.file.folder === current.file.folder &&
+    p.file.name > current.file.name &&
+    p.file.path !== current.file.path &&
+    p.publish === true // Only include notes with `publish: true` in frontmatter
+  );
+
+dv.list(
+  pages.map(p =>
+    dv.fileLink(p.file.path, false, p.file.name.substring(3)) // Trim filename display
+  )
+);
+
 

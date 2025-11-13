@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-12T15:57:55.374+01:00","modified":"2025-11-12T16:56:47.319+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-12T15:57:55.374+01:00","modified":"2025-11-13T05:14:59.528+01:00","cssclasses":""}
 ---
 
 
@@ -47,3 +47,9 @@
 
 >[!bug]- Dokumentationswerkzeug
 ><iframe src="https://app.lumi.education/api/v1/run/ky65Q0/embed" width="1088" height="720" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://app.Lumi.education/api/v1/h5p/core/js/h5p-resizer.js" charset="UTF-8"></script>
+
+
+### Weiter im Modul Lernprozesse begleiten
+
+- [[20 Tag 2/20 Lernprozesse begleiten/30 Vom Ergebnis zum Lerneffekt\|30 Vom Ergebnis zum Lerneffekt]]
+- [[20 Tag 2/20 Lernprozesse begleiten/40 Der Weg vom Plan zur Lernbegleitung\|40 Der Weg vom Plan zur Lernbegleitung]]

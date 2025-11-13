@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-03T13:59:29.346+01:00","modified":"2025-11-06T12:54:53.026+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-09T14:58:25.787+01:00","modified":"2025-11-13T05:19:10.312+01:00","cssclasses":""}
 ---
 
 >[!abstract] Fazit

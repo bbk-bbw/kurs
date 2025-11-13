@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-03T13:59:29.343+01:00","modified":"2025-11-06T06:25:03.822+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-03T13:59:29.343+01:00","modified":"2025-11-13T05:21:36.455+01:00","cssclasses":""}
 ---
 
 ### Rollenspiel "Herausfordernde Situationen im Berufsalltag"
@@ -212,8 +212,24 @@ Nach den Rollenspielen füllt jede Gruppe auf dem [Pinboard](https://tools.fobiz
 
 ---
 
+```dataviewjs
+const current = dv.current();
+const folderParts = current.file.folder.split("/");
+const folderName = folderParts.at(-1);
+const trimmedFolderName = folderName.substring(3); // Remove "20 ", "30 ", etc.
 
----
+dv.header(3, `Weiter im Modul ${trimmedFolderName}`);
 
-## Weiter
-[[10 Tag 1/10 Rolle BerufsbildnerIn/04 Fazit Rolle Berufsbildnerin]]
+const pages = dv.pages()
+  .where(p =>
+    p.file.folder === current.file.folder &&
+    p.file.name > current.file.name &&
+    p.file.path !== current.file.path &&
+    p.publish === true // Only include notes with `publish: true` in frontmatter
+  );
+
+dv.list(
+  pages.map(p =>
+    dv.fileLink(p.file.path, false, p.file.name.substring(3)) // Trim filename display
+  )
+);

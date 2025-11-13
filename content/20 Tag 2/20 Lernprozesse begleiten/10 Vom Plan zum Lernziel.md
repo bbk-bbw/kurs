@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-12T15:57:44.114+01:00","modified":"2025-11-13T05:06:35.929+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-12T15:57:44.114+01:00","modified":"2025-11-13T05:15:58.073+01:00","cssclasses":""}
 ---
 
 
@@ -74,32 +74,9 @@
 
 
 
->[!bug]- Inhalt für die Gruppen-Fobizz Pinboards
->
->**Board-Titel: Gruppe [Tisch Nr.] - Unser Lernziel-Check**
->
->**Diskussion: Der kleine, aber feine Unterschied**
->*   **Diskussionsstarter:** Vergleicht die beiden folgenden Lernziele für die Aufgabe "Kundenreklamation bearbeiten":
->    *   Ziel A: "Der Lernende kann die drei internen Schritte zur Bearbeitung einer Reklamation aufzählen." (K1 - Wissen)
->    *   Ziel B: "Der Lernende kann die Reklamation analysieren und beurteilen, welche der drei internen Vorgehensweisen am besten geeignet ist, um den Kunden zufriedenzustellen." (K4/K6)
->*   **Diskutiert:** Welchen Unterschied machen diese Formulierungen für den Lernenden und für eure Begleitung?
->
->**Spalte 2: Unsere Lernziele in der Praxis**
->*   **Auftrag (zuerst individuell):**
->    1.  Nehmen Sie Ihre im Dokumentationswerkzeug geplante Aufgabe zur Hand.
->    2.  Erstellen Sie eine **eigene Karte** auf dem Pinboard.
->    3.  Formulieren Sie für **Ihre Aufgabe** zwei Lernziele:
->        *   **Ein "einfaches" Lernziel (K1 oder K2):** Was muss der Lernende wissen oder verstehen?
->        *   **Ein "anspruchsvolles" Lernziel (K4+):** Was soll der Lernende analysieren, entwickeln oder beurteilen können?
->
->*   **Auftrag (dann in der Gruppe):** Stellt euch gegenseitig eure formulierten Lernziele vor. Gebt euch Feedback: Ist der Unterschied klar? Passt das anspruchsvolle Ziel gut zur 6-Schritte-Methode?
 
-### Modul 20 Lernprozesse begleiten
+### Weiter im Modul Lernprozesse begleiten
 
 - [[20 Tag 2/20 Lernprozesse begleiten/20 Vom Ziel zur Begleitung\|20 Vom Ziel zur Begleitung]]
 - [[20 Tag 2/20 Lernprozesse begleiten/30 Vom Ergebnis zum Lerneffekt\|30 Vom Ergebnis zum Lerneffekt]]
 - [[20 Tag 2/20 Lernprozesse begleiten/40 Der Weg vom Plan zur Lernbegleitung\|40 Der Weg vom Plan zur Lernbegleitung]]
-
----
-## Weiter
-[[02 Lernprozesse begleiten und beurteilen]]

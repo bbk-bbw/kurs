@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-03T13:59:29.337+01:00","modified":"2025-11-06T05:43:29.802+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-03T13:59:29.337+01:00","modified":"2025-11-13T05:21:04.082+01:00","cssclasses":""}
 ---
 
 ## Berufsbildner/innen - Vorbilder und Coaches für den Lernerfolg
@@ -30,5 +30,9 @@
 <iframe src="https://aburossi.github.io/prezi/BBK/rolle_berufsbildnerin/#/" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="550px" width="100%" allowfullscreen></iframe>
 
 [Präsentation in einem neuen Fenster öffnen](https://aburossi.github.io/prezi/BBK/rolle_berufsbildnerin)
-## Weiter
-[[10 Tag 1/10 Rolle BerufsbildnerIn/02 Vorbilder und Coaches für den Lernerfolg]]
+
+### Weiter im Modul Rolle BerufsbildnerIn
+
+- [[10 Tag 1/10 Rolle BerufsbildnerIn/02 Vorbilder und Coaches für den Lernerfolg\|Vorbilder und Coaches für den Lernerfolg]]
+- [[10 Tag 1/10 Rolle BerufsbildnerIn/03 Rollenspiel\|Rollenspiel]]
+- [[10 Tag 1/10 Rolle BerufsbildnerIn/04 Fazit Rolle Berufsbildnerin\|Fazit Rolle Berufsbildnerin]]

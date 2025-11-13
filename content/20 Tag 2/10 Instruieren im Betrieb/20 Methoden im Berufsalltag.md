@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-10T10:49:52.941+01:00","modified":"2025-11-13T04:48:01.568+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-10T10:49:52.941+01:00","modified":"2025-11-13T05:15:31.523+01:00","cssclasses":""}
 ---
 
 
@@ -26,4 +26,9 @@
 
 >[!bug]- <a href="https://app.fobizz.com/pinboard/public_boards/30c44b52-e900-4231-ae82-7ac656ac7876?token=3af63e31ad5c1d0ac5785089b9483915" target="_blank" rel="noopener noreferrer">Pinnboard</a> <span style="color: white; text-shadow: 0 0 3px #555;">Gruppe Weiss</span>
 ><iframe src="https://app.fobizz.com/pinboard/public_boards/30c44b52-e900-4231-ae82-7ac656ac7876?token=3af63e31ad5c1d0ac5785089b9483915" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="700px" width="1200px" allowfullscreen sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
+
+### Weiter im Modul Instruieren im Betrieb
+
+- [[20 Tag 2/10 Instruieren im Betrieb/30 Individuelle Ausbildungsplanung\|30 Individuelle Ausbildungsplanung]]
+- [[20 Tag 2/10 Instruieren im Betrieb/40 Feedback und Fazit\|40 Feedback und Fazit]]
 

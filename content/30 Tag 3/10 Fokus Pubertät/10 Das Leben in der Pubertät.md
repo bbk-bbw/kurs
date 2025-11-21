@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-21T06:03:37.091+01:00","modified":"2025-11-21T06:28:57.000+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-21T06:03:37.091+01:00","modified":"2025-11-21T07:05:03.095+01:00","cssclasses":""}
 ---
 
 ## Fokus Pubertät
@@ -10,14 +10,15 @@
 ### Arbeitsauftrag Expertenpuzzle
 
 >[!abstract] Vom Lernenden zum Lehrer
->Das Thema "Erwachsenwerden" ist zu komplex, als dass einer allein alle Facetten in kurzer Zeit durchdringen könnte. Deshalb teilen wir die Arbeit auf. **Sie sind heute nicht nur Lernende, sondern auch Lehrende.**
+>Das Thema "Erwachsenwerden" ist komplex, deshalb teilen wir die Arbeit auf. **Sie sind heute nicht nur Lernende, sondern auch Lehrende.**
 >
->Ihr Ziel ist es, in Ihrer Expertengruppe ein Thema so tief zu durchdringen, dass Sie es später Ihren Mitschülern vermitteln können. Die Qualität der Arbeit Ihrer Mitschüler hängt von Ihrer Vorbereitung ab!
+>Ihr Ziel ist es, in Ihrer Expertengruppe ein Thema so tief zu durchdringen, dass Sie es später Ihren Mitschülern vermitteln können. Die Qualität Ihrer Vorbereitung bestimmt die Lernerfahrung ihrer "Schüler"!
 
 ---
 ### Die Themen
 
 >[!success]- 👥 Gruppe A: Selbstfindung und Peergroup
+>
 >**Auftrag:** Analysieren Sie die Ablösung vom Elternhaus und die Funktion des Freundeskreises.
 >
 >**1. Phase der Selbstfindung ("Das Dazwischen")**

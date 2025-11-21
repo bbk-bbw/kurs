@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-21T06:03:37.091+01:00","modified":"2025-11-21T07:48:06.378+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-21T06:03:37.091+01:00","modified":"2025-11-21T09:16:30.073+01:00","cssclasses":""}
 ---
 
 ## Fokus Pubertät
@@ -21,17 +21,17 @@
 >[!success]- 👥 Ablösung vom Elternhaus und die Funktion des Freundeskreises
 >
 >**1. Phase der Selbstfindung ("Das Dazwischen")**
->* **Gefühlslage:** Vom "Gefühlsregierten" hin zu mehr Kontrolle. Analysieren Sie die Ambivalenz zwischen *leistungsbewusst* und *resigniert*.
->* **Identität:** Wie zeigt sich der Wunsch nach Selbstbestimmung (z.B. Kontrolle über Essen) als Teil der Identitätssuche?
+>- **Gefühlslage:** Vom "Gefühlsregierten" hin zu mehr Kontrolle. Analysieren Sie die Ambivalenz zwischen *leistungsbewusst* und *resigniert*.
+>- **Identität:** Wie zeigt sich der Wunsch nach Selbstbestimmung (z.B. Kontrolle über Essen) als Teil der Identitätssuche?
 >
 >**2. Die Peergroup als "zweite Heimat"**
->* **Symmetrie:** Beziehungen auf Augenhöhe (anders als bei Eltern/Lehrern).
->* **Selektion:** Cliquen bilden sich oft durch Ähnlichkeit (Schicht, Interessen).
->* **Kompetenzgewinn:** Hier werden Konfliktlösung, Kritikfähigkeit und der Umgang mit dem anderen Geschlecht erprobt.
+>- **Symmetrie:** Beziehungen auf Augenhöhe (anders als bei Eltern/Lehrern).
+>- **Selektion:** Cliquen bilden sich oft durch Ähnlichkeit (Schicht, Interessen).
+>- **Kompetenzgewinn:** Hier werden Konfliktlösung, Kritikfähigkeit und der Umgang mit dem anderen Geschlecht erprobt.
 >
 >**3. Gefahren**
->* **Konformitätsdruck:** Die Angst, nicht dazuzugehören.
->* **Risiko:** Übertragung von negativem Verhalten (Drogen, Kriminalität) und die Gefahr von **Mobbing/Ausgrenzung**.
+>- **Konformitätsdruck:** Die Angst, nicht dazuzugehören.
+>- **Risiko:** Übertragung von negativem Verhalten (Drogen, Kriminalität) und die Gefahr von **Mobbing/Ausgrenzung**.
 ### Gruppe B Neue Medien
 >[!success]- 📱 Allgegenwärtigkeit digitaler Medien und deren Einfluss auf Psyche und Beziehungen
 >

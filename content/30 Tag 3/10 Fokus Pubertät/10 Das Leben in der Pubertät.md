@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-21T06:03:37.091+01:00","modified":"2025-11-21T07:05:03.095+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-21T06:03:37.091+01:00","modified":"2025-11-21T07:11:04.112+01:00","cssclasses":""}
 ---
 
 ## Fokus Pubertät
@@ -15,11 +15,10 @@
 >Ihr Ziel ist es, in Ihrer Expertengruppe ein Thema so tief zu durchdringen, dass Sie es später Ihren Mitschülern vermitteln können. Die Qualität Ihrer Vorbereitung bestimmt die Lernerfahrung ihrer "Schüler"!
 
 ---
-### Die Themen
+### Die Gruppenthemen
 
->[!success]- 👥 Gruppe A: Selbstfindung und Peergroup
->
->**Auftrag:** Analysieren Sie die Ablösung vom Elternhaus und die Funktion des Freundeskreises.
+### Gruppe A Selbstfindung und Peergroup
+>[!success]- 👥 Ablösung vom Elternhaus und die Funktion des Freundeskreises
 >
 >**1. Phase der Selbstfindung ("Das Dazwischen")**
 >* **Gefühlslage:** Vom "Gefühlsregierten" hin zu mehr Kontrolle. Analysieren Sie die Ambivalenz zwischen *leistungsbewusst* und *resigniert*.
@@ -33,9 +32,8 @@
 >**3. Gefahren**
 >* **Konformitätsdruck:** Die Angst, nicht dazuzugehören.
 >* **Risiko:** Übertragung von negativem Verhalten (Drogen, Kriminalität) und die Gefahr von **Mobbing/Ausgrenzung**.
-
->[!success]- 📱 Gruppe B: Neue Medien
->**Auftrag:** Stellen Sie die Allgegenwärtigkeit digitaler Medien und deren Einfluss auf Psyche und Beziehungen dar.
+### Gruppe B Neue Medien
+>[!success]- 📱 Allgegenwärtigkeit digitaler Medien und deren Einfluss auf Psyche und Beziehungen
 >
 >**1. "Always On" & Intensität**
 >* **Rastlosigkeit:** Permanente Erreichbarkeit führt zu Konzentrationsschwierigkeiten.
@@ -50,9 +48,8 @@
 >* **FoMO:** Die "Fear of Missing Out" treibt die Nutzung an.
 >* **Enthemmung & Empathieverlust:** Online wird oft härter kommuniziert; die Fähigkeit, Körpersprache zu deuten, könnte abnehmen.
 >* **Cybermobbing:** Verbreitet und unausweichlich (kein Rückzugsort für Opfer).
-
->[!success]- 🧠 Gruppe C: Chaos, Krisen & Burnout
->**Auftrag:** Erklären Sie die biologischen/gesellschaftlichen Ursachen für psychische Anfälligkeit und Symptome der häufigsten Störungen.
+### Gruppe C Chaos, Krisen & Burnout
+>[!success]- 🧠 Die biologischen und gesellschaftlichen Ursachen für psychische Anfälligkeit deren Symptome
 >
 >**1. Vulnerabilität (Verwundbarkeit)**
 >* **Biologie:** Umbau im Gehirn – Gefühlszentren dominieren zeitweise das planvolle Denken (Stirnhirn).

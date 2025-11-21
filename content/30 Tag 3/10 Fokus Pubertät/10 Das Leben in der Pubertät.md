@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-21T06:03:37.091+01:00","modified":"2025-11-21T09:18:17.492+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-21T06:03:37.091+01:00","modified":"2025-11-21T09:19:37.432+01:00","cssclasses":""}
 ---
 
 ## Fokus Pubertät
@@ -34,16 +34,16 @@
 >- **Risiko:** Übertragung von negativem Verhalten (Drogen, Kriminalität) und die Gefahr von **Mobbing/Ausgrenzung**.
 ### Gruppe B Neue Medien
 >[!success]- 📱 Allgegenwärtigkeit digitaler Medien und deren Einfluss auf Psyche und Beziehungen
->**1. "Always On" & Intensität**
+>"Always On" & Intensität
 >* **Rastlosigkeit:** Permanente Erreichbarkeit führt zu Konzentrationsschwierigkeiten.
 >* **Unverbindlichkeit:** "Mikrokoordination" (kurzfristiges Absagen/Verschieben) prägt Beziehungen.
 >
->**2. Psychologische Rolle**
+>Psychologische Rolle
 >* **Bestätigung:** Jede Nachricht signalisiert: "Ich bin von Bedeutung."
 >* **Chance:** Schüchterne können leichter Kontakte knüpfen und Selbstvertrauen gewinnen.
 >* **Selbstdarstellung:** Fokus auf das perfekte Bild (Selfies) statt auf Realität.
 >
->**3. Risiken**
+>Risiken
 >* **FoMO:** Die "Fear of Missing Out" treibt die Nutzung an.
 >* **Enthemmung & Empathieverlust:** Online wird oft härter kommuniziert; die Fähigkeit, Körpersprache zu deuten, könnte abnehmen.
 >* **Cybermobbing:** Verbreitet und unausweichlich (kein Rückzugsort für Opfer).

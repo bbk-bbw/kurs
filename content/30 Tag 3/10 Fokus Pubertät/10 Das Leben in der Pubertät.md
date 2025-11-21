@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-21T06:03:37.091+01:00","modified":"2025-11-21T09:19:37.432+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-21T06:03:37.091+01:00","modified":"2025-11-21T09:34:29.956+01:00","cssclasses":""}
 ---
 
 ## Fokus Pubertät
@@ -18,7 +18,7 @@
 ### Die Gruppenthemen
 
 ### Gruppe A Selbstfindung und Peergroup
->[!success]- 👥 Ablösung vom Elternhaus und die Funktion des Freundeskreises
+>[!success] 👥 Ablösung vom Elternhaus und die Funktion des Freundeskreises
 >
 >**1. Phase der Selbstfindung ("Das Dazwischen")**
 >- **Gefühlslage:** Vom "Gefühlsregierten" hin zu mehr Kontrolle. Analysieren Sie die Ambivalenz zwischen *leistungsbewusst* und *resigniert*.
@@ -33,22 +33,22 @@
 >- **Konformitätsdruck:** Die Angst, nicht dazuzugehören.
 >- **Risiko:** Übertragung von negativem Verhalten (Drogen, Kriminalität) und die Gefahr von **Mobbing/Ausgrenzung**.
 ### Gruppe B Neue Medien
->[!success]- 📱 Allgegenwärtigkeit digitaler Medien und deren Einfluss auf Psyche und Beziehungen
->"Always On" & Intensität
+>[!success] 📱 Allgegenwärtigkeit digitaler Medien und deren Einfluss auf Psyche und Beziehungen
+>**1. "Always On" & Intensität**
 >* **Rastlosigkeit:** Permanente Erreichbarkeit führt zu Konzentrationsschwierigkeiten.
 >* **Unverbindlichkeit:** "Mikrokoordination" (kurzfristiges Absagen/Verschieben) prägt Beziehungen.
 >
->Psychologische Rolle
+>**2. Psychologische Rolle**
 >* **Bestätigung:** Jede Nachricht signalisiert: "Ich bin von Bedeutung."
 >* **Chance:** Schüchterne können leichter Kontakte knüpfen und Selbstvertrauen gewinnen.
 >* **Selbstdarstellung:** Fokus auf das perfekte Bild (Selfies) statt auf Realität.
 >
->Risiken
+>**3. Risiken**
 >* **FoMO:** Die "Fear of Missing Out" treibt die Nutzung an.
 >* **Enthemmung & Empathieverlust:** Online wird oft härter kommuniziert; die Fähigkeit, Körpersprache zu deuten, könnte abnehmen.
 >* **Cybermobbing:** Verbreitet und unausweichlich (kein Rückzugsort für Opfer).
 ### Gruppe C Chaos, Krisen & Burnout
->[!success]- 🧠 Die biologischen und gesellschaftlichen Ursachen für psychische Anfälligkeit deren Symptome
+>[!success] 🧠 Die biologischen und gesellschaftlichen Ursachen für psychische Anfälligkeit deren Symptome
 >
 >**1. Vulnerabilität (Verwundbarkeit)**
 >* **Biologie:** Umbau im Gehirn – Gefühlszentren dominieren zeitweise das planvolle Denken (Stirnhirn).

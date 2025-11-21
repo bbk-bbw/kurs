@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-21T06:03:37.091+01:00","modified":"2025-11-21T09:16:30.073+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-21T06:03:37.091+01:00","modified":"2025-11-21T09:18:17.492+01:00","cssclasses":""}
 ---
 
 ## Fokus Pubertät
@@ -34,7 +34,6 @@
 >- **Risiko:** Übertragung von negativem Verhalten (Drogen, Kriminalität) und die Gefahr von **Mobbing/Ausgrenzung**.
 ### Gruppe B Neue Medien
 >[!success]- 📱 Allgegenwärtigkeit digitaler Medien und deren Einfluss auf Psyche und Beziehungen
->
 >**1. "Always On" & Intensität**
 >* **Rastlosigkeit:** Permanente Erreichbarkeit führt zu Konzentrationsschwierigkeiten.
 >* **Unverbindlichkeit:** "Mikrokoordination" (kurzfristiges Absagen/Verschieben) prägt Beziehungen.

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-21T06:03:37.217+01:00","modified":"2025-11-21T05:55:14.000+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-21T06:03:37.217+01:00","modified":"2025-11-21T06:40:42.909+01:00","cssclasses":""}
 ---
 
 
@@ -12,6 +12,10 @@
 > - B 4.5 Selbstreflexion und Selbstbeurteilung
 > - B 4.6 Beurteilung
 > - B 4.7 Taxonomie von Lernziele.
-> 1. Sammeln Sie auf den 4 Seiten unten Ihre "Bausteine" (Verben, Fragen, Kriterien). Sie werden diese Notizen in der nächsten Lektion benötigen, um Ihren Projektplan zu erstellen.
+> 2. Sammeln Sie auf den 4 Seiten unten Ihre "Bausteine" (Verben, Fragen, Kriterien). Sie werden diese Notizen in der nächsten Lektion benötigen, um Ihren Projektplan zu erstellen.
 
-<iframe name="myiFrame" width="100%" height="720px" src="https://bbk-bbw.github.io/bbk_box/index.html?id=projektarbeit" scrolling="no" marginwidth="0" marginheight="0" style="border:0px none #ffffff;"></iframe>
+>[!abstract] Auftrag
+>
+>>[!info] Registriere dich mit dem Code **DY7YYP**.
+>
+><iframe name="myiFrame" width="100%" height="720px" src="https://bbk-bbw.github.io/bbk_box/index.html?id=projektarbeit" scrolling="no" marginwidth="0" marginheight="0" style="border:0px none #ffffff;"></iframe>

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-21T06:03:37.217+01:00","modified":"2025-11-21T06:40:42.909+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-21T06:03:37.217+01:00","modified":"2025-11-21T10:25:21.176+01:00","cssclasses":""}
 ---
 
 
@@ -16,6 +16,6 @@
 
 >[!abstract] Auftrag
 >
->>[!info] Registriere dich mit dem Code **DY7YYP**.
+>>[!info] Registriere dich mit dem Code **DY7YYP** auf dieser [Seite](https://bbk-bbw.github.io/bbk_box/login.html) 
 >
 ><iframe name="myiFrame" width="100%" height="720px" src="https://bbk-bbw.github.io/bbk_box/index.html?id=projektarbeit" scrolling="no" marginwidth="0" marginheight="0" style="border:0px none #ffffff;"></iframe>

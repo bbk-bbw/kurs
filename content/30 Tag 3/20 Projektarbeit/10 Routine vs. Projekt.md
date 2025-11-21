@@ -1,15 +1,15 @@
 ---
-{"publish":true,"created":"2025-11-21T06:03:37.199+01:00","modified":"2025-11-21T06:21:04.434+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-21T06:03:37.199+01:00","modified":"2025-11-21T07:50:30.495+01:00","cssclasses":""}
 ---
 
 
-> [!question] Diskussion
-> Besprechen Sie mit Ihrem Sitznachbarn.
-> 1. Eine typische **Routineaufgabe** aus Ihrem Alltag (Wiederholung, Standard).
-> 2. Eine mögliche **Projektaufgabe** (Einmalig, Komplex, Zeitbegrenzt).
-
 >[!info] Merkmale der Projektarbeit
 >Im Gegensatz zur Routine zeichnet sich ein Projekt durch **Einmaligkeit**, **Komplexität**, **Zielvorgaben** und **zeitliche Begrenzung** aus. Es erfordert vom Lernenden mehr als nur das Abrufen von gespeichertem Wissen.
+
+> [!question] Diskussion
+> Besprechen Sie kurz in Ihrer Gruppe.
+> 1. Typischen **Routineaufgaben** aus Ihrem Alltag (Wiederholung, Standard).
+> 2. Möglichen **Projektaufgabe** (Einmalig, Komplex, Zeitbegrenzt).
 
 ## Das Wichtigste in Kürze
 <iframe src="https://aburossi.github.io/prezi/BBK/projektarbeit/#/" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="550px" width="100%" allowfullscreen></iframe>

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-12-03T21:54:11.836+01:00","modified":"2025-12-04T07:02:35.496+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-03T21:54:11.836+01:00","modified":"2025-12-04T08:00:10.159+01:00","cssclasses":""}
 ---
 
 ## Das Vier-Ohren-Modell im Detail
@@ -8,7 +8,7 @@
 >- **Feedback ist eine persönliche Rückmeldung über die Auswirkungen von Gesprächen, Diskussionen oder gemeinsamen Erlebnissen**. 
 >- Es ist **keine Beurteilung von Personen**, sondern *eine Beschreibung der eigenen Eindrücke und Empfindungen*. 
 >- Ein erfolgreiches Feedback erfordert, dass die Regeln bekannt sind und der **Feedbackgeber** sich der **Subjektivität seiner Wahrnehmung** bewusst ist.
->>[!info]- Sender-Empfänger-Modell
+>>[!info] Sender-Empfänger-Modell
 >>![[assets/Pasted image 20241204191742.png]]
 >
 >>[!quote] Paul Watzlawick zur Kommunikation

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-12-03T21:54:11.836+01:00","modified":"2025-12-03T21:56:19.348+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-03T21:54:11.836+01:00","modified":"2025-12-04T07:02:35.496+01:00","cssclasses":""}
 ---
 
 ## Das Vier-Ohren-Modell im Detail
@@ -9,7 +9,7 @@
 >- Es ist **keine Beurteilung von Personen**, sondern *eine Beschreibung der eigenen Eindrücke und Empfindungen*. 
 >- Ein erfolgreiches Feedback erfordert, dass die Regeln bekannt sind und der **Feedbackgeber** sich der **Subjektivität seiner Wahrnehmung** bewusst ist.
 >>[!info]- Sender-Empfänger-Modell
->>![[Pasted image 20241204191742.png]]
+>>![[assets/Pasted image 20241204191742.png]]
 >
 >>[!quote] Paul Watzlawick zur Kommunikation
 >>
@@ -34,14 +34,15 @@ Das Vier-Ohren-Modell von Schulz von Thun beschreibt, dass jede Nachricht vier S
 
 **Titel:** _Kommunikation verstehen: Vom technischen Ablauf zur inhaltlichen Tiefe_
 
-|Sender-Empfänger-Modell|Vier-Ohren-Modell|
-|---|---|
-|Wer spricht mit wem? Wie?|In welcher **Beziehung** stehen die Beteiligten?|
-|Fokus auf Codierung/Decodierung|Fokus auf **Interpretation**|
-|Missverständnisse = Übertragungsfehler|Missverständnisse = Unterschiedliche Ebenen|
+| Sender-Empfänger-Modell                | Vier-Ohren-Modell                                |
+| -------------------------------------- | ------------------------------------------------ |
+| Wer spricht mit wem? Wie?              | In welcher **Beziehung** stehen die Beteiligten? |
+| Fokus auf Codierung/Decodierung        | Fokus auf **Interpretation**                     |
+| Missverständnisse = Übertragungsfehler | Missverständnisse = Unterschiedliche Ebenen      |
+|                                        |                                                  |
 
-### Auftrag Alltagssituationen
-
+>[!abstract] Auftrag Alltagssituationen
+>
 Reflexion:
 > Analysieren Sie die folgenden Alltagssituationen mithilfe von zwei Kommunikationsmodellen:
 > 

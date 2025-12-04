@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-12-03T21:54:11.839+01:00","modified":"2025-12-03T21:56:50.914+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-03T21:54:11.839+01:00","modified":"2025-12-04T07:45:37.181+01:00","cssclasses":""}
 ---
 
 ## Auftrag: Analyse und Verbesserung von Feedbackgesprächen mit dem Vier-Ohren-Modell
@@ -44,6 +44,8 @@
 >**BerufsbildnerIn:**
 >"Ich kann nicht ständig deine Fehler ausbügeln. Mach deine Arbeit ordentlich, oder lass es bleiben."
 >
+>[Link Pinboard Bearbeiten](https://app.fobizz.com/pinboard/public_boards/ace64d40-88bf-40ae-9489-7b9c6d318f66?token=ce061c6afcc271e8a0265b2dda26052e)
+>
 ><iframe src="https://app.fobizz.com/pinboard/public_boards/ace64d40-88bf-40ae-9489-7b9c6d318f66?token=ce061c6afcc271e8a0265b2dda26052e" style="border:0px #ffffff none;" name="myiFrame" scrolling="yes" frameborder="1" marginheight="0px" marginwidth="0px" height="800px" width="100%" allowfullscreen></iframe>
 
 >[!note]- Gruppe Blau
@@ -58,6 +60,8 @@
 >"Tut mir leid, ich hatte Schwierigkeiten, die Anleitung zu verstehen. Ich dachte, ich hätte es trotzdem richtig gemacht."
 >**BerufsbildnerIn:**
 >"Pass besser auf und hör zu, wenn ich dir etwas erkläre. So kann das nicht weitergehen."
+>
+>[Link Pinboard Bearbeiten](https://app.fobizz.com/pinboard/public_boards/5835ee3a-7ac3-4b81-babc-c82725ae5d5a?token=71ee8579c7d2a8fad6e4f0f243d1a615)
 >
 ><iframe src="https://app.fobizz.com/pinboard/public_boards/5835ee3a-7ac3-4b81-babc-c82725ae5d5a?token=71ee8579c7d2a8fad6e4f0f243d1a615" style="border:0px #ffffff none;" name="myiFrame" scrolling="yes" frameborder="1" marginheight="0px" marginwidth="0px" height="800px" width="100%" allowfullscreen></iframe>
 
@@ -76,6 +80,7 @@
 >**Lernender:**
 >"Ich möchte wirklich lernen und mich verbessern. Bitte geben Sie mir eine Chance."
 >
+>[Link Pinboard Bearbeiten](https://app.fobizz.com/pinboard/public_boards/bc2e3d11-14c1-4f27-a7b0-fed03270aa7b?token=b9f3942c03fb4886a72ecbf791438e29)
 ><iframe src="https://app.fobizz.com/pinboard/public_boards/bc2e3d11-14c1-4f27-a7b0-fed03270aa7b?token=b9f3942c03fb4886a72ecbf791438e29" style="border:0px #ffffff none;" name="myiFrame" scrolling="yes" frameborder="1" marginheight="0px" marginwidth="0px" height="800px" width="100%" allowfullscreen></iframe>
 
 >[!note]- Gruppe Grün
@@ -90,7 +95,7 @@
 >"Ich werde versuchen, für den nächsten Test mehr Zeit zum Lernen einzuplanen. Gibt es vielleicht zusätzliche Materialien oder Tipps, die mir helfen könnten?"
 >**BerufsbildnerIn:**
 >"Vielleicht solltest du einfach aufmerksamer im Unterricht sein und dich mehr anstrengen, anstatt nach zusätzlichen Hilfsmitteln zu fragen."
->
+>[Link Pinboard Bearbeiten](https://app.fobizz.com/pinboard/public_boards/f9715e6f-ddfd-4127-9416-261cf3bc52fc?token=1dd8d41a4150a55187f8b47d9f277658)
 ><iframe src="https://app.fobizz.com/pinboard/public_boards/f9715e6f-ddfd-4127-9416-261cf3bc52fc?token=1dd8d41a4150a55187f8b47d9f277658" style="border:0px #ffffff none;" name="myiFrame" scrolling="yes" frameborder="1" marginheight="0px" marginwidth="0px" height="800px" width="100%" allowfullscreen></iframe>
 
 >[!note]- Gruppe Rot
@@ -107,7 +112,7 @@
 >"Du solltest vielleicht überlegen, ob dieser Beruf überhaupt das Richtige für dich ist."
 >**Lernende:**
 >"Ich möchte wirklich lernen und mich verbessern. Bitte geben Sie mir eine Chance."
->
+>[Link Pinboard Bearbeiten](https://app.fobizz.com/pinboard/public_boards/3e144a8b-6e94-4613-99b4-c58543100bd4?token=25b8390f70bb93a18ac05c6ce722dbb9)
 ><iframe src="https://app.fobizz.com/pinboard/public_boards/3e144a8b-6e94-4613-99b4-c58543100bd4?token=25b8390f70bb93a18ac05c6ce722dbb9" style="border:0px #ffffff none;" name="myiFrame" scrolling="yes" frameborder="1" marginheight="0px" marginwidth="0px" height="800px" width="100%" allowfullscreen></iframe>
 
 > [!question] Reflexionsfragen

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-12-03T21:54:11.990+01:00","modified":"2025-12-03T22:00:23.414+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-03T21:54:11.990+01:00","modified":"2025-12-04T07:52:56.106+01:00","cssclasses":""}
 ---
 
 >[!abstract] Auftrag
@@ -26,6 +26,7 @@
 	   - Auf dem Pin-Board entsteht eine **Sammlung von Checkpunkten**, die an die unterschiedlichen beruflichen Kontexte der Teilnehmenden angepasst sind. Diese Sammlung dient Ihnen und den anderen als **Inspiration für die Erstellung einer eigenen Checkliste**, die an die Bedürfnisse der Lernenden in Ihrem jeweiligen Beruf angepasst ist.
 
 >[!success]- PinBoard
+>[Link Pinboard Bearbeiten](https://app.fobizz.com/pinboard/public_boards/85bbed0f-3f84-422e-9651-92ccfa3c468f?token=1b05367d312b978181ec3e8b87d22b95)
 ><iframe src="https://app.fobizz.com/pinboard/public_boards/85bbed0f-3f84-422e-9651-92ccfa3c468f?token=1b05367d312b978181ec3e8b87d22b95" style="border:0px #ffffff none;" name="myiFrame" scrolling="yes" frameborder="1" marginheight="0px" marginwidth="0px" height="600px" width="100%" allowfullscreen></iframe>
 
 ## Weiter

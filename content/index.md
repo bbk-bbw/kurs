@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Kurs für Berufsbildner - BBW Winterthur","created":"2025-11-02T14:17:52.586+01:00","modified":"2026-01-08T04:53:53.672+01:00","cssclasses":""}
+{"publish":true,"title":"Kurs für Berufsbildner - BBW Winterthur","created":"2025-11-02T14:17:52.586+01:00","modified":"2026-01-08T05:11:57.102+01:00","cssclasses":""}
 ---
 
 # Kurs für BerufsbildnerInnen
@@ -10,7 +10,9 @@
 >[!info]- Internet-Zugang
 >- Netz: **BBW_BMSW**
 >- Benutzername: **Berufsbildnerkurs**
->- Passwort: **BBKHG2025**
+>- Passwort: **bbkHG$2026**
+>
+>- **Link zu dieser Seite**: rebrand.ly/berufsbildner
 
 >[!success] Navigieren Sie links durch die Modulen des Kurses.
 

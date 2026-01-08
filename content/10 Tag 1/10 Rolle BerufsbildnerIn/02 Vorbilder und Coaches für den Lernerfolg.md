@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-03T13:59:29.340+01:00","modified":"2025-11-13T05:21:20.211+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-03T13:59:29.340+01:00","modified":"2026-01-08T06:15:22.443+01:00","cssclasses":""}
 ---
 
 ## Auftrag
@@ -20,24 +20,3 @@ Auf dem Pinboard finden Sie **[vier beschriftete Bereiche](https://tools.fobizz.
 
 >[!bug]- [Pinboard](https://app.fobizz.com/pinboard/public_boards/d08684f4-97a1-4bce-9c79-772c0b01a871?embed=true&token=919642dc5532154ffb797cf06da1c76b)
 
-```dataviewjs
-const current = dv.current();
-const folderParts = current.file.folder.split("/");
-const folderName = folderParts.at(-1);
-const trimmedFolderName = folderName.substring(3); // Remove "20 ", "30 ", etc.
-
-dv.header(3, `Weiter im Modul ${trimmedFolderName}`);
-
-const pages = dv.pages()
-  .where(p =>
-    p.file.folder === current.file.folder &&
-    p.file.name > current.file.name &&
-    p.file.path !== current.file.path &&
-    p.publish === true // Only include notes with `publish: true` in frontmatter
-  );
-
-dv.list(
-  pages.map(p =>
-    dv.fileLink(p.file.path, false, p.file.name.substring(3)) // Trim filename display
-  )
-);

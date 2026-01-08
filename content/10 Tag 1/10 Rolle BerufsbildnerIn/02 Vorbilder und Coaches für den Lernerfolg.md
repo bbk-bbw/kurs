@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-03T13:59:29.340+01:00","modified":"2026-01-08T06:15:22.443+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-03T13:59:29.340+01:00","modified":"2026-01-08T12:56:09.375+01:00","cssclasses":""}
 ---
 
 ## Auftrag
@@ -7,10 +7,13 @@
 >[!note] Überfliegen Sie die Seiten 252-254 im Handbuch. Merken Sie sich die vier Merkmale eines positiven Vorbilds. Besprechen Sie in Ihrer Gruppe die folgenden Reflexionsfragen und halten Sie Ihre Ergebnisse auf dem Pinboard fest.
 > 
 >> [!Question] Reflexionsfragen
+>
 >> **Positives Vorbild:**
 >> - Wie können Sie im Berufsalltag als **positives Vorbild** für Ihre Lernenden agieren?
+>
 >> **Coaching-Methoden:**
 >> - Mit welchen **konkreten Methoden** können Sie Ihre Lernenden im Sinne des **Coachings** unterstützen?
+>
 >> **Massgebender Führungsstil:**
 >> - Was zeichnet einen **massgebenden Führungsstil** in der Berufsausbildung aus?
 >> **Herausforderungen und Lösungen:**

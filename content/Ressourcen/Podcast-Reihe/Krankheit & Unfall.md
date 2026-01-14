@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-03T14:59:05.997+01:00","modified":"2025-11-06T06:12:27.699+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-03T14:59:05.997+01:00","modified":"2025-11-06T06:12:27.000+01:00","cssclasses":""}
 ---
 
 ## Krankheit & Unfall – Was BerufsbildnerInnen wissen müssen  

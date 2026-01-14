@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-03T14:59:06.009+01:00","modified":"2025-11-06T06:12:18.903+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-03T14:59:06.009+01:00","modified":"2025-11-06T06:12:18.000+01:00","cssclasses":""}
 ---
 
 ## Rassismus in der Berufsbildung – Haltung zeigen & Verantwortung übernehmen  

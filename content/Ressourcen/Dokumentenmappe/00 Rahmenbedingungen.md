@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-03T13:38:40.697+01:00","modified":"2025-11-03T14:07:58.391+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-03T13:38:40.697+01:00","modified":"2025-11-03T14:07:58.000+01:00","cssclasses":""}
 ---
 
 ## Rahmenbedingungen

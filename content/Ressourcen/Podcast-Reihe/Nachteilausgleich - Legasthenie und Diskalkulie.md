@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-03T14:59:06.003+01:00","modified":"2025-11-06T06:10:55.157+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-03T14:59:06.003+01:00","modified":"2025-11-06T06:10:55.000+01:00","cssclasses":""}
 ---
 
 ## Nachteilausgleich - Legasthenie & Diskalkulie

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-03T14:59:06.000+01:00","modified":"2025-11-06T06:08:46.078+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-03T14:59:06.000+01:00","modified":"2025-11-06T06:08:46.000+01:00","cssclasses":""}
 ---
 
 ## Körperhygiene & Kleidung – Heikle Themen fair ansprechen  

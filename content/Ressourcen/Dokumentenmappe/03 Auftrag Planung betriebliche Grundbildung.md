@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-03T13:38:40.738+01:00","modified":"2025-11-03T13:44:02.537+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-03T13:38:40.738+01:00","modified":"2025-11-03T13:44:02.000+01:00","cssclasses":""}
 ---
 
 ## Auftrag «Planung betriebliche Grundbildung»
@@ -22,7 +22,7 @@
 
 ### Ablauf und Aufgabe:
 
-1. Lesen Sie im Handbuch «Berufliche Grundbildung» das Kapitel [[3.2 Planen der betrieblichen Grundbildung.pdf|3.2 Planen der betrieblichen Grundbildung]] genau durch
+1. Lesen Sie im Handbuch «Berufliche Grundbildung» das Kapitel [[3.2 Planen der betrieblichen Grundbildung.pdf\|3.2 Planen der betrieblichen Grundbildung]] genau durch
 2. Suchen Sie auf der Webseite Ihres Berufsverbandes folgende Dokumente und Informationen:
 a. **Dokumente des eigenen Berufs** (BiVo, Bildungsplan) sichten
 b. **Informationen über ÜK** (Zeitpunkt, Lernziele)
@@ -33,7 +33,7 @@ b. Individuellen Bildungsplan erstellen
 
 ### Hilfsmittel
 - Handbuch A3 
-	- [[3.2 Planen der betrieblichen Grundbildung.pdf|3.2 Planen der betrieblichen Grundbildung]]
+	- [[3.2 Planen der betrieblichen Grundbildung.pdf\|3.2 Planen der betrieblichen Grundbildung]]
 - Webseite Berufsverband
 - eigene Materialien
 

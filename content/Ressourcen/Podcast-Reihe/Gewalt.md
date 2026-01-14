@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-03T14:59:05.991+01:00","modified":"2025-11-06T06:07:40.444+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-03T14:59:05.991+01:00","modified":"2025-11-06T06:07:40.000+01:00","cssclasses":""}
 ---
 
 ## Gewalt im Umfeld der Lehre – Verantwortung übernehmen  

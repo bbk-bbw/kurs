@@ -3,7 +3,7 @@
 ---
 
 
-## Zurück zu [[40 Tag 4/40 Lerndokumentation und Bildungsbericht/08 Ziele mit KI formulieren]]
+## Zurück zu [[40 Tag 5/40 Lerndokumentation und Bildungsbericht/08 Ziele mit KI formulieren]]
 
 ```markdown
 <prompt>
@@ -141,4 +141,4 @@
 ```
 
 
-## Zurück zu [[40 Tag 4/40 Lerndokumentation und Bildungsbericht/08 Ziele mit KI formulieren]]
+## Zurück zu [[40 Tag 5/40 Lerndokumentation und Bildungsbericht/08 Ziele mit KI formulieren]]

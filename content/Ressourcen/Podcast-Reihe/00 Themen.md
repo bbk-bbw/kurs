@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-03T19:37:50.085+01:00","modified":"2025-11-03T20:01:55.551+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-03T19:37:50.085+01:00","modified":"2025-11-03T20:01:55.000+01:00","cssclasses":""}
 ---
 
 - [[Ressourcen/Podcast-Reihe/Gleichstellung - Sexuelle Belästigung\|Gleichstellung - Sexuelle Belästigung]]

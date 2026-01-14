@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-03T13:38:40.742+01:00","modified":"2025-11-06T06:16:13.396+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-03T13:38:40.742+01:00","modified":"2025-11-06T06:16:13.000+01:00","cssclasses":""}
 ---
 
 # Auftrag «Fokus Pubertät»

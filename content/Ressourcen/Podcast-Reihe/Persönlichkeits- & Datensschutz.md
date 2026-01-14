@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-03T14:59:06.006+01:00","modified":"2025-11-06T06:11:37.048+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-03T14:59:06.006+01:00","modified":"2025-11-06T06:11:37.000+01:00","cssclasses":""}
 ---
 
 ## Persönlichkeitsschutz und Datenschutz in der Berufsbildung

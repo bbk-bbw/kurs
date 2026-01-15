@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-03T13:59:29.228+01:00","modified":"2025-11-13T05:23:24.632+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-03T13:59:29.228+01:00","modified":"2026-01-15T07:56:29.095+01:00","cssclasses":""}
 ---
 
 ### Auftrag - Lebenskurven
@@ -9,7 +9,7 @@
 #### Ablauf
 
 >[!abstract] Schritt 1. **Einzelarbeit (10 Minuten):**
- - Sie erhalten zwei Grafiken und zeichnen Sie darauf Ihre **persönliche Lebenskurve** sowie Ihre **Lebenskurve in der Ausbildung**.
+ - Sie erhalten [[Lebenskurven.pdf|zwei Grafiken]] und zeichnen Sie darauf Ihre **persönliche Lebenskurve** sowie Ihre **Lebenskurve in der Ausbildung**.
  - Markieren Sie besondere **Erfahrungen und Ereignisse** (Höhen- und Tiefpunkte), die für Sie prägend waren.
    
 >[!abstract] Schritt 2. **Partnerarbeit (10 Minuten):**

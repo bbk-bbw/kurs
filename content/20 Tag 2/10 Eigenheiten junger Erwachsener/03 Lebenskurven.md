@@ -1,15 +1,18 @@
 ---
-{"publish":true,"created":"2025-11-03T13:59:29.228+01:00","modified":"2026-01-15T07:56:29.095+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-03T13:59:29.228+01:00","modified":"2026-01-15T08:01:18.551+01:00","cssclasses":""}
 ---
 
 ### Auftrag - Lebenskurven
 
-> [!abstract] In diesem Auftrag nehmen Sie sich Zeit, um Ihre **eigene Lebenskurve allgemein und in Bezug auf Ihre Ausbildung** zu formulieren und zu reflektieren. Sie analysieren prägende Erfahrungen und Ereignisse in Ihrem Leben, überlegen, welche Faktoren und Strategien Ihnen geholfen haben, resilient zu bleiben, und reflektieren über Ihre Werte und Ziele und wie Sie diese umgesetzt haben.
+> [!abstract] In diesem Auftrag nehmen Sie sich Zeit, um Ihre **eigene Lebenskurve allgemein und in Bezug auf Ihre Ausbildung** zu formulieren und zu reflektieren. 
+> - Sie analysieren **prägende Erfahrungen und Ereignisse** in Ihrem Leben. 
+> - Sie überlegen, welche **Faktoren und Strategien** Ihnen geholfen haben, *resilient* zu bleiben, 
+> - Sie reflektieren über Ihre Werte und Ziele und wie Sie diese umgesetzt haben.
 
 #### Ablauf
 
 >[!abstract] Schritt 1. **Einzelarbeit (10 Minuten):**
- - Sie erhalten [[Lebenskurven.pdf|zwei Grafiken]] und zeichnen Sie darauf Ihre **persönliche Lebenskurve** sowie Ihre **Lebenskurve in der Ausbildung**.
+ - Sie erhalten [[20 Tag 2/10 Eigenheiten junger Erwachsener/Lebenskurven\|zwei Grafiken]] und zeichnen Sie darauf Ihre **persönliche Lebenskurve** sowie Ihre **Lebenskurve in der Ausbildung**.
  - Markieren Sie besondere **Erfahrungen und Ereignisse** (Höhen- und Tiefpunkte), die für Sie prägend waren.
    
 >[!abstract] Schritt 2. **Partnerarbeit (10 Minuten):**

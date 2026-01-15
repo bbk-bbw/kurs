@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-03T19:32:34.493+01:00","modified":"2026-01-15T09:49:50.301+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-03T19:32:34.493+01:00","modified":"2026-01-15T11:09:20.107+01:00","cssclasses":""}
 ---
 
 ## Marktplatz Merkblätter
@@ -22,7 +22,7 @@
 >     
 
 ---
-### Vorbereitung (Individuell, 20 Min. – _vor_ dem Auftrag)
+### Vorbereitung (Individuell, 20 Min. – _vor_ und _während_ dem Auftrag)
 
 >[!abstract] Schritt 1. Themenwahl & Vertiefung
 >Wählen Sie ein [[Ressourcen/Podcast-Reihe/00 Themen\|Thema]] aus der Liste. Hören Sie den Podcast aufmerksam an.

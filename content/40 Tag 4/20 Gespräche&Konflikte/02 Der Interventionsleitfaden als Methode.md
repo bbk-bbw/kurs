@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-01-15T09:54:40.792+01:00","modified":"2025-12-03T21:57:51.000+01:00","cssclasses":""}
+{"publish":true,"created":"2026-01-15T09:54:40.792+01:00","modified":"2026-01-15T12:15:03.049+01:00","cssclasses":""}
 ---
 
 ## Der Interventionsleitfaden als Methode

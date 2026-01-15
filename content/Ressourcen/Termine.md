@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-02T16:38:51.727+01:00","modified":"2026-01-08T07:51:00.652+01:00","cssclasses":""}
+{"publish":true,"created":"2026-01-15T10:15:00.446+01:00","modified":"2026-01-15T12:38:11.025+01:00","cssclasses":""}
 ---
 
 ## Stundentafel

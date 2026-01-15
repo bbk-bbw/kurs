@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-01-15T09:54:40.735+01:00","modified":"2025-12-04T08:00:10.000+01:00","cssclasses":""}
+{"publish":true,"created":"2026-01-15T09:54:40.735+01:00","modified":"2026-01-15T12:15:02.917+01:00","cssclasses":""}
 ---
 
 ## Das Vier-Ohren-Modell im Detail

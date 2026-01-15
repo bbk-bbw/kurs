@@ -1,9 +1,9 @@
 ---
-{"publish":true,"created":"2025-12-03T22:01:41.774+01:00","modified":"2025-12-03T22:01:56.987+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-03T22:01:41.774+01:00","modified":"2026-01-15T12:15:02.159+01:00","cssclasses":""}
 ---
 
 
-## Zurück zu [[40 Tag 5/40 Lerndokumentation und Bildungsbericht/08 Ziele mit KI formulieren]]
+## Zurück zu [[40 Tag/40 Lerndokumentation und Bildungsbericht/08 Ziele mit KI formulieren]]
 
 ```markdown
 <prompt>
@@ -141,4 +141,4 @@
 ```
 
 
-## Zurück zu [[40 Tag 5/40 Lerndokumentation und Bildungsbericht/08 Ziele mit KI formulieren]]
+## Zurück zu [[40 Tag/40 Lerndokumentation und Bildungsbericht/08 Ziele mit KI formulieren]]

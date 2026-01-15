@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-01-15T09:54:40.956+01:00","modified":"2025-12-03T22:02:41.000+01:00","cssclasses":""}
+{"publish":true,"created":"2026-01-15T09:54:40.956+01:00","modified":"2026-01-15T12:15:03.901+01:00","cssclasses":""}
 ---
 
 ## Vertiefung: Bildungsberichte analysieren und bewerten

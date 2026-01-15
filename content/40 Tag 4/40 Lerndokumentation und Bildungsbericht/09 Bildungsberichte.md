@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-01-15T09:54:40.959+01:00","modified":"2025-12-03T22:02:45.000+01:00","cssclasses":""}
+{"publish":true,"created":"2026-01-15T09:54:40.959+01:00","modified":"2026-01-15T12:15:03.827+01:00","cssclasses":""}
 ---
 
 ## Einführung in den Bildungsbericht

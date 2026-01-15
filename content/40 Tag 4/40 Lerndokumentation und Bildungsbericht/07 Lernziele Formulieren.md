@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-01-15T09:54:40.965+01:00","modified":"2025-12-04T07:55:14.000+01:00","cssclasses":""}
+{"publish":true,"created":"2026-01-15T09:54:40.965+01:00","modified":"2026-01-15T12:15:03.736+01:00","cssclasses":""}
 ---
 
 ## Zielformulierung: Struktur und Klarheit

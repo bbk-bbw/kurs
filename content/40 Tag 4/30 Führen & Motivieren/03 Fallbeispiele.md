@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-01-15T09:54:40.858+01:00","modified":"2025-12-04T07:51:42.000+01:00","cssclasses":""}
+{"publish":true,"created":"2026-01-15T09:54:40.858+01:00","modified":"2026-01-15T12:15:03.303+01:00","cssclasses":""}
 ---
 
 ### Auftrag - Lösungsansätze zu Fallbeispiele entwickeln

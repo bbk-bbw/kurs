@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-01-15T09:54:40.863+01:00","modified":"2025-12-04T07:51:23.000+01:00","cssclasses":""}
+{"publish":true,"created":"2026-01-15T09:54:40.863+01:00","modified":"2026-01-15T12:15:03.260+01:00","cssclasses":""}
 ---
 
 >[!abstract] **Überfliegen** Sie die **Seiten 158-159 im Handbuch**. Machen Sie sich mit den verschiedenen **Motivationsfaktoren** und der **Checkliste** «**Motivation fördern und pflegen**» vertraut.

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-01-15T09:54:40.728+01:00","modified":"2025-12-04T07:45:37.000+01:00","cssclasses":""}
+{"publish":true,"created":"2026-01-15T09:54:40.728+01:00","modified":"2026-01-15T12:15:02.950+01:00","cssclasses":""}
 ---
 
 ## Auftrag: Analyse und Verbesserung von Feedbackgesprächen mit dem Vier-Ohren-Modell

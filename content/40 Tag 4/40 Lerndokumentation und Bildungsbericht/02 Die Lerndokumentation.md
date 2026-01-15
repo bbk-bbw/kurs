@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-01-15T09:54:40.982+01:00","modified":"2025-12-03T22:00:05.000+01:00","cssclasses":""}
+{"publish":true,"created":"2026-01-15T09:54:40.982+01:00","modified":"2026-01-15T12:15:03.538+01:00","cssclasses":""}
 ---
 
 >[!note] <span style="font-size: 20px;">Überfliegen Sie die **Seiten 135-136 im Handbuch**. Überlegen Sie, welche **konkreten Ziele** Sie mit der Lerndokumentation in Ihrem Ausbildungskontext verfolgen.</span> 

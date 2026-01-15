@@ -1,10 +1,12 @@
 ---
-{"publish":true,"created":"2025-11-03T19:32:34.493+01:00","modified":"2025-11-13T05:24:24.306+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-03T19:32:34.493+01:00","modified":"2026-01-15T09:49:50.301+01:00","cssclasses":""}
 ---
 
 ## Marktplatz Merkblätter
 
-> [!abstract] In diesem Auftrag vertiefen Sie Ihr Wissen zu "Gleiche Chancen und korrekter Umgang". Sie werden zunächst zum/zur Experten/Expertin für ein Thema und teilen dieses Wissen anschliessend in einem dynamischen "Marktplatz"-Format. Das Ziel ist, die Kernaussagen, Massnahmen und offenen Fragen aller Themen kennenzulernen und miteinander zu verknüpfen.
+> [!abstract] In diesem Auftrag vertiefen Sie Ihr Wissen zu "Gleiche Chancen und korrekter Umgang". 
+> - Sie werden zunächst zum/zur Experten/Expertin für ein Thema und teilen dieses Wissen anschliessend in einem dynamischen "Marktplatz"-Format. 
+> - Das Ziel ist, die Kernaussagen, Massnahmen und offenen Fragen aller Themen kennenzulernen und miteinander zu verknüpfen.
 
 > [!success] Lernziele
 > 
@@ -34,7 +36,7 @@
 >   
 >    - **1** offene Frage zur Umsetzung (z.B. "Wie spreche ich das an, ohne...")
 
----
+![[assets/Ablauf_Marktplatz.png]]
 
 ### Durchführung: Der Marktplatz (40 Min.)
 
@@ -129,25 +131,3 @@
 
  "Wenn Sie an die Diskussionen denken: Welches Muster – welche Herausforderung oder welche Massnahme – ist Ihnen heute bei fast _allen_ Themen begegnet?"
 ---
-
-```dataviewjs
-const current = dv.current();
-const folderParts = current.file.folder.split("/");
-const folderName = folderParts.at(-1);
-const trimmedFolderName = folderName.substring(3); // Remove "20 ", "30 ", etc.
-
-dv.header(3, `Weiter im Modul ${trimmedFolderName}`);
-
-const pages = dv.pages()
-  .where(p =>
-    p.file.folder === current.file.folder &&
-    p.file.name > current.file.name &&
-    p.file.path !== current.file.path &&
-    p.publish === true // Only include notes with `publish: true` in frontmatter
-  );
-
-dv.list(
-  pages.map(p =>
-    dv.fileLink(p.file.path, false, p.file.name.substring(3)) // Trim filename display
-  )
-);

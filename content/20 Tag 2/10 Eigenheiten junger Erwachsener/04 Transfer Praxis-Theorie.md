@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-03T13:59:29.230+01:00","modified":"2026-01-14T16:04:34.966+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-03T13:59:29.230+01:00","modified":"2026-01-15T10:58:05.621+01:00","cssclasses":""}
 ---
 
 ### Transfer Praxis-Theorie
@@ -66,4 +66,4 @@
 > 2.  **Entwicklungspotenzial:** Wo und wie möchten Sie sich in diesem Bereich gezielt verbessern oder weiterentwickeln?
 
 >[!bug]- Persönliche Reflexion
-><iframe name="myiFrame" width="100%" height="500px" src="https://app.fobizz.com/worksheet/worksheets/7b4e5d14-9a05-4c62-9597-1c38ff65f821/public_worksheet_responses/new?token=2bf32c65bf130ed2793a3d2fed97077f" scrolling="no" marginwidth="0" marginheight="0" style="border:0px none #ffffff;"></iframe>
+><iframe name="myiFrame" width="100%" height="500px" src="https://app.fobizz.com/worksheet/worksheets/7b4e5d14-9a05-4c62-9597-1c38ff65f821/public_worksheet_responses/new?token=2bf32c65bf130ed2793a3d2fed97077f" scrolling="yes" marginwidth="0" marginheight="0" style="border:0px none #ffffff;"></iframe>

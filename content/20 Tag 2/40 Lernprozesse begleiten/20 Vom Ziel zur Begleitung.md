@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-12T15:57:55.374+01:00","modified":"2026-01-14T15:23:02.639+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-12T15:57:55.374+01:00","modified":"2026-01-15T10:58:33.962+01:00","cssclasses":""}
 ---
 
 
@@ -42,7 +42,7 @@
 >2.  **Einzelarbeit (ca. 15 Min):** Nutzen Sie das Dokumentationswerkzeug unten und beantworten Sie die Fragen bezogen auf **Ihre geplante Aufgabe**.
 
 >[!bug]- Dokumentationswerkzeug
-><iframe name="myiFrame" width="100%" height="500px" src="https://app.fobizz.com/worksheet/worksheets/39857d88-15cb-4713-b090-85ae62a6d5d5/public_worksheet_responses/new?token=43f0d444b811f6d62e2610ae94d6cb70" scrolling="no" marginwidth="0" marginheight="0" style="border:0px none #ffffff;"></iframe>
+><iframe name="myiFrame" width="100%" height="500px" src="https://app.fobizz.com/worksheet/worksheets/39857d88-15cb-4713-b090-85ae62a6d5d5/public_worksheet_responses/new?token=43f0d444b811f6d62e2610ae94d6cb70" scrolling="yes" marginwidth="0" marginheight="0" style="border:0px none #ffffff;"></iframe>
 
 
 ### Weiter im Modul Lernprozesse begleiten

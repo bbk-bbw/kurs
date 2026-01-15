@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-10T10:50:28.152+01:00","modified":"2026-01-14T15:10:58.017+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-10T10:50:28.152+01:00","modified":"2026-01-15T10:58:41.035+01:00","cssclasses":""}
 ---
 
 ## Phase 3: Detailplanung – Arbeitsplanung und Begleitung (Individualarbeit)
@@ -17,7 +17,7 @@
 
 >[!bug]- Dokumentationstool
 >
-><iframe name="myiFrame" width="100%" height="500px" src="https://app.fobizz.com/worksheet/worksheets/8a0cffb9-7162-4fc0-bec8-daeb5f017328/public_worksheet_responses/new?token=7656fd2b05886cd9342c4293821f09f3" scrolling="no" marginwidth="0" marginheight="0" style="border:0px none #ffffff;"></iframe>
+><iframe name="myiFrame" width="100%" height="500px" src="https://app.fobizz.com/worksheet/worksheets/8a0cffb9-7162-4fc0-bec8-daeb5f017328/public_worksheet_responses/new?token=7656fd2b05886cd9342c4293821f09f3" scrolling="yes" marginwidth="0" marginheight="0" style="border:0px none #ffffff;"></iframe>
 
 >[!abstract] Peer-Feedback und gemeinsames Fazit
 >In der letzten Phase dieser Lerneinheit geht es darum, von den individuellen Lösungsansätzen der anderen zu profitieren. Durch gegenseitiges Feedback schärfen Sie Ihre Planung und durch den Austausch im Plenum sammeln wir gemeinsam Best Practices.

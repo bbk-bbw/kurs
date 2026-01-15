@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-12T15:57:44.114+01:00","modified":"2025-11-13T10:51:11.225+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-12T15:57:44.114+01:00","modified":"2026-01-15T12:58:31.298+01:00","cssclasses":""}
 ---
 
 
@@ -26,7 +26,7 @@
 >#### Ablauf
 >1.  **Lektüre (ca. 10 Min):** Überfliegen Sie im Handbuch das **Kapitel 4.7 (S. 262-263)** und machen Sie sich mit den sechs K-Stufen vertraut.
 >
->2.  **Diskussion im Team (ca. 5 Min):** Beginnt mit einer kurzen Diskussion in eurer Tischgruppe, um ein gemeinsames Verständnis zu schaffen.
+>2.  **Diskussion in der Gruppe (ca. 5 Min):** Beginnt mit einer kurzen Diskussion in eurer Tischgruppe, um ein gemeinsames Verständnis zu schaffen.
 >    - **Diskutiert das Beispiel:** "Kundenreklamation bearbeiten"
 >      - *Ziel A (K1):* "Der Lernende kann die drei internen Schritte zur Bearbeitung aufzählen."
 >      - *Ziel B (K4/K6):* "Der Lernende kann die Reklamation analysieren und beurteilen, welche der drei Vorgehensweisen am besten geeignet ist, um den Kunden zufriedenzustellen."
@@ -60,5 +60,5 @@
 ### Weiter im Modul Lernprozesse begleiten
 
 - [[20 Tag 2/40 Lernprozesse begleiten/20 Vom Ziel zur Begleitung\|Vom Ziel zur Begleitung]]
-- [[20 Tag 2/40 Lernprozesse begleiten/40 Der Weg vom Plan zur Lernbegleitung\|Der Weg vom Plan zur Lernbegleitung]]
 - [[20 Tag 2/40 Lernprozesse begleiten/30 Vom Ergebnis zum Lerneffekt\|Vom Ergebnis zum Lerneffekt]]
+- [[20 Tag 2/40 Lernprozesse begleiten/40 Der Weg vom Plan zur Lernbegleitung\|Der Weg vom Plan zur Lernbegleitung]]

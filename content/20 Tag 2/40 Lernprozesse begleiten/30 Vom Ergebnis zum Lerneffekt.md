@@ -1,11 +1,12 @@
 ---
-{"publish":true,"created":"2025-11-12T15:58:00.066+01:00","modified":"2025-11-13T10:58:33.392+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-12T15:58:00.066+01:00","modified":"2026-01-15T12:59:46.888+01:00","cssclasses":""}
 ---
 
 
 
 > [!abstract] Vom Ergebnis zum Lerneffekt: Die Selbstreflexion anleiten
->Die Aufgabe ist erledigt, Sie haben Ihr Feedback gegeben. Aber hat der Lernende wirklich etwas gelernt? Der nachhaltige Lerneffekt, der über die konkrete Aufgabe hinausgeht, entsteht erst jetzt: im Schritt 6 "Auswerten". Das Handbuch nennt dies auch **Selbstreflexion**. Ihre anspruchsvollste und zugleich wertvollste Aufgabe als Berufsbildner/in ist es, diesen Prozess nicht dem Zufall zu überlassen, sondern ihn aktiv anzuleiten.
+>Die Aufgabe ist erledigt, Sie haben Ihr Feedback gegeben. Aber hat der Lernende wirklich etwas gelernt? Der nachhaltige Lerneffekt, der über die konkrete Aufgabe hinausgeht, entsteht erst jetzt: im Schritt 6 "Auswerten". 
+>Das Handbuch nennt dies auch **Selbstreflexion**. Ihre Aufgabe als Berufsbildner/in ist es, diesen Prozess aktiv anzuleiten.
 > 
 > - Nachhaltiges Lernen passiert im Kopf des Lernenden, nicht auf dem Papier.
 >     

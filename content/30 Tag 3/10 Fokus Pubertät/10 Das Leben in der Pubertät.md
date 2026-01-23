@@ -1,11 +1,8 @@
 ---
-{"publish":true,"created":"2026-01-15T09:26:55.483+01:00","modified":"2025-11-21T09:34:29.000+01:00","cssclasses":""}
+{"publish":true,"created":"2026-01-15T09:26:55.483+01:00","modified":"2026-01-23T09:01:35.077+01:00","cssclasses":""}
 ---
 
-## Fokus Pubertät
-<iframe src="https://aburossi.github.io/prezi/BBK/prezifokus/" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="600px" width="100%" allowfullscreen></iframe>
-
-[Präsentation in einem neuen Fenster öffnen](https://aburossi.github.io/prezi/BBK/prezifokus)
+# Fokus Pubertät
 
 ### Arbeitsauftrag Expertenpuzzle
 
@@ -13,6 +10,11 @@
 >Das Thema "Erwachsenwerden" ist komplex, deshalb teilen wir die Arbeit auf. **Sie sind heute nicht nur Lernende, sondern auch Lehrende.**
 >
 >Ihr Ziel ist es, in Ihrer Expertengruppe das Thema zu verarbeiten, dass Sie es später Ihren Mitschülern vermitteln können. Die Qualität Ihrer Vorbereitung bestimmt die Lernerfahrung ihrer "Schüler"!
+
+<iframe src="https://aburossi.github.io/prezi/BBK/prezifokus/" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="600px" width="100%" allowfullscreen></iframe>
+
+[Präsentation in einem neuen Fenster öffnen](https://aburossi.github.io/prezi/BBK/prezifokus)
+
 
 ---
 ### Die Gruppenthemen

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-01-15T09:54:40.989+01:00","modified":"2026-01-15T12:15:03.488+01:00","cssclasses":""}
+{"publish":true,"created":"2026-01-15T09:54:40.989+01:00","modified":"2026-01-29T04:50:20.616+01:00","cssclasses":""}
 ---
 
 >[!abstract] **Die Lerndokumentation**
@@ -36,12 +36,6 @@
 >[!question]  **Erfahrungen**
 ><span style="font-size: 20px;">Haben Sie bereits **positive oder negative Erfahrungen mit der Lerndokumentation** gemacht? Wenn ja, welche?  </span> 
 
-## Das Wichtigste in Kürze
-<iframe src="https://aburossi.github.io/prezi/BBK/lerndokumentation/#/" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="800px" width="100%" allowfullscreen></iframe>
-
-[Präsentation in einem neuen Fenster öffnen](https://aburossi.github.io/prezi/BBK/lerndokumentation/)
-
----
 
 ## Weiter
 [[40 Tag 4/40 Lerndokumentation und Bildungsbericht/02 Die Lerndokumentation]]

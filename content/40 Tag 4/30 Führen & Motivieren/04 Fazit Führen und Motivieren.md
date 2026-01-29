@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-01-15T09:54:40.855+01:00","modified":"2025-12-03T21:59:23.000+01:00","cssclasses":""}
+{"publish":true,"created":"2026-01-15T09:54:40.855+01:00","modified":"2026-01-29T06:02:49.958+01:00","cssclasses":""}
 ---
 
 >[!abstract] Fazit
@@ -14,6 +14,5 @@
 >* **Kontinuierlicher Prozess** 
 >👉 Die Motivation muss immer wieder neu gefördert und gepflegt werden.
 
-![[Pasted image 20250116074737.png]]
+![[assets/Pasted image 20260129060248.png]]
 
-### ⏩ [[Home\|Startseite]]

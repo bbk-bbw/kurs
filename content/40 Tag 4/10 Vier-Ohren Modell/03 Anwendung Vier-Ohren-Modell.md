@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-01-15T09:54:40.728+01:00","modified":"2026-01-15T12:15:02.950+01:00","cssclasses":""}
+{"publish":true,"created":"2026-01-15T09:54:40.728+01:00","modified":"2026-01-29T07:05:04.541+01:00","cssclasses":""}
 ---
 
 ## Auftrag: Analyse und Verbesserung von Feedbackgesprächen mit dem Vier-Ohren-Modell
@@ -34,13 +34,18 @@
 >[!note]- Gruppe Orange
 >### Gespräch
 >**BerufsbildnerIn:**
+>
 >"Was hast du dir denn bei der Installation dieser Beleuchtungsanlage gedacht? Die Kabel hängen herum, und die Lampen funktionieren nicht richtig. Hast du überhaupt aufgepasst, als wir das besprochen haben?"
+>
 >**Lernende:**
 >"Ich dachte, ich hätte alles korrekt angeschlossen. Können Sie mir zeigen, wo der Fehler liegt?"
+>
 >**BerufsbildnerIn:**
 >"Es ist doch offensichtlich! So eine schlampige Arbeit habe ich selten gesehen. Vielleicht solltest du dir überlegen, ob du für diesen Beruf geeignet bist."
+>
 >**Lernende:**
 >"Es tut mir leid, ich möchte es gerne richtig machen. Können Sie mir bitte helfen zu verstehen, was ich falsch gemacht habe?"
+>
 >**BerufsbildnerIn:**
 >"Ich kann nicht ständig deine Fehler ausbügeln. Mach deine Arbeit ordentlich, oder lass es bleiben."
 >
@@ -50,14 +55,19 @@
 
 >[!note]- Gruppe Blau
 >### Gespräch
+>
 >**BerufsbildnerIn:**
 >"Deine Arbeit heute war echt unter aller Sau. Was hast du dir dabei gedacht?"
+>
 >**Lernender:**
 >"Ähm, ich dachte, ich hätte alles richtig gemacht. Könntest du mir bitte sagen, worin genau das Problem besteht?"
+>
 >**BerufsbildnerIn:**
 >"Du hast einfach alles falsch gemacht. Die Maschine war falsch eingestellt, und die Teile sind nicht ordentlich zusammengesetzt."
+>
 >**Lernender:**
 >"Tut mir leid, ich hatte Schwierigkeiten, die Anleitung zu verstehen. Ich dachte, ich hätte es trotzdem richtig gemacht."
+>
 >**BerufsbildnerIn:**
 >"Pass besser auf und hör zu, wenn ich dir etwas erkläre. So kann das nicht weitergehen."
 >
@@ -67,16 +77,22 @@
 
 >[!note]- Gruppe Grau
 >### Gespräch
+>
 >**BerufsbildnerIn:**
 >"Was soll das denn sein? Du hast den ganzen Vormittag gebraucht, um diese Mauer zu bauen, und sie steht krumm und schief. Hast du überhaupt eine Ahnung vom Mauern?"
+>
 >**Lernender:**
 >"Ich habe mich bemüht, die Steine korrekt zu setzen. Können Sie mir zeigen, wo der Fehler liegt?"
+>
 >**BerufsbildnerIn:**
 >"Offensichtlich nicht! Die Fugen sind ungleichmäßig, und die Ausrichtung stimmt überhaupt nicht. Es ist eine Schande, dass ich dir solche einfachen Aufgaben nicht anvertrauen kann."
+>
 >**Lernender:**
 >"Es tut mir leid, ich dachte wirklich, ich mache es richtig. Könnten Sie mir bitte erklären, wie ich es besser machen kann?"
+>
 >**BerufsbildnerIn:**
 >"Ich habe keine Zeit, dir alles Schritt für Schritt zu erklären. Vielleicht ist dieser Beruf einfach nichts für dich."
+>
 >**Lernender:**
 >"Ich möchte wirklich lernen und mich verbessern. Bitte geben Sie mir eine Chance."
 >
@@ -85,33 +101,46 @@
 
 >[!note]- Gruppe Grün
 >### Gespräch
+>
 >**BerufsbildnerIn:**
 >"Die Ergebnisse deines letzten Tests waren ziemlich enttäuschend. Du solltest wohl mehr lernen, anstatt immer nur mit deinen Freunden abzuhängen."
+>
 >**Lernender:**
 >"Ich habe wirklich versucht, für den Test zu lernen, aber es war schwierig, alles zu verstehen."
+>
 >**BerufsbildnerIn:**
 >"Tja, das ist wohl keine Entschuldigung. Du hattest genug Zeit, um dich auf den Test vorzubereiten, aber du hast es trotzdem nicht geschafft, die Grundlagen zu verstehen."
+>
 >**Lernender:**
 >"Ich werde versuchen, für den nächsten Test mehr Zeit zum Lernen einzuplanen. Gibt es vielleicht zusätzliche Materialien oder Tipps, die mir helfen könnten?"
+>
 >**BerufsbildnerIn:**
 >"Vielleicht solltest du einfach aufmerksamer im Unterricht sein und dich mehr anstrengen, anstatt nach zusätzlichen Hilfsmitteln zu fragen."
+>
 >[Link Pinboard Bearbeiten](https://app.fobizz.com/pinboard/public_boards/f9715e6f-ddfd-4127-9416-261cf3bc52fc?token=1dd8d41a4150a55187f8b47d9f277658)
 ><iframe src="https://app.fobizz.com/pinboard/public_boards/f9715e6f-ddfd-4127-9416-261cf3bc52fc?token=1dd8d41a4150a55187f8b47d9f277658" style="border:0px #ffffff none;" name="myiFrame" scrolling="yes" frameborder="1" marginheight="0px" marginwidth="0px" height="800px" width="100%" allowfullscreen></iframe>
 
 >[!note]- Gruppe Rot
 >### Gespräch
+>
 >**BerufsbildnerIn:**
 >"Die Berichte, die du diesen Monat erstellt hast, sind einfach miserabel. Hast du überhaupt irgendeine Ahnung, wie man eine ordentliche Analyse schreibt?"
+>
 >**Lernende:**
 >"Ich dachte, ich mache Fortschritte. Können Sie mir sagen, was genau falsch ist?"
+>
 >**BerufsbildnerIn:**
 >"Alles ist falsch! Deine Daten sind ungenau, die Formatierung ist ein Witz, und deine Schlussfolgerungen sind völlig daneben. Es ist eine Zeitverschwendung, dir überhaupt etwas beizubringen."
+>
 >**Lernende:**
 >"Es tut mir leid, ich bemühe mich wirklich. Könnten ﻿Sie mir bitte genauer erklären, wo meine Fehler liegen?"
+>
 >**BerufsbildnerIn:**
 >"Du solltest vielleicht überlegen, ob dieser Beruf überhaupt das Richtige für dich ist."
+>
 >**Lernende:**
 >"Ich möchte wirklich lernen und mich verbessern. Bitte geben Sie mir eine Chance."
+>
 >[Link Pinboard Bearbeiten](https://app.fobizz.com/pinboard/public_boards/3e144a8b-6e94-4613-99b4-c58543100bd4?token=25b8390f70bb93a18ac05c6ce722dbb9)
 ><iframe src="https://app.fobizz.com/pinboard/public_boards/3e144a8b-6e94-4613-99b4-c58543100bd4?token=25b8390f70bb93a18ac05c6ce722dbb9" style="border:0px #ffffff none;" name="myiFrame" scrolling="yes" frameborder="1" marginheight="0px" marginwidth="0px" height="800px" width="100%" allowfullscreen></iframe>
 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-01-15T09:54:40.962+01:00","modified":"2026-01-29T05:27:45.443+01:00","cssclasses":""}
+{"publish":true,"created":"2026-01-15T09:54:40.962+01:00","modified":"2026-01-29T06:06:55.518+01:00","cssclasses":""}
 ---
 
 ## KI-gestützte Lernzielformulierung
@@ -38,7 +38,7 @@
 >>     - Einschätzung des **Erfahrungsstandes** des Lernenden bezüglich der ausgewählten Kompetenz (z.B. Einsteiger:in, fortgeschritten, sehr erfahren)
 >>
 >>3. **Interaktion mit dem Lernziel-Chatbot:**
->>   - **Öffnen Sie den Chatbot über den folgenden [Link](https://go.fobizz.com/?token=198416925e33dac5) das bereitgestellte Tool:**
+>>   - **Öffnen Sie den Chatbot über den folgenden <a href="https://go.fobizz.com/?token=198416925e33dac5" target="_blank">Link</a> das bereitgestellte Tool:**
 >>     
 >>   - Geben Sie die **kopierte Handlungskompetenz oder das Leistungsziel** in das dafür vorgesehene Feld des Chatbots ein.
 >>   - Beantworten Sie die **Rückfragen des Chatbots** zu Beruf, Lehrjahr und Erfahrungsstand des Lernenden.

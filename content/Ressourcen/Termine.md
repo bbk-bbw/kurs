@@ -1,9 +1,9 @@
 ---
-{"publish":true,"created":"2026-01-15T10:15:00.446+01:00","modified":"2026-01-15T12:38:11.025+01:00","cssclasses":""}
+{"publish":true,"created":"2026-01-15T10:15:00.446+01:00","modified":"2026-03-12T08:00:11.721+01:00","cssclasses":""}
 ---
 
 ## Stundentafel
-![[assets/Stundentafel__26BBK1.pdf]]
+![[assets/Stundentafel__26BBK2.pdf]]
 
 ## Berufsbildung-Links
 [Das offizielle schweizerische Informationsportal der Berufs-, Studien- und Laufbahnberatung - berufsberatung.ch](https://www.berufsberatung.ch/dyn/show/1418)

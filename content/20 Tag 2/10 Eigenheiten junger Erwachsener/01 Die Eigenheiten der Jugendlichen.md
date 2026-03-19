@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-03T13:59:29.220+01:00","modified":"2025-11-13T05:22:03.137+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-03T13:59:29.220+01:00","modified":"2026-03-19T07:26:56.145+01:00","cssclasses":""}
 ---
 
 ## Eigenheiten der 15- bis 20-Jährigen Lernenden
@@ -15,7 +15,7 @@
 >>Die [[Ressourcen/Glossar/Adoleszenz]] ist eine **spannende, aber auch herausfordernde Zeit**, sowohl für die Jugendlichen selbst als auch für ihr Umfeld.  Diskutieren Sie in Ihrer Gruppe die folgenden Fragen:
 >>* Welche **typischen Verhaltensweisen** von Jugendlichen in diesem Alter sind Ihnen im (Berufs-)Alltag begegnet?
 >>* Welche **Chancen** bietet diese Entwicklungsphase für die Ausbildung?
->>* Wo sehen Sie die grössten **Herausforderungen**?
+>>* Welche sind die grössten **Herausforderungen**?
 
 
 > [!success] Lernziele
@@ -32,26 +32,3 @@
 [Präsentation in einem neuen Fenster öffnen](https://aburossi.github.io/prezi/BBK/eigenheiten)
 
 ---
-
-```dataviewjs
-const current = dv.current();
-const folderParts = current.file.folder.split("/");
-const folderName = folderParts.at(-1);
-const trimmedFolderName = folderName.substring(3); // Remove "20 ", "30 ", etc.
-
-dv.header(3, `Weiter im Modul ${trimmedFolderName}`);
-
-const pages = dv.pages()
-  .where(p =>
-    p.file.folder === current.file.folder &&
-    p.file.name > current.file.name &&
-    p.file.path !== current.file.path &&
-    p.publish === true // Only include notes with `publish: true` in frontmatter
-  );
-
-dv.list(
-  pages.map(p =>
-    dv.fileLink(p.file.path, false, p.file.name.substring(3)) // Trim filename display
-  )
-);
-

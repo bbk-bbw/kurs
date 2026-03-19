@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-10T10:49:19.564+01:00","modified":"2025-11-13T10:58:50.978+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-10T10:49:19.564+01:00","modified":"2026-03-19T08:14:12.890+01:00","cssclasses":""}
 ---
 
 
@@ -28,13 +28,12 @@
 >2.  **Plenumsdiskussion (ca. 10 Min):** Nachdem alle ihre Gedanken festgehalten haben, besprechen wir die gesammelten Punkte gemeinsam und leiten die Kerngedanken für unsere heutige Lerneinheit ab.
 
 >[!bug]- <a href="https://app.fobizz.com/pinboard/public_boards/62ce96e2-b7a4-4cd6-b275-c77ceaa19ad0?embed=true&token=a998390da0f3f7dc9ffdbece6e451372" target="_blank" rel="noopener noreferrer">Pinboard</a>
-><iframe src="https://app.fobizz.com/pinboard/public_boards/62ce96e2-b7a4-4cd6-b275-c77ceaa19ad0?embed=true&token=a998390da0f3f7dc9ffdbece6e451372" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="700px" width="1200px" allowfullscreen sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
 
 
 ---
 
 ### Weiter im Modul Instruieren im Betrieb
 
-- [[20 Tag 2/30 Instruieren im Betrieb/30 Individuelle Ausbildungsplanung\|Individuelle Ausbildungsplanung]]
 - [[20 Tag 2/30 Instruieren im Betrieb/20 Methoden im Berufsalltag\|Methoden im Berufsalltag]]
+- [[20 Tag 2/30 Instruieren im Betrieb/30 Individuelle Ausbildungsplanung\|Individuelle Ausbildungsplanung]]
 - [[20 Tag 2/30 Instruieren im Betrieb/40 Feedback und Fazit\|Feedback und Fazit]]

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-03T19:32:34.493+01:00","modified":"2026-01-15T11:09:20.107+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-03T19:32:34.493+01:00","modified":"2026-03-19T09:50:11.630+01:00","cssclasses":""}
 ---
 
 ## Marktplatz Merkblätter
@@ -14,11 +14,11 @@
 > 
 > - ...Ihr eigenes Thema strukturiert aufbereiten und präsentieren können.
 >     
-> - ...die Kernaussagen von mindestens 8 verschiedenen Themen aktiv aufnehmen.
+> - ...die Kernaussagen von verschiedenen Themen aktiv aufnehmen.
 >     
 > - ...Handlungsmuster und Parallelen zwischen den Themen erkennen und diskutieren.
 >     
-> - ...Lösungsansätze für die offenen Fragen (die "1") im kollegialen Austausch entwickeln.
+> - ...Lösungsansätze für die offenen Fragen im kollegialen Austausch entwickeln.
 >     
 
 ---

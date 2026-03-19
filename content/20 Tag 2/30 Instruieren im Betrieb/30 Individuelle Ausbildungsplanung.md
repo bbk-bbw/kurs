@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-10T10:50:28.152+01:00","modified":"2026-01-15T12:57:25.676+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-10T10:50:28.152+01:00","modified":"2026-03-19T13:59:00.413+01:00","cssclasses":""}
 ---
 
 ## Phase 3: Detailplanung – Arbeitsplanung und Begleitung (Individualarbeit)
@@ -13,14 +13,12 @@
 >    -   **Der Wert von Fehlern** (S. 244)
 >    -   **Delegieren von Zuständigkeiten** (S. 245)
 >2.  **Individualarbeit (ca. 35 Min):** Wählen Sie eine komplexe Aufgabe, die Ihr/e Lernende/r künftig bearbeiten soll, und füllen Sie die Felder im Dokumentationstool unten gemäss der Vorlage aus.
->3.  **Abschluss:** Exportieren Sie Ihr Ergebnis als **PDF-Datei** und speichern Sie diese auf Ihrem Laptop. Sie benötigen sie in der nächsten Phase für das Peer-Feedback.
+>3.  **Abschluss:** Exportieren Sie Ihr Ergebnis als **PDF-Datei** und speichern Sie diese auf Ihrem Laptop. **Sie benötigen die PDF-Datei in der nächsten Phase für das Peer-Feedback**.
 
 >[!bug]- Dokumentationstool
 >
-><iframe name="myiFrame" width="100%" height="500px" src="https://app.fobizz.com/worksheet/worksheets/8a0cffb9-7162-4fc0-bec8-daeb5f017328/public_worksheet_responses/new?token=7656fd2b05886cd9342c4293821f09f3" scrolling="yes" marginwidth="0" marginheight="0" style="border:0px none #ffffff;"></iframe>
+><iframe name="myiFrame" width="100%" height="800px" src="https://app.fobizz.com/worksheet/worksheets/8a0cffb9-7162-4fc0-bec8-daeb5f017328/public_worksheet_responses/new?token=7656fd2b05886cd9342c4293821f09f3" scrolling="yes" marginwidth="0" marginheight="0" style="border:0px none #ffffff;"></iframe>
 
->[!abstract] Peer-Feedback und gemeinsames Fazit
->In der letzten Phase dieser Lerneinheit geht es darum, von den individuellen Lösungsansätzen der anderen zu profitieren. Durch gegenseitiges Feedback schärfen Sie Ihre Planung und durch den Austausch im Plenum sammeln wir gemeinsam Best Practices.
 
 > [!note] Peer-Feedback 
 > 4.  **Gruppe (ca. 15 Min):**

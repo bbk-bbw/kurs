@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-10T10:49:19.564+01:00","modified":"2026-03-19T08:14:12.890+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-10T10:49:19.564+01:00","modified":"2026-03-19T13:52:44.058+01:00","cssclasses":""}
 ---
 
 
@@ -10,7 +10,7 @@
 >- Eine **systematische Ausbildungsplanung** nach der 6-Schritte-Methode ist das Fundament für die Begleitung komplexer Lernprozesse.
 >- Als **Berufsbildner/in** wechseln Sie bewusst zwischen der Rolle des Instruktors und der des Lernbegleiters.
 
->[!success]- Lernziele
+>[!success] Lernziele
 >In dieser Einheit fokussieren wir auf den Vergleich der Methoden und die systematische Planung.
 >**Das Ziel dieses Moduls ist, dass…**
 >* …Sie die **Instruktionsmethode** und die **6-Schritte-Methode** vergleichen und deren jeweilige Anwendungsfelder im Berufsalltag identifizieren können (Lernziel 1).

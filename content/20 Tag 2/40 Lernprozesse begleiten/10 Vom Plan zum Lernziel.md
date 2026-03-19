@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-12T15:57:44.114+01:00","modified":"2026-03-19T09:54:21.845+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-12T15:57:44.114+01:00","modified":"2026-03-19T14:00:48.848+01:00","cssclasses":""}
 ---
 
 
@@ -30,7 +30,7 @@
 >    - **Diskutiert das Beispiel:** "Kundenreklamation bearbeiten"
 >      - *Ziel A (K1):* "Der Lernende kann die drei internen Schritte zur Bearbeitung aufzählen."
 >      - *Ziel B (K4/K6):* "Der Lernende kann die Reklamation analysieren und beurteilen, welche der drei Vorgehensweisen am besten geeignet ist, um den Kunden zufriedenzustellen."
->    - **Leitfrage:** Welchen Unterschied machen diese Formulierungen für den Lernenden und für eure Begleitung?
+>    - **Leitfrage:** Welchen Unterschied machen diese Formulierungen für den Lernenden und für eure Begleitung? 
 >
 >3.  **Einzelarbeit auf dem Pinboard (ca. 10 Min):** Jetzt arbeitet jede/r für sich direkt auf dem Pinboard.
 >    - Nehmt eure geplante Aufgabe zur Hand.

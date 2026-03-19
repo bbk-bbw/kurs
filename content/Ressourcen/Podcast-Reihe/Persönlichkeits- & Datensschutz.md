@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-03T14:59:06.006+01:00","modified":"2025-11-06T06:11:37.000+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-03T14:59:06.006+01:00","modified":"2026-03-19T08:13:16.026+01:00","cssclasses":""}
 ---
 
 ## Persönlichkeitsschutz und Datenschutz in der Berufsbildung
@@ -30,8 +30,8 @@ Der Podcast vermittelt praxisnah, wie **Datenschutz** und der **Schutz der Pers�
 >>- 4:48 – Kommunikationskultur & Balance finden  
 >>Wie kann eine offene Kommunikationskultur rechtliche Risiken minimieren? Wo liegt die Balance zwischen Aufsicht und Eigenverantwortung – besonders im digitalen Raum?
 
->[!bug] Pinboard
-><iframe src="https://tools.fobizz.com/pinboard/public_boards/7482d954-fce4-4692-a712-dab003716955?token=1b4e27d98d6b1d4d40b6913435d2dd00" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="700px" width="1200px" allowfullscreen></iframe>
+>[!bug] [Pinboard](https://tools.fobizz.com/pinboard/public_boards/7482d954-fce4-4692-a712-dab003716955?token=1b4e27d98d6b1d4d40b6913435d2dd00)
+
 
 >[! tip] Links & Ressourcen
 >- [Merkblatt 212 – Datenschutz und Persönlichkeitsschutz](https://www.berufsbildung.ch/de/dokumente/merkblatt-212-datenschutz-und-persoenlichkeitsschutz)

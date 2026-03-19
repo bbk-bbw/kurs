@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-03T14:59:05.991+01:00","modified":"2025-11-06T06:07:40.000+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-03T14:59:05.991+01:00","modified":"2026-03-19T08:11:58.662+01:00","cssclasses":""}
 ---
 
 ## Gewalt im Umfeld der Lehre – Verantwortung übernehmen  
@@ -32,7 +32,6 @@ In dieser Folge geht es um ein sensibles, aber zentrales Thema: **Gewalt im Ausb
 >>Wie schaffen Sie als Berufsbildner*in ein vertrauensvolles Klima, das Gewalt keinen Raum gibt? Prävention ist die wirksamste Schutzmassnahme.
 
 >[!bug] [Pinboard](https://tools.fobizz.com/pinboard/public_boards/7482d954-fce4-4692-a712-dab003716955?token=1b4e27d98d6b1d4d40b6913435d2dd00)
-><iframe src="https://tools.fobizz.com/pinboard/public_boards/7482d954-fce4-4692-a712-dab003716955?token=1b4e27d98d6b1d4d40b6913435d2dd00" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="700px" width="1200px" allowfullscreen></iframe>
 
 >[! tip] Links & Ressourcen
 >- [Merkblatt 201: Gewalt](https://www.berufsbildung.ch/de/dokumente/merkblatt-201-gewalt)

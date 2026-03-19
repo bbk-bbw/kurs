@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-03T14:59:05.997+01:00","modified":"2025-11-06T06:12:27.000+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-03T14:59:05.997+01:00","modified":"2026-03-19T08:12:44.811+01:00","cssclasses":""}
 ---
 
 ## Krankheit & Unfall – Was BerufsbildnerInnen wissen müssen  
@@ -31,8 +31,8 @@ Der Podcast beleuchtet alle **relevanten Versicherungsaspekte** und **Pflichten 
 >>Kennen Ihre Lernenden ihre Rechte? Werden sie über Schutzmechanismen informiert? Fürsorge heisst auch, über Absicherung aufzuklären und bewusst Verantwortung zu übernehmen.
 
 
->[!bug] Pinboard
-><iframe src="https://tools.fobizz.com/pinboard/public_boards/7482d954-fce4-4692-a712-dab003716955?token=1b4e27d98d6b1d4d40b6913435d2dd00" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="700px" width="1200px" allowfullscreen></iframe>
+>[!bug] [Pinboard](https://tools.fobizz.com/pinboard/public_boards/7482d954-fce4-4692-a712-dab003716955?token=1b4e27d98d6b1d4d40b6913435d2dd00)
+
 
 >[! tip] Links & Ressourcen
 >- [Merkblatt 203 zur Prävention und Handhabung von Krankheit und Unfall](https://www.berufsbildung.ch/de/dokumente/merkblatt-203-krankheit-und-unfall)

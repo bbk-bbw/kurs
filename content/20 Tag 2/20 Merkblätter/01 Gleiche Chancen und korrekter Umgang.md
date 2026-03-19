@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-03T13:59:29.286+01:00","modified":"2025-11-13T05:24:08.958+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-03T13:59:29.286+01:00","modified":"2026-03-19T07:31:19.102+01:00","cssclasses":""}
 ---
 
 ## Merkblattreihe «Gleiche Chancen und korrekter Umgang»
@@ -14,9 +14,9 @@
 >>
 >>**Unterschiedliche Persönlichkeiten**, **persönliche Probleme** der Lernenden oder auch **Konflikte** im Team können die Ausbildungszeit erschweren.  
 >>Tauschen Sie sich in Ihrer Gruppe über folgende Fragen aus und halten Sie die wichtigsten Punkte fest:
->>* Welche **Herausforderungen** sind Ihnen im **Umgang mit Lernenden** bereits begegnet?
+>>* Welche persönliche **Herausforderungen** sind Ihnen im **Umgang mit Lernenden** bereits begegnet?
 >>* **Inwiefern** haben alle Lernenden die **gleichen Chancen in der Ausbildung**?
->>* Welche Bedeutung hat ein **respektvolles und faires Miteinander im Betrieb** für die Ausbildung?
+
 
 > [!success] Lernziele
 >In diesem Modul beschäftigen wir uns mit der Merkblattreihe «**Gleiche Chancen und korrekter Umgang**».  Diese bietet Ihnen wertvolle Informationen und Handlungsempfehlungen für den Umgang mit **Herausforderungen** in der Ausbildung. **Das Ziel dieses Moduls ist, dass…**
@@ -26,27 +26,3 @@
 
 
 ---
-
-```dataviewjs
-const current = dv.current();
-const folderParts = current.file.folder.split("/");
-const folderName = folderParts.at(-1);
-const trimmedFolderName = folderName.substring(3); // Remove "20 ", "30 ", etc.
-
-dv.header(3, `Weiter im Modul ${trimmedFolderName}`);
-
-const pages = dv.pages()
-  .where(p =>
-    p.file.folder === current.file.folder &&
-    p.file.name > current.file.name &&
-    p.file.path !== current.file.path &&
-    p.publish === true // Only include notes with `publish: true` in frontmatter
-  );
-
-dv.list(
-  pages.map(p =>
-    dv.fileLink(p.file.path, false, p.file.name.substring(3)) // Trim filename display
-  )
-);
-
-

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-03T14:59:05.994+01:00","modified":"2026-03-19T08:09:50.603+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-03T14:59:05.994+01:00","modified":"2026-03-19T08:10:59.160+01:00","cssclasses":""}
 ---
 
 ## Gleichstellung und sexuelle Belästigung

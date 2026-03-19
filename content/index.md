@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Kurs für Berufsbildner - BBW Winterthur","created":"2026-01-15T10:14:21.897+01:00","modified":"2026-01-29T07:03:06.264+01:00","cssclasses":""}
+{"publish":true,"title":"Kurs für Berufsbildner - BBW Winterthur","created":"2026-01-15T10:14:21.897+01:00","modified":"2026-03-19T09:58:49.231+01:00","cssclasses":""}
 ---
 
 # Kurs für BerufsbildnerInnen
@@ -16,7 +16,7 @@
 
 >[!success] Navigieren Sie links durch die Modulen des Kurses.
 
-| Tag 1 <br>08/01/2026                                                                                                                             | Tag 2 (asynchron)<br>*Dokumentation*             | Tag 3<br>15/01/2026                                                                                           | Tag 4<br>22/01/2026                                                         | Tag 5 <br>29/01/2026                                                                                                     |
+| Tag 1 <br>19/03/2026                                                                                                                             | Tag 2 (asynchron)<br>*Dokumentation*             | Tag 3<br>19/03/2026                                                                                           | Tag 4<br>10/04/2026                                                         | Tag 5 <br>16/04/2026                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
 | [Vorstellungsrunde](https://tools.fobizz.com/pinboard/public_boards/27a44315-196b-4568-9abc-383629b3b296?token=4ee81fe91d10da9519f05bed25aabfa3) | [[50 Tag 5 Dokumentenmappe/00 Rahmenbedingungen]]                         | [Die Eigenheiten der Jugendlichen](https://bbk-bbw.github.io/kurs/20-Tag-2/10-Eigenheiten-junger-Erwachsener) | [Fokus Pubertät](https://bbk-bbw.github.io/kurs/30-Tag-3/10-Fokus-Pubertät) | [Vier-Ohren-Modell\|](https://bbk-bbw.github.io/kurs/40-Tag-4/10-Vier-Ohren-Modell/)                                     |
 | [Meine Rolle als Berufsbildner/in](https://bbk-bbw.github.io/kurs/10-Tag-1/10-Rolle-BerufsbildnerIn/)                                            | [[50 Tag 5 Dokumentenmappe/01 Auftrag «Auswahl und Anstellung»]]          | [[20 Tag 2/20 Merkblätter/01 Gleiche Chancen und korrekter Umgang\|Gleiche Chancen und korrekter Umgang]]                             | [Projektarbeit](https://bbk-bbw.github.io/kurs/30-Tag-3/20-Projektarbeit)   | [Gespräche&Konflikte](https://bbk-bbw.github.io/kurs/40-Tag-4/20-Gespr%C3%A4che-and-Konflikte/)                          |

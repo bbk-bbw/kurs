@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-12T15:58:00.066+01:00","modified":"2026-01-23T10:07:21.008+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-12T15:58:00.066+01:00","modified":"2026-04-10T08:06:28.979+02:00","cssclasses":""}
 ---
 
 
@@ -32,12 +32,11 @@
 
 **Ablauf**
  
- 1. **Lektüre & Perspektivwechsel (ca. 10 Min):** Lesen Sie im Handbuch das **Kapitel 4.5 (S. 255-257).** Denken Sie dabei an Ihre **eigene Lehrzeit**: Welche Art von **Gespräch nach einer Aufgabe** hat Ihnen am meisten gebracht?
-   
- 2. **Gruppenarbeit (ca. 10 Min):** Besprechen Sie in der Gruppe gute Fragen und halten Sie diese auf dem Fobizz Pinboard Ihrer Tischgruppe fest.
+ 1. **Lektüre & Perspektivwechsel (ca. 10 Min):** Überfliegen Sie im Handbuch das **Kapitel 4.5 (S. 255-257).** 
+ 2. Denken Sie dabei an Ihre **eigene Lehrzeit**: Welche Art von **Gespräch nach einer Aufgabe** hat Ihnen am meisten gebracht?
+ 3. **Gruppenarbeit (ca. 10 Min):** Besprechen Sie in der Gruppe gute formative Fragen oder Verhaltensweisen des Berufsbildners und halten Sie diese auf dem Fobizz Pinboard Ihrer Tischgruppe fest.
 
-> [!bug]- [Pinboard](https://app.fobizz.com/pinboard/public_boards/0454999e-79dd-44d1-ac51-13b12012f0fa?token=229148a38db484b6700d530853e87672) Fragesammlung
-><iframe src="https://app.fobizz.com/pinboard/public_boards/0454999e-79dd-44d1-ac51-13b12012f0fa?token=229148a38db484b6700d530853e87672" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="700px" width="1200px" allowfullscreen></iframe>
+> [!bug]- <a href="https://app.fobizz.com/pinboard/public_boards/0454999e-79dd-44d1-ac51-13b12012f0fa?token=229148a38db484b6700d530853e87672" target="_blank">Pinboard</a> Fragesammlung
 
 ### Weiter im Modul Projektarbeit
 

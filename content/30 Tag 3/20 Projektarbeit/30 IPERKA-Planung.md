@@ -1,11 +1,11 @@
 ---
-{"publish":true,"created":"2026-01-15T09:26:55.511+01:00","modified":"2025-11-21T05:55:17.000+01:00","cssclasses":""}
+{"publish":true,"created":"2026-01-15T09:26:55.511+01:00","modified":"2026-04-10T08:03:21.532+02:00","cssclasses":""}
 ---
 
 
 > [!task] Arbeitsauftrag
 > - Jetzt setzen wir die Theorie in die Praxis um. Sie erstellen einen konkreten Projektplan für Ihren Lernenden.
-> - Nutzen Sie Ihre Notizen aus dem "Theorie-Baukasten", um die 6 Schritte unten auszufüllen.
+> - Nutzen Sie Ihre Notizen aus dem "Theorie-Baukasten" (vorherigen Schritt), um die 6 Schritte unten auszufüllen.
 
 <iframe name="myiFrame" width="100%" height="720px" src="https://bbk-bbw.github.io/bbk_box/index.html?id=iperka" scrolling="no" marginwidth="0" marginheight="0" style="border:0px none #ffffff;"></iframe>
 

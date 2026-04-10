@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-10T10:50:28.152+01:00","modified":"2026-04-10T06:56:12.696+02:00","cssclasses":""}
+{"publish":true,"created":"2025-11-10T10:50:28.152+01:00","modified":"2026-04-10T08:03:56.977+02:00","cssclasses":""}
 ---
 
 ## Phase 3: Detailplanung – Arbeitsplanung und Begleitung (Individualarbeit)
@@ -19,7 +19,7 @@
 >
 ><iframe name="myiFrame" width="100%" height="720px" src="https://bbk-bbw.github.io/bbk_box/index.html?id=arbeitsplanung-begleitung" scrolling="no" marginwidth="0" marginheight="0" style="border:0px none #ffffff;"></iframe>
 >
-><iframe name="myiFrame" width="100%" height="800px" src="https://app.fobizz.com/worksheet/worksheets/8a0cffb9-7162-4fc0-bec8-daeb5f017328/public_worksheet_responses/new?token=7656fd2b05886cd9342c4293821f09f3" scrolling="yes" marginwidth="0" marginheight="0" style="border:0px none #ffffff;"></iframe>
+
 
 
 > [!note] Peer-Feedback 

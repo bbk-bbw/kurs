@@ -1,8 +1,9 @@
 ---
-{"publish":true,"created":"2026-01-15T09:54:40.855+01:00","modified":"2026-04-16T06:39:42.856+02:00","cssclasses":""}
+{"publish":true,"created":"2026-01-15T09:54:40.855+01:00","modified":"2026-04-16T06:44:09.193+02:00","cssclasses":""}
 ---
 
 # 
+
 >[!abstract] Fazit
 >* **Motivation ist der Schlüssel zum Lernerfolg** 
 >👉 Motivierte Lernende sind engagierter, leistungsfähiger und zufriedener.

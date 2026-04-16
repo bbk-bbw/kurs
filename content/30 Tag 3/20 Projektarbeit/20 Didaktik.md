@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-01-15T09:26:55.514+01:00","modified":"2026-04-10T08:02:42.749+02:00","cssclasses":""}
+{"publish":true,"created":"2026-01-15T09:26:55.514+01:00","modified":"2026-04-16T07:49:44.229+02:00","cssclasses":""}
 ---
 
 
@@ -12,7 +12,8 @@
 > - B 4.5 Selbstreflexion und Selbstbeurteilung
 > - B 4.6 Beurteilung
 > - B 4.7 Taxonomie von Lernziele.
-> 1. Sammeln Sie auf den 4 Seiten unten Ihre "Bausteine" (Verben, Fragen, Kriterien). Sie werden diese Notizen im nächsten Schritt benötigen, um Ihren Projektplan zu erstellen. 👉 **Drucken Sie Ihre Antworten als PDF**
+> 1. Sammeln Sie auf den 4 Seiten unten Ihre "Bausteine" (Verben, Fragen, Kriterien). Sie werden diese Notizen im nächsten Schritt benötigen, um Ihren Projektplan zu erstellen. 
+> ==👉 **Drucken Sie Ihre Antworten als PDF**==
 
 >[!abstract] Auftrag
 >

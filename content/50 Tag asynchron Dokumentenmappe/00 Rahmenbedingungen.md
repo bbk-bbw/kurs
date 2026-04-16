@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-01-15T12:31:30.174+01:00","modified":"2026-04-16T07:52:15.427+02:00","cssclasses":""}
+{"publish":true,"created":"2025-11-03T13:38:40.697+01:00","modified":"2026-04-16T07:52:15.361+02:00","cssclasses":""}
 ---
 
 ## Rahmenbedingungen
@@ -11,10 +11,10 @@ Es ist den TeilnehmerInnen freigestellt, wo und wann sie an den Aufträgen arbei
 - Form: entweder elektronisch oder auf Papier
 - 👉 [Download Dokumentenmappe Word-Datei](https://bbwch-my.sharepoint.com/:w:/g/personal/pietro_rossi_bbw_ch/ESYOgQkWdwVKvAwVvLfZwMcBXtxHTz4tJNiqHvsGZKMV7A?e=U3ZGfC)
 ### Aufträge
-- [ ] [[Ressourcen/Dokumentenmappe/01 Auftrag «Auswahl und Anstellung»]]
-- [ ] [[Ressourcen/Dokumentenmappe/02 Auftrag Integration in den Lehrbetrieb]]
-- [ ] [[Ressourcen/Dokumentenmappe/03 Auftrag Planung betriebliche Grundbildung]]
-- [ ] [[Ressourcen/Dokumentenmappe/04 Auftrag Fokus Pubertät]]
+- [ ] [[50 Tag asynchron Dokumentenmappe/01 Auftrag «Auswahl und Anstellung»]]
+- [ ] [[50 Tag asynchron Dokumentenmappe/02 Auftrag Integration in den Lehrbetrieb]]
+- [ ] [[50 Tag asynchron Dokumentenmappe/03 Auftrag Planung betriebliche Grundbildung]]
+- [ ] [[50 Tag asynchron Dokumentenmappe/04 Auftrag Fokus Pubertät]]
 
 ### Kontaktdaten Kursleiter: 
 Pietro Rossi, 076 592 61 14, pietro.rossi[@]bbw.ch

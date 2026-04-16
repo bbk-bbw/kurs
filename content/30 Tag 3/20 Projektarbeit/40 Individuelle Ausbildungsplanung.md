@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-10T10:50:28.152+01:00","modified":"2026-04-10T08:03:56.977+02:00","cssclasses":""}
+{"publish":true,"created":"2025-11-10T10:50:28.152+01:00","modified":"2026-04-16T07:46:58.384+02:00","cssclasses":""}
 ---
 
 ## Phase 3: Detailplanung – Arbeitsplanung und Begleitung (Individualarbeit)
@@ -8,12 +8,17 @@
 >Jetzt geht es an die konkrete Umsetzung. Sie wenden das vertiefte Wissen individuell auf eine selbst gewählte Ausbildungsaufgabe an. Dies trainiert die systematische Planung für Ihre eigenen, spezifischen Herausforderungen.
 
 >#### Ablauf
->1.  **Lektüre (ca. 5-10 Min):** Lesen Sie vertiefend die Abschnitte im Handbuch zu:
+>1.  **Lektüre (ca. 5-10 Min):** Lesen Sie die Abschnitte im Handbuch zu:
 >    -   **Arbeitsplanung** (Fragenkatalog auf S. 244)
 >    -   **Der Wert von Fehlern** (S. 244)
 >    -   **Delegieren von Zuständigkeiten** (S. 245)
+>
+>>[!abstract]- Handbuch 244-245
+>>
+>>![[assets/244-245.pdf]]
+>
 >2.  **Individualarbeit (ca. 35 Min):** Wählen Sie eine komplexe Aufgabe, die Ihr/e Lernende/r künftig bearbeiten soll, und füllen Sie die Felder im Dokumentationstool unten gemäss der Vorlage aus.
->3.  **Abschluss:** Exportieren Sie Ihr Ergebnis als **PDF-Datei** und speichern Sie diese auf Ihrem Laptop. **Sie benötigen die PDF-Datei in der nächsten Phase für das Peer-Feedback**.
+>3.  **Abschluss:** ==Exportieren Sie Ihr Ergebnis als **PDF-Datei**== und speichern Sie diese auf Ihrem Laptop. **Sie benötigen die PDF-Datei in der nächsten Phase für das Peer-Feedback**.
 
 >[!bug] Dokumentationstool
 >

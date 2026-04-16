@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-01-15T09:54:40.999+01:00","modified":"2025-12-03T22:03:07.000+01:00","cssclasses":""}
+{"publish":true,"created":"2026-01-15T09:54:40.999+01:00","modified":"2026-04-16T08:02:13.115+02:00","cssclasses":""}
 ---
 
 ## Beziehungsstörungen und ihre Auswirkungen auf die Ausbildung
@@ -20,7 +20,7 @@
 > - **Strategien** entwickeln können, um auf entsprechende Verhaltensweisen professionell zu reagieren.
 > - **Individuelle Unterstützungsmassnahmen** für Lernende planen und umsetzen können.
 
->[!question]- Teil I - **Die Beziehungsstörungen**
+>[!question] Teil I - **Die Beziehungsstörungen**
 > 
 >**Lesen Sie die Kapitel:**
 > 
@@ -33,7 +33,7 @@
 >> - **Wie könnte sich diese Beziehungsstörung auf das Verhalten im Ausbildungsalltag auswirken?**
 ## Beziehungsstörungen im Detail
 
->[!info]- Partnerschaftlichkeit
+>[!info] Partnerschaftlichkeit
 >
 >Die **partnerschaftliche Erziehung** hat sich in den letzten Jahrzehnten stark verändert. Früher wurden partnerschaftliche Umgangsformen hauptsächlich gegenüber älteren Kindern oder Jugendlichen angewandt. Die Erziehung basierte auf einem **traditionellen Hierarchiedenken**, kombiniert mit modernen Ansätzen, bei denen Kinder verstehen sollten, warum etwas erlaubt oder verboten ist.
 >
@@ -47,7 +47,7 @@
 >
 >**Beispiel:** Ein Lernender, der es gewohnt ist, auf Augenhöhe mit Erwachsenen zu verhandeln, könnte Anweisungen seines Ausbilders ständig in Frage stellen und nicht akzeptieren.
 
->[!info]- Projektion
+>[!info] Projektion
 >
 >Bei der **Projektion** übertragen Eltern ihre eigenen **Wünsche**, **Bedürfnisse** oder **Ängste** auf das Kind. Sie erwarten, dass das Kind das erfüllt, was sie selbst nicht erreichen konnten oder vermissen.
 >
@@ -58,7 +58,7 @@
 >
 >**Beispiel:** Eine Lernende fühlt sich schuldig, wenn sie nicht die Erwartungen ihrer Eltern erfüllt, und zeigt Anzeichen von **Perfektionismus** und **Angst vor Fehlern** im Ausbildungsalltag.
 
->[!info]- Symbiose
+>[!info] Symbiose
 >
 >In einer **symbiotischen Beziehung** verschmelzen die **Identitäten** von Eltern und Kind. Die Eltern leben durch das Kind und erkennen es nicht als eigenständige Person.
 >
@@ -83,7 +83,7 @@
   allowfullscreen>
 </iframe>
 
->[!question]- Teil II **Gruppenarbeit**
+>[!question] Teil II **Gruppenarbeit**
 >
 >Wir teilen uns in drei Gruppen auf. Jede Gruppe erhält einen der folgenden Texte:
 >

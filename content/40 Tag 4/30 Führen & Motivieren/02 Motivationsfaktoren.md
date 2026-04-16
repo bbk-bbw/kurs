@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-01-15T09:54:40.863+01:00","modified":"2026-04-16T06:25:31.269+02:00","cssclasses":""}
+{"publish":true,"created":"2026-01-15T09:54:40.863+01:00","modified":"2026-04-16T07:57:32.182+02:00","cssclasses":""}
 ---
 
 >[!abstract] **Überfliegen** Sie die **Seiten 158-159 im Handbuch**. Machen Sie sich mit den verschiedenen **Motivationsfaktoren** und der **Checkliste** «**Motivation fördern und pflegen**» vertraut.
@@ -28,6 +28,3 @@
 >>**Anwendung der Motivationsfaktoren aus dem Handbuch:**
 >>	- Wählen Sie einen der im Lehrmittel genannten **Motivationsfaktoren** aus. 
 >>	- Wie können Sie diesen konkret in Ihrem Berufsalltag umsetzen, und welche Ergebnisse erhoffen Sie sich davon?
-
-## Weiter
-[[40 Tag 4/30 Führen & Motivieren/03 Fallbeispiele]]

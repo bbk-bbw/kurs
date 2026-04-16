@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-01-15T09:54:40.965+01:00","modified":"2026-04-16T07:05:21.469+02:00","cssclasses":""}
+{"publish":true,"created":"2026-01-15T09:54:40.965+01:00","modified":"2026-04-16T07:23:02.887+02:00","cssclasses":""}
 ---
 
 ## Zielformulierung: Struktur und Klarheit
@@ -11,12 +11,14 @@
 >![[assets/Pasted image 20260129051503.png]]
 >
 >>[!example] Beispiel: Mündliche Beteiligung (Französisch)
+>>
 >>„Ich werde mich **ab sofort** bis zu den **Sommerferien** (Terminiert) in jeder Französischstunde **mindestens zweimal** (Messbar) mit einem qualitativen Beitrag **melden** (Spezifisch), um meine mündliche Note zu verbessern (Relevant/Erreichbar).“
 >
 >* **W-Fragen:** Durch gezielte Fragen wie „Was soll erreicht werden?“, „Wie wird der Erfolg gemessen?“ und „Bis wann soll das Ziel erreicht sein?“ können realistische und sinnvolle Ziele entwickelt werden.
 > ![[assets/Pasted image 20260129051518.png]]
 > 
 >>[!example] Beispiel: Gruppenpräsentation
+>>
 >>* **Was soll erreicht werden?** Eine fertige, 10-minütige PowerPoint-Präsentation zum Thema „Klimawandel“.
 >>* **Wie wird der Erfolg gemessen?** Die Präsentation enthält 5 Folien, ein Handout für die Mitschüler/innen und wurde einmal zur Probe vorgetragen.
 >>* **Bis wann soll das Ziel erreicht sein?** Bis nächsten Dienstag um 16:00 Uhr.
@@ -25,6 +27,7 @@
 >![[assets/Pasted image 20260129052151.png]]
 >
 >>[!example] Beispiel: Vokabeltraining (Englisch)
+>>
 >>* **Inhalt (Was):** Lernen der Vokabeln aus Unit 4 (Thema: Globalisierung).
 >>* **Ausmass (Wie viel):** Alle 40 neuen Wörter müssen schriftlich und fehlerfrei aus dem Gedächtnis abgerufen werden können.
 >>* **Zeit (Wann):** Bis diesen Freitagabend vor dem Schlafengehen.

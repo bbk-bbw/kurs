@@ -1,9 +1,13 @@
 ---
-{"publish":true,"created":"2026-01-15T09:54:40.982+01:00","modified":"2026-01-29T04:57:23.515+01:00","cssclasses":""}
+{"publish":true,"created":"2026-01-15T09:54:40.982+01:00","modified":"2026-04-16T06:27:33.818+02:00","cssclasses":""}
 ---
 
 >[!note] <span style="font-size: 20px;">Überfliegen Sie die **Seiten 135-136 im Handbuch**. Überlegen Sie, welche **konkreten Ziele** Sie mit der Lerndokumentation in Ihrem Ausbildungskontext verfolgen.</span> 
 >**Besprechen Sie in Ihrer Gruppe, welche Bedeutung die Lerndokumentation in Ihren jeweiligen Berufen hat und welche Unterschiede und Gemeinsamkeiten es zwischen den verschiedenen Berufen gibt. Wie haben Sie es während der Lehre gemacht? Wie wird es jetzt im Betrieb gehandhabt?**
+>>[!abstract]- Handbuch 135-136
+>>
+>>![[assets/135-136.pdf]]
+>
 >---
 >
 >Führen Sie eine Diskussion zu... 

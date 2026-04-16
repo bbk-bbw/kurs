@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-01-15T09:54:40.858+01:00","modified":"2026-01-15T12:15:03.303+01:00","cssclasses":""}
+{"publish":true,"created":"2026-01-15T09:54:40.858+01:00","modified":"2026-04-16T06:38:27.864+02:00","cssclasses":""}
 ---
 
 ### Auftrag - Lösungsansätze zu Fallbeispiele entwickeln
@@ -30,28 +30,32 @@
 >[!info] **Hinweise zur Bearbeitung:**
 >- Nutzen Sie die im **Handbuch** (S. 159) vorgestellten **Strategien zur Motivation von Lernenden**.
 >- Teilen Sie **verschiedene Ideen** innerhalb Ihrer Gruppe, wie Sie mit der Situation **in Ihrem Betrieb umgehen würden**.
-
+>
+>>[!abstract]- Handbuch 159
+>>
+>>![[assets/handbuch-betriebliche-grundbildung 159.pdf]]
+>
 ---
 
->[!note]- **Fallbeispiel Rot: Die unmotivierte Kauffrau**
->[Link Pinboard Bearbeiten](https://app.fobizz.com/pinboard/public_boards/9bdb4c32-e25f-4159-a040-fa102a475884?token=33d6e6e717a47cbf05801eb25af6825e)
-><iframe src="https://app.fobizz.com/pinboard/public_boards/9bdb4c32-e25f-4159-a040-fa102a475884?token=33d6e6e717a47cbf05801eb25af6825e" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="700px" width="100%" allowfullscreen></iframe>
+>[!example] **Fallbeispiel Rot: Die unmotivierte Kauffrau**
+><a href="https://app.fobizz.com/pinboard/public_boards/9bdb4c32-e25f-4159-a040-fa102a475884?token=33d6e6e717a47cbf05801eb25af6825e" target="_blank">📌 Link Pinboard Bearbeiten</a>
+>
 
->[!note]- **Fallbeispiel Grün: Der frustrierte Polymechaniker**
->[Link Pinboard Bearbeiten](https://app.fobizz.com/pinboard/public_boards/f075c2e6-a27f-4639-af99-6fc84779b9f1?token=3bebecae48a6656661690f8a7264ce72)
-><iframe src="https://app.fobizz.com/pinboard/public_boards/f075c2e6-a27f-4639-af99-6fc84779b9f1?token=3bebecae48a6656661690f8a7264ce72" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="700px" width="100%" allowfullscreen></iframe>
+>[!example] **Fallbeispiel Grün: Der frustrierte Polymechaniker**
+><a href="https://app.fobizz.com/pinboard/public_boards/f075c2e6-a27f-4639-af99-6fc84779b9f1?token=3bebecae48a6656661690f8a7264ce72" target="_blank">📌 Link Pinboard Bearbeiten</a>
+>
 
->[!note]- **Fallbeispiel Grau: Die konfliktscheue Detailhandelsfachfrau**
->[Link Pinboard Bearbeiten](https://app.fobizz.com/pinboard/public_boards/34afc874-692a-4661-bb79-69cc7a8c348f?token=b185818b5e71b66b1cbd5aba24483401)
-><iframe src="https://app.fobizz.com/pinboard/public_boards/34afc874-692a-4661-bb79-69cc7a8c348f?token=b185818b5e71b66b1cbd5aba24483401" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="700px" width="100%" allowfullscreen></iframe>
+>[!example] **Fallbeispiel Grau: Die konfliktscheue Detailhandelsfachfrau**
+><a href="https://app.fobizz.com/pinboard/public_boards/34afc874-692a-4661-bb79-69cc7a8c348f?token=b185818b5e71b66b1cbd5aba24483401" target="_blank">📌 Link Pinboard Bearbeiten</a>
+>
 
->[!note]- **Fallbeispiel Orange: Der unkonzentrierte Informatiker**
->[Link Pinboard Bearbeiten](https://app.fobizz.com/pinboard/public_boards/e31e8b3c-b130-41f9-ad5c-baeb8a2fd203?token=90f608955532d17ea544d0f2bc6cd664)
-><iframe src="https://app.fobizz.com/pinboard/public_boards/e31e8b3c-b130-41f9-ad5c-baeb8a2fd203?token=90f608955532d17ea544d0f2bc6cd664" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="700px" width="100%" allowfullscreen></iframe>
+>[!example] **Fallbeispiel Orange: Der unkonzentrierte Informatiker**
+><a href="https://app.fobizz.com/pinboard/public_boards/e31e8b3c-b130-41f9-ad5c-baeb8a2fd203?token=90f608955532d17ea544d0f2bc6cd664" target="_blank">📌 Link Pinboard Bearbeiten</a>
+>
 
->[!note]- **Fallbeispiel Blau: Die ehrgeizige Köchin**
->[Link Pinboard Bearbeiten](https://tools.fobizz.com/pinboard/public_boards/ce76b5e9-c6ec-41ac-9a9b-e41580719de9?token=2b48613957de5e43be0e3ea74560f27c)
-><iframe src="https://tools.fobizz.com/pinboard/public_boards/ce76b5e9-c6ec-41ac-9a9b-e41580719de9?token=2b48613957de5e43be0e3ea74560f27c" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="700px" width="100%" allowfullscreen></iframe>
+>[!example] **Fallbeispiel Blau: Die ehrgeizige Köchin**
+><a href="https://tools.fobizz.com/pinboard/public_boards/ce76b5e9-c6ec-41ac-9a9b-e41580719de9?token=2b48613957de5e43be0e3ea74560f27c" target="_blank">📌 Link Pinboard Bearbeiten</a>
+>
 
 
 ---

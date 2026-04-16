@@ -1,8 +1,9 @@
 ---
-{"publish":true,"created":"2026-01-15T10:15:00.446+01:00","modified":"2026-03-12T08:00:11.721+01:00","cssclasses":""}
+{"publish":true,"created":"2026-01-15T10:15:00.446+01:00","modified":"2026-04-16T06:13:46.614+02:00","cssclasses":""}
 ---
 
 ## Stundentafel
+![[assets/Stundentafel__26BBK2.pdf]]
 ![[assets/Stundentafel__26BBK2.pdf]]
 
 ## Berufsbildung-Links

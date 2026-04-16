@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-01-15T09:54:40.728+01:00","modified":"2026-04-16T05:46:05.282+02:00","cssclasses":""}
+{"publish":true,"created":"2026-01-15T09:54:40.728+01:00","modified":"2026-04-16T06:05:52.461+02:00","cssclasses":""}
 ---
 
 ## Auftrag: Analyse und Verbesserung von Feedbackgesprächen mit dem Vier-Ohren-Modell
@@ -21,7 +21,8 @@
    - Diskutieren Sie in Ihrer Gruppe, wie sich die Personen im Gespräch gefühlt haben könnten und welche Missverständnisse aufgetreten sind.
    - Entwickeln Sie Verbesserungen für das Gespräch unter Anwendung des Vier-Ohren-Modells.
    - Überlegen Sie, wie die Kommunikation auf den vier Ebenen verbessert werden kann.
-   - Notieren Sie die Ergebnisse auf dem Gruppen-PinBoard.
+   - Notieren Sie die Ergebnisse auf dem **Gruppen-PinBoard**.
+
 > [!warning] Achten Sie bei der Analyse auf folgende Punkte:
 > 
 > - **Sachinhalt:** Welche Informationen wurden ausgetauscht?
@@ -49,7 +50,7 @@
 >**BerufsbildnerIn:**
 >"Ich kann nicht ständig deine Fehler ausbügeln. Mach deine Arbeit ordentlich, oder lass es bleiben."
 >
->[Link Pinboard Bearbeiten](https://app.fobizz.com/pinboard/public_boards/285fb151-aa6b-4a0c-9a54-f864c7502748?token=a1af96981b002441217d1dd837663ce9)
+><a href="https://app.fobizz.com/pinboard/public_boards/285fb151-aa6b-4a0c-9a54-f864c7502748?token=a1af96981b002441217d1dd837663ce9" target="_blank">👉 Link Gruppen-PinBoard</a>
 
 >[!note]- Gruppe Blau
 >### Gespräch
@@ -69,7 +70,8 @@
 >**BerufsbildnerIn:**
 >"Pass besser auf und hör zu, wenn ich dir etwas erkläre. So kann das nicht weitergehen."
 >
->[Link Pinboard Bearbeiten](https://app.fobizz.com/pinboard/public_boards/5835ee3a-7ac3-4b81-babc-c82725ae5d5a?token=71ee8579c7d2a8fad6e4f0f243d1a615)
+>[Link Pinboard Bearbeiten]()
+><a href="https://app.fobizz.com/pinboard/public_boards/5835ee3a-7ac3-4b81-babc-c82725ae5d5a?token=71ee8579c7d2a8fad6e4f0f243d1a615" target="_blank">👉 Link Gruppen-PinBoard</a>
 
 >[!note]- Gruppe Grau
 >### Gespräch
@@ -92,7 +94,7 @@
 >**Lernender:**
 >"Ich möchte wirklich lernen und mich verbessern. Bitte geben Sie mir eine Chance."
 >
->[Link Pinboard Bearbeiten](https://app.fobizz.com/pinboard/public_boards/bc2e3d11-14c1-4f27-a7b0-fed03270aa7b?token=b9f3942c03fb4886a72ecbf791438e29)
+><a href="https://app.fobizz.com/pinboard/public_boards/bc2e3d11-14c1-4f27-a7b0-fed03270aa7b?token=b9f3942c03fb4886a72ecbf791438e29" target="_blank">👉 Link Gruppen-PinBoard</a>
 
 >[!note]- Gruppe Grün
 >### Gespräch
@@ -112,7 +114,7 @@
 >**BerufsbildnerIn:**
 >"Vielleicht solltest du einfach aufmerksamer im Unterricht sein und dich mehr anstrengen, anstatt nach zusätzlichen Hilfsmitteln zu fragen."
 >
->[Link Pinboard Bearbeiten](https://app.fobizz.com/pinboard/public_boards/f9715e6f-ddfd-4127-9416-261cf3bc52fc?token=1dd8d41a4150a55187f8b47d9f277658)
+><a href="https://app.fobizz.com/pinboard/public_boards/f9715e6f-ddfd-4127-9416-261cf3bc52fc?token=1dd8d41a4150a55187f8b47d9f277658" target="_blank">👉 Link Gruppen-PinBoard</a>
 
 >[!note]- Gruppe Rot
 >### Gespräch
@@ -135,7 +137,7 @@
 >**Lernende:**
 >"Ich möchte wirklich lernen und mich verbessern. Bitte geben Sie mir eine Chance."
 >
->[Link Pinboard Bearbeiten](https://app.fobizz.com/pinboard/public_boards/3e144a8b-6e94-4613-99b4-c58543100bd4?token=25b8390f70bb93a18ac05c6ce722dbb9)
+><a href="https://app.fobizz.com/pinboard/public_boards/3e144a8b-6e94-4613-99b4-c58543100bd4?token=25b8390f70bb93a18ac05c6ce722dbb9" target="_blank">👉 Link Gruppen-PinBoard</a>
 
 
 > [!question] Reflexionsfragen

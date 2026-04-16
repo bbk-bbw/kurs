@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Kurs für Berufsbildner - BBW Winterthur","created":"2026-01-15T10:14:21.897+01:00","modified":"2026-03-19T09:58:49.231+01:00","cssclasses":""}
+{"publish":true,"title":"Kurs für Berufsbildner - BBW Winterthur","created":"2026-01-15T10:14:21.897+01:00","modified":"2026-04-16T06:13:08.488+02:00","cssclasses":""}
 ---
 
 # Kurs für BerufsbildnerInnen
@@ -27,4 +27,27 @@
 
 >[!info] [[Ressourcen/Handbuch Betriebliche Grundbildung]]
 
- [[Ressourcen/Termine\|Kursdaten]]
+
+## Stundentafel
+![[assets/Stundentafel__26BBK2.pdf]]
+![[assets/Stundentafel__26BBK2.pdf]]
+
+## Berufsbildung-Links
+[Das offizielle schweizerische Informationsportal der Berufs-, Studien- und Laufbahnberatung - berufsberatung.ch](https://www.berufsberatung.ch/dyn/show/1418)
+- [ ] *Für alle Fragen rund um Lehrstellen, Berufe, Aus- und Weiterbildungen.*
+
+[Das offizielle schweizerische Portal der Berufsbildung | berufsbildung.ch](https://www.berufsbildung.ch/de)
+- [ ] *Angebot an wichtigen Arbeitsinstrumenten für die Praxis der Berufsbildung.*
+
+[SDBB | CSFO - Shop - Berufsbildung](https://shop.sdbb.ch/berufsbildung-1.html)
+- [ ] *Das Schweizerisches Dienstleistungszentrum Berufsbildung bietet Materialien rund um die Berufslehre.*
+
+[Mittelschul- und Berufsbildungsamt | Kanton Zürich](https://www.zh.ch/de/bildungsdirektion/mittelschul-berufsbildungsamt.html)
+- [ ] *Für Lehrbetriebe in Kanton Zürich*
+- [ ] *Für andere Kantone 👉 [Kantonale Anlaufstellen](https://www.berufsbildung.ch/de/kantonale-anlaufstellen)*
+
+[Berufslehre | Kanton Zürich](https://www.zh.ch/de/bildung/berufslehre.html)
+- [ ] *Informationen rund um die Berufslehre vom Kanton Zürich.*
+
+[Bulletin Berufsbildung | Kanton Zürich](https://www.zh.ch/de/bildung/berufslehre/bulletin-berufsbildung.html)
+- [ ] *Das Bulletin Berufsbildung informiert über Neuigkeiten, Veranstaltungen und Themen aus der Berufsbildung.*

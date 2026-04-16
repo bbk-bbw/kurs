@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-01-15T09:54:40.728+01:00","modified":"2026-04-16T06:05:52.461+02:00","cssclasses":""}
+{"publish":true,"created":"2026-01-15T09:54:40.728+01:00","modified":"2026-04-16T08:07:50.917+02:00","cssclasses":""}
 ---
 
 ## Auftrag: Analyse und Verbesserung von Feedbackgesprächen mit dem Vier-Ohren-Modell
@@ -33,7 +33,7 @@
 ## Gespräche
 
 >[!note]- Gruppe Orange
->### Gespräch
+>
 >**BerufsbildnerIn:**
 >
 >"Was hast du dir denn bei der Installation dieser Beleuchtungsanlage gedacht? Die Kabel hängen herum, und die Lampen funktionieren nicht richtig. Hast du überhaupt aufgepasst, als wir das besprochen haben?"
@@ -53,7 +53,7 @@
 ><a href="https://app.fobizz.com/pinboard/public_boards/285fb151-aa6b-4a0c-9a54-f864c7502748?token=a1af96981b002441217d1dd837663ce9" target="_blank">👉 Link Gruppen-PinBoard</a>
 
 >[!note]- Gruppe Blau
->### Gespräch
+>
 >
 >**BerufsbildnerIn:**
 >"Deine Arbeit heute war echt unter aller Sau. Was hast du dir dabei gedacht?"
@@ -74,7 +74,7 @@
 ><a href="https://app.fobizz.com/pinboard/public_boards/5835ee3a-7ac3-4b81-babc-c82725ae5d5a?token=71ee8579c7d2a8fad6e4f0f243d1a615" target="_blank">👉 Link Gruppen-PinBoard</a>
 
 >[!note]- Gruppe Grau
->### Gespräch
+>
 >
 >**BerufsbildnerIn:**
 >"Was soll das denn sein? Du hast den ganzen Vormittag gebraucht, um diese Mauer zu bauen, und sie steht krumm und schief. Hast du überhaupt eine Ahnung vom Mauern?"
@@ -97,7 +97,7 @@
 ><a href="https://app.fobizz.com/pinboard/public_boards/bc2e3d11-14c1-4f27-a7b0-fed03270aa7b?token=b9f3942c03fb4886a72ecbf791438e29" target="_blank">👉 Link Gruppen-PinBoard</a>
 
 >[!note]- Gruppe Grün
->### Gespräch
+>
 >
 >**BerufsbildnerIn:**
 >"Die Ergebnisse deines letzten Tests waren ziemlich enttäuschend. Du solltest wohl mehr lernen, anstatt immer nur mit deinen Freunden abzuhängen."
@@ -117,7 +117,7 @@
 ><a href="https://app.fobizz.com/pinboard/public_boards/f9715e6f-ddfd-4127-9416-261cf3bc52fc?token=1dd8d41a4150a55187f8b47d9f277658" target="_blank">👉 Link Gruppen-PinBoard</a>
 
 >[!note]- Gruppe Rot
->### Gespräch
+>
 >
 >**BerufsbildnerIn:**
 >"Die Berichte, die du diesen Monat erstellt hast, sind einfach miserabel. Hast du überhaupt irgendeine Ahnung, wie man eine ordentliche Analyse schreibt?"

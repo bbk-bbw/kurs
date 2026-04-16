@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-01-15T09:54:40.735+01:00","modified":"2026-01-15T12:15:02.917+01:00","cssclasses":""}
+{"publish":true,"created":"2026-01-15T09:54:40.735+01:00","modified":"2026-04-16T08:06:47.051+02:00","cssclasses":""}
 ---
 
 ## Das Vier-Ohren-Modell im Detail
@@ -64,6 +64,7 @@ Reflexion:
 > 2. Welche Botschaften könnten auf den verschiedenen Ebenen mitgeschwungen haben?
 > 3. Welche Missverständnisse könnten entstehen?
 > 4. Wie hätte man diese Missverständnisse verhindern können?
+>
 ><audio controls><source src="https://download-media.srf.ch/world/audio/WortSchatz_radio/2015/10/WortSchatz-radio_a88ae59d20e546b2af48981d782e0f0a.mp3"></audio>
 >Quelle: [Quelle](https://www.srf.ch/audio/wortschatz/untermiete-von-carol-blanc?id=dd6ca264-cc45-4159-a05c-c8ad617d68f3#autoplay)
 
